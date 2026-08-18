@@ -1,0 +1,1869 @@
+{
+  "schemaVersion": 1,
+  "kind": "certification_directory",
+  "capturedAt": "2026-08-09",
+  "source": {
+    "id": "bluesign_system_partner_brands",
+    "certificationName": "bluesign System Partner",
+    "defaultScope": "brand",
+    "recordIdPrefix": "bluesign-partner"
+  },
+  "records": [
+    {
+      "id": "bluesign-partner-adidas",
+      "brand": "adidas",
+      "aliases": [
+        "adidas"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-aer",
+      "brand": "AER",
+      "aliases": [
+        "AER"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-aevor",
+      "brand": "AEVOR",
+      "aliases": [
+        "AEVOR"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-affenzahn",
+      "brand": "Affenzahn",
+      "aliases": [
+        "Affenzahn"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-arc-teryx",
+      "brand": "Arc'teryx",
+      "aliases": [
+        "Arc'teryx"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Canada",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-armada",
+      "brand": "Armada",
+      "aliases": [
+        "Armada"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-asics",
+      "brand": "ASICS",
+      "aliases": [
+        "ASICS"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Japan",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-snes",
+      "brand": "Åsnes",
+      "aliases": [
+        "Åsnes"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-astraldesigns",
+      "brand": "astraldesigns",
+      "aliases": [
+        "astraldesigns"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-atlantis-headwear",
+      "brand": "Atlantis Headwear",
+      "aliases": [
+        "Atlantis Headwear"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-atomic",
+      "brand": "Atomic",
+      "aliases": [
+        "Atomic"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Austria",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-b-daehlie",
+      "brand": "B Daehlie",
+      "aliases": [
+        "B Daehlie"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-bergans",
+      "brand": "BERGANS",
+      "aliases": [
+        "BERGANS"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-berghaus",
+      "brand": "BERGHAUS",
+      "aliases": [
+        "BERGHAUS"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "United Kingdom",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-berkeley",
+      "brand": "BERKELEY",
+      "aliases": [
+        "BERKELEY"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-brax",
+      "brand": "BRAX",
+      "aliases": [
+        "BRAX"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-bula",
+      "brand": "Bula",
+      "aliases": [
+        "Bula"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-burton-snowboards",
+      "brand": "BURTON SNOWBOARDS",
+      "aliases": [
+        "BURTON SNOWBOARDS"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-camelbak",
+      "brand": "CamelBak",
+      "aliases": [
+        "CamelBak"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-canada-goose",
+      "brand": "CANADA GOOSE",
+      "aliases": [
+        "CANADA GOOSE"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Canada",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-coocazoo",
+      "brand": "Coocazoo",
+      "aliases": [
+        "Coocazoo"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-cornerstone",
+      "brand": "CornerStone",
+      "aliases": [
+        "CornerStone"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-crazy-creek",
+      "brand": "Crazy Creek",
+      "aliases": [
+        "Crazy Creek"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-cyber-wear",
+      "brand": "Cyber-Wear",
+      "aliases": [
+        "Cyber-Wear"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-deuter-sport",
+      "brand": "Deuter Sport",
+      "aliases": [
+        "Deuter Sport"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-district",
+      "brand": "District",
+      "aliases": [
+        "District"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-dondup",
+      "brand": "Dondup",
+      "aliases": [
+        "Dondup"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Italy",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-dope-snow",
+      "brand": "DOPE SNOW",
+      "aliases": [
+        "DOPE SNOW"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-edelrid",
+      "brand": "EDELRID",
+      "aliases": [
+        "EDELRID"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-eileen-fisher",
+      "brand": "EILEEN FISHER",
+      "aliases": [
+        "EILEEN FISHER"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-eno",
+      "brand": "ENO",
+      "aliases": [
+        "ENO"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-eoto",
+      "brand": "EOTO",
+      "aliases": [
+        "EOTO"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-ergobag",
+      "brand": "Ergobag",
+      "aliases": [
+        "Ergobag"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-everlane",
+      "brand": "EVERLANE",
+      "aliases": [
+        "EVERLANE"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-evoshield",
+      "brand": "EvoShield",
+      "aliases": [
+        "EvoShield"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-finisterre",
+      "brand": "FINISTERRE",
+      "aliases": [
+        "FINISTERRE"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "United Kingdom",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-fuchs-schmitt",
+      "brand": "Fuchs Schmitt",
+      "aliases": [
+        "Fuchs Schmitt"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-gordini",
+      "brand": "GORDINI",
+      "aliases": [
+        "GORDINI"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-hagl-fs",
+      "brand": "HAGLÖFS",
+      "aliases": [
+        "HAGLÖFS"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-halti",
+      "brand": "HALTI",
+      "aliases": [
+        "HALTI"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Finland",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-helly-hansen",
+      "brand": "HELLY HANSEN",
+      "aliases": [
+        "HELLY HANSEN"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-houdini-sportswear",
+      "brand": "HOUDINI SPORTSWEAR",
+      "aliases": [
+        "HOUDINI SPORTSWEAR"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-house-of-hygge",
+      "brand": "House of Hygge",
+      "aliases": [
+        "House of Hygge"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-hurtta",
+      "brand": "Hurtta",
+      "aliases": [
+        "Hurtta"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Finland",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-hydro-flask",
+      "brand": "Hydro Flask",
+      "aliases": [
+        "Hydro Flask"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-isbj-rn-of-sweden",
+      "brand": "Isbjörn of Sweden",
+      "aliases": [
+        "Isbjörn of Sweden"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-jack-wolfskin",
+      "brand": "JACK WOLFSKIN",
+      "aliases": [
+        "JACK WOLFSKIN"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-johaug",
+      "brand": "Johaug",
+      "aliases": [
+        "Johaug"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-kari-traa",
+      "brand": "Kari Traa",
+      "aliases": [
+        "Kari Traa"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-kl-ttermusen",
+      "brand": "KLÄTTERMUSEN",
+      "aliases": [
+        "KLÄTTERMUSEN"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-la-sportiva",
+      "brand": "La Sportiva",
+      "aliases": [
+        "La Sportiva"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Italy",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-ll-bean",
+      "brand": "LL BEAN",
+      "aliases": [
+        "LL BEAN"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-lowe-alpine",
+      "brand": "LOWE ALPINE",
+      "aliases": [
+        "LOWE ALPINE"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "United Kingdom",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-lululemon",
+      "brand": "lululemon",
+      "aliases": [
+        "lululemon"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Canada",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-maap",
+      "brand": "MAAP",
+      "aliases": [
+        "MAAP"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Australia",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-madewell",
+      "brand": "Madewell",
+      "aliases": [
+        "Madewell"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-mammut",
+      "brand": "Mammut",
+      "aliases": [
+        "Mammut"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Switzerland",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-marmot",
+      "brand": "MARMOT",
+      "aliases": [
+        "MARMOT"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-mec",
+      "brand": "MEC",
+      "aliases": [
+        "MEC"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Canada",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-mercer-and-mettle",
+      "brand": "Mercer and Mettle",
+      "aliases": [
+        "Mercer and Mettle"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-mini-a-ture-copenhagen",
+      "brand": "MINI A TURE Copenhagen",
+      "aliases": [
+        "MINI A TURE Copenhagen"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Denmark",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-montane",
+      "brand": "Montane",
+      "aliases": [
+        "Montane"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "United Kingdom",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-montec",
+      "brand": "Montec",
+      "aliases": [
+        "Montec"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-moodytiger",
+      "brand": "MOODYTIGER",
+      "aliases": [
+        "MOODYTIGER"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Hong Kong",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-musto",
+      "brand": "MUSTO",
+      "aliases": [
+        "MUSTO"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "United Kingdom",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-mvv-bags",
+      "brand": "MVV Bags",
+      "aliases": [
+        "MVV Bags"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-nemo-equipment",
+      "brand": "NEMO Equipment",
+      "aliases": [
+        "NEMO Equipment"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-non-stop-dogwear",
+      "brand": "Non-stop Dogwear",
+      "aliases": [
+        "Non-stop Dogwear"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-non-stop-polar",
+      "brand": "Non-stop Polar",
+      "aliases": [
+        "Non-stop Polar"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-norr-na",
+      "brand": "Norrøna",
+      "aliases": [
+        "Norrøna"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-odlo",
+      "brand": "ODLO",
+      "aliases": [
+        "ODLO"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Switzerland",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-ortovox",
+      "brand": "ORTOVOX",
+      "aliases": [
+        "ORTOVOX"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-osprey",
+      "brand": "Osprey",
+      "aliases": [
+        "Osprey"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-outdoor-research",
+      "brand": "Outdoor Research",
+      "aliases": [
+        "Outdoor Research"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-patagonia",
+      "brand": "PATAGONIA",
+      "aliases": [
+        "PATAGONIA"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-peak-design",
+      "brand": "PEAK DESIGN",
+      "aliases": [
+        "PEAK DESIGN"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-peak-performance",
+      "brand": "Peak Performance",
+      "aliases": [
+        "Peak Performance"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-pilago",
+      "brand": "Pilago",
+      "aliases": [
+        "Pilago"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-pinqponq",
+      "brand": "pinqponq",
+      "aliases": [
+        "pinqponq"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-port-company",
+      "brand": "Port & Company",
+      "aliases": [
+        "Port & Company"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-port-authority",
+      "brand": "Port Authority",
+      "aliases": [
+        "Port Authority"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-rab",
+      "brand": "RAB",
+      "aliases": [
+        "RAB"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "United Kingdom",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-rebeloup",
+      "brand": "Rebeloup",
+      "aliases": [
+        "Rebeloup"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-reformation",
+      "brand": "REFORMATION",
+      "aliases": [
+        "REFORMATION"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-rei",
+      "brand": "REI",
+      "aliases": [
+        "REI"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-reima",
+      "brand": "REIMA",
+      "aliases": [
+        "REIMA"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Finland",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-revolutionrace",
+      "brand": "RevolutionRace",
+      "aliases": [
+        "RevolutionRace"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-ruffwear",
+      "brand": "Ruffwear",
+      "aliases": [
+        "Ruffwear"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-sail-racing",
+      "brand": "Sail Racing",
+      "aliases": [
+        "Sail Racing"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-salomon",
+      "brand": "Salomon",
+      "aliases": [
+        "Salomon"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "France",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-satch",
+      "brand": "Satch",
+      "aliases": [
+        "Satch"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-sch-ffel",
+      "brand": "Schöffel",
+      "aliases": [
+        "Schöffel"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-sch-ffel-pro",
+      "brand": "Schöffel PRO",
+      "aliases": [
+        "Schöffel PRO"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-sfoli",
+      "brand": "Sfoli",
+      "aliases": [
+        "Sfoli"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-sport-tek",
+      "brand": "Sport-Tek",
+      "aliases": [
+        "Sport-Tek"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-step-by-step",
+      "brand": "Step by Step",
+      "aliases": [
+        "Step by Step"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-storm-creek",
+      "brand": "Storm Creek",
+      "aliases": [
+        "Storm Creek"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-strauss",
+      "brand": "Strauss",
+      "aliases": [
+        "Strauss"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-sweet-protection",
+      "brand": "Sweet Protection",
+      "aliases": [
+        "Sweet Protection"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-techno-activewear",
+      "brand": "Techno Activewear",
+      "aliases": [
+        "Techno Activewear"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "India",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-ted-bernhardtz-at-work",
+      "brand": "Ted Bernhardtz – At Work",
+      "aliases": [
+        "Ted Bernhardtz – At Work"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-the-north-face",
+      "brand": "THE NORTH FACE",
+      "aliases": [
+        "THE NORTH FACE"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-thule",
+      "brand": "THULE",
+      "aliases": [
+        "THULE"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-truelove-pet",
+      "brand": "TRUELOVE PET",
+      "aliases": [
+        "TRUELOVE PET"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Hong Kong",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-ubr",
+      "brand": "UBR",
+      "aliases": [
+        "UBR"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-under-armour",
+      "brand": "UNDER ARMOUR",
+      "aliases": [
+        "UNDER ARMOUR"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-vaude",
+      "brand": "VAUDE",
+      "aliases": [
+        "VAUDE"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-viking-outdoor-footwear",
+      "brand": "Viking Outdoor Footwear",
+      "aliases": [
+        "Viking Outdoor Footwear"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-volunteer-knitwear",
+      "brand": "Volunteer Knitwear",
+      "aliases": [
+        "Volunteer Knitwear"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-vossatassar",
+      "brand": "Vossatassar",
+      "aliases": [
+        "Vossatassar"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-wilson",
+      "brand": "Wilson",
+      "aliases": [
+        "Wilson"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "USA",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-wolford",
+      "brand": "WOLFORD",
+      "aliases": [
+        "WOLFORD"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Austria",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-wrangler-workwear",
+      "brand": "WRANGLER WORKWEAR",
+      "aliases": [
+        "WRANGLER WORKWEAR"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Sweden",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-xplor",
+      "brand": "XPLOR",
+      "aliases": [
+        "XPLOR"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Denmark",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-you",
+      "brand": "YOU",
+      "aliases": [
+        "YOU"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Norway",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    },
+    {
+      "id": "bluesign-partner-ziener",
+      "brand": "ZIENER",
+      "aliases": [
+        "ZIENER"
+      ],
+      "status": "active system partner",
+      "scope": "brand",
+      "gradingEligible": false,
+      "geography": "Germany",
+      "confidence": 0.9,
+      "sourceUrl": "https://www.bluesign.com/wp-content/uploads/2026/08/bluesign-System-Partner-list-Brands_2026.08.01.pdf",
+      "officialProfileUrl": "https://www.bluesign.com/bluesign-downloads",
+      "verifiedAt": "2026-08-09",
+      "scopeNote": "bluesign lists this brand as a System Partner. This is company-level supply-chain evidence, not proof that a particular retail product is bluepass certified."
+    }
+  ]
+}

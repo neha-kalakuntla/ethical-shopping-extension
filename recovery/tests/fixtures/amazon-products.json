@@ -1,0 +1,243 @@
+{
+  "fixtures": [
+    {
+      "id": "amazon-detail-nutella-gtin",
+      "profile": "health",
+      "description": "A food detail page whose exact GTIN resolves to the Open Food Facts cache.",
+      "useProductDatabase": true,
+      "requiredFields": ["asin", "title", "gtin", "identityMatch", "ingredientsText", "allergens", "nutrition", "foodLabels", "packaging"],
+      "requiredSources": ["amazon_product_page", "open_food_facts"],
+      "requiredProviders": ["page_facts", "open_food_facts_provider"],
+      "requiredNonSearchableFields": ["asin", "gtin", "identityMatch"],
+      "requiredSearchableFields": ["title", "ingredientsText", "allergens", "nutrition", "foodLabels", "packaging"],
+      "product": {
+        "key": "B000NUTELA",
+        "asin": "B000NUTELA",
+        "url": "https://www.amazon.com/dp/B000NUTELA",
+        "imageUrl": "https://m.media-amazon.com/images/I/nutella.jpg",
+        "title": "Nutella Hazelnut Spread 400 g",
+        "brand": "Nutella",
+        "price": 6.99,
+        "priceText": "$6.99",
+        "facts": {
+          "asin": "B000NUTELA",
+          "title": "Nutella Hazelnut Spread 400 g",
+          "brand": "Nutella",
+          "identifiers": ["3017620422003"],
+          "pageType": "detail",
+          "url": "https://www.amazon.com/dp/B000NUTELA",
+          "imageUrl": "https://m.media-amazon.com/images/I/nutella.jpg",
+          "pageText": "Nutella Hazelnut Spread 400 g UPC 3017620422003"
+        },
+        "text": "Nutella Hazelnut Spread 400 g UPC 3017620422003"
+      }
+    },
+    {
+      "id": "amazon-detail-cleaning-cups",
+      "profile": "balanced",
+      "description": "A detail-page-style Amazon product with ASIN, visible price, seller, category, bullets, and page text.",
+      "requiredFields": ["asin", "url", "imageUrl", "title", "brand", "seller", "category", "productBullets", "price", "pageText"],
+      "requiredSource": "amazon_product_page",
+      "requiredNonSearchableFields": ["asin", "url", "imageUrl"],
+      "requiredSearchableFields": ["title", "brand", "seller", "category", "productBullets", "price", "pageText"],
+      "product": {
+        "key": "B0997HLPHW",
+        "asin": "B0997HLPHW",
+        "href": "https://www.amazon.com/dp/B0997HLPHW",
+        "url": "https://www.amazon.com/dp/B0997HLPHW",
+        "src": "https://m.media-amazon.com/images/I/example-cleaning-cups.jpg",
+        "imageUrl": "https://m.media-amazon.com/images/I/example-cleaning-cups.jpg",
+        "title": "12-Pack Cleaning Cups for Keurig K-Cup Machines",
+        "brand": "Essential Values",
+        "price": 11.99,
+        "priceText": "$11.99",
+        "seller": "Amazon.com",
+        "category": "Home & Kitchen > Kitchen & Dining > Coffee Machine Accessories",
+        "productBullets": [
+          "Compatible with Keurig K-Cup machines",
+          "Removes residue from coffee maker pods",
+          "Includes twelve cleaning cups"
+        ],
+        "certifications": [],
+        "facts": {
+          "asin": "B0997HLPHW",
+          "title": "12-Pack Cleaning Cups for Keurig K-Cup Machines",
+          "brand": "Essential Values",
+          "price": 11.99,
+          "priceText": "$11.99",
+          "seller": "Amazon.com",
+          "category": "Home & Kitchen > Kitchen & Dining > Coffee Machine Accessories",
+          "productBullets": [
+            "Compatible with Keurig K-Cup machines",
+            "Removes residue from coffee maker pods",
+            "Includes twelve cleaning cups"
+          ],
+          "certifications": [],
+          "cardText": "",
+          "imageUrl": "https://m.media-amazon.com/images/I/example-cleaning-cups.jpg",
+          "url": "https://www.amazon.com/dp/B0997HLPHW",
+          "pageType": "detail",
+          "pageText": "12-Pack Cleaning Cups for Keurig K-Cup Machines Essential Values Amazon.com coffee maker cleaning pods compatible with Keurig brewers."
+        },
+        "text": "12-Pack Cleaning Cups for Keurig K-Cup Machines Essential Values Amazon.com Home & Kitchen coffee maker cleaning pods compatible with Keurig brewers."
+      }
+    },
+    {
+      "id": "amazon-search-organic-towels",
+      "profile": "balanced",
+      "description": "A search-card-style Amazon result with product identity, title, price, card text, and an organic signal.",
+      "requiredFields": ["asin", "url", "imageUrl", "title", "price", "pageText"],
+      "requiredSource": "amazon_search_card",
+      "requiredSources": ["amazon_search_card", "local_certification_database"],
+      "requiredProviders": ["page_facts", "certification_provider"],
+      "requiredNonSearchableFields": ["asin", "url", "imageUrl"],
+      "requiredSearchableFields": ["title", "price", "pageText", "verifiedCertifications"],
+      "product": {
+        "key": "B000TEST00",
+        "asin": "B000TEST00",
+        "href": "https://www.amazon.com/dp/B000TEST00",
+        "url": "https://www.amazon.com/dp/B000TEST00",
+        "src": "https://m.media-amazon.com/images/I/example-organic-towels.jpg",
+        "imageUrl": "https://m.media-amazon.com/images/I/example-organic-towels.jpg",
+        "title": "Organic Cotton Kitchen Towels, Reusable 6 Pack",
+        "brand": "",
+        "price": 14.99,
+        "priceText": "$14.99",
+        "seller": "",
+        "category": "",
+        "productBullets": [],
+        "certifications": ["Organic"],
+        "verifiedCertifications": [
+          {
+            "name": "Fixture Organic Textile Certification",
+            "issuer": "Local test fixture",
+            "status": "verified fixture"
+          }
+        ],
+        "cardText": "Organic Cotton Kitchen Towels, Reusable 6 Pack $14.99 climate friendly absorbent kitchen cloths",
+        "facts": {
+          "asin": "B000TEST00",
+          "title": "Organic Cotton Kitchen Towels, Reusable 6 Pack",
+          "brand": "",
+          "price": 14.99,
+          "priceText": "$14.99",
+          "seller": "",
+          "category": "",
+          "productBullets": [],
+          "certifications": ["Organic"],
+          "verifiedCertifications": [
+            {
+              "name": "Fixture Organic Textile Certification",
+              "issuer": "Local test fixture",
+              "status": "verified fixture"
+            }
+          ],
+          "cardText": "Organic Cotton Kitchen Towels, Reusable 6 Pack $14.99 climate friendly absorbent kitchen cloths",
+          "imageUrl": "https://m.media-amazon.com/images/I/example-organic-towels.jpg",
+          "url": "https://www.amazon.com/dp/B000TEST00",
+          "pageType": "search",
+          "pageText": "Organic Cotton Kitchen Towels, Reusable 6 Pack $14.99 climate friendly absorbent kitchen cloths"
+        },
+        "text": "Organic Cotton Kitchen Towels, Reusable 6 Pack $14.99 climate friendly absorbent kitchen cloths"
+      }
+    },
+    {
+      "id": "amazon-search-leather-bag",
+      "profile": "vegan",
+      "description": "A search-card-style product that should surface animal-product concerns for a vegan profile.",
+      "requiredFields": ["asin", "url", "imageUrl", "title", "price", "pageText"],
+      "requiredSource": "amazon_search_card",
+      "requiredNonSearchableFields": ["asin", "url", "imageUrl"],
+      "requiredSearchableFields": ["title", "price", "pageText"],
+      "requiredWatchMatch": "leather",
+      "product": {
+        "key": "B000LEATHR",
+        "asin": "B000LEATHR",
+        "href": "https://www.amazon.com/dp/B000LEATHR",
+        "url": "https://www.amazon.com/dp/B000LEATHR",
+        "src": "https://m.media-amazon.com/images/I/example-leather-bag.jpg",
+        "imageUrl": "https://m.media-amazon.com/images/I/example-leather-bag.jpg",
+        "title": "Genuine Leather Travel Tote Bag",
+        "brand": "",
+        "price": 84.99,
+        "priceText": "$84.99",
+        "seller": "",
+        "category": "",
+        "productBullets": [],
+        "certifications": [],
+        "cardText": "Genuine Leather Travel Tote Bag imported leather shoulder bag $84.99",
+        "facts": {
+          "asin": "B000LEATHR",
+          "title": "Genuine Leather Travel Tote Bag",
+          "brand": "",
+          "price": 84.99,
+          "priceText": "$84.99",
+          "seller": "",
+          "category": "",
+          "productBullets": [],
+          "certifications": [],
+          "cardText": "Genuine Leather Travel Tote Bag imported leather shoulder bag $84.99",
+          "imageUrl": "https://m.media-amazon.com/images/I/example-leather-bag.jpg",
+          "url": "https://www.amazon.com/dp/B000LEATHR",
+          "pageType": "search",
+          "pageText": "Genuine Leather Travel Tote Bag imported leather shoulder bag $84.99"
+        },
+        "text": "Genuine Leather Travel Tote Bag imported leather shoulder bag $84.99"
+      }
+    },
+    {
+      "id": "amazon-detail-patagonia-bcorp",
+      "profile": "ethical",
+      "description": "A detail-page-style product whose brand should match the bundled local certification database.",
+      "useCertificationDatabase": true,
+      "requiredFields": ["asin", "url", "imageUrl", "title", "brand", "price", "pageText", "verifiedCertifications"],
+      "requiredSource": "amazon_product_page",
+      "requiredSources": ["amazon_product_page", "local_certification_database"],
+      "requiredProviders": ["page_facts", "certification_provider"],
+      "requiredNonSearchableFields": ["asin", "url", "imageUrl"],
+      "requiredSearchableFields": ["title", "brand", "price", "pageText", "verifiedCertifications"],
+      "requiredCertificationMatch": "Certified B Corporation",
+      "requiredPositiveSource": "verified certifications",
+      "minScore": 74,
+      "product": {
+        "key": "B000PATAGN",
+        "asin": "B000PATAGN",
+        "href": "https://www.amazon.com/dp/B000PATAGN",
+        "url": "https://www.amazon.com/dp/B000PATAGN",
+        "src": "https://m.media-amazon.com/images/I/example-patagonia.jpg",
+        "imageUrl": "https://m.media-amazon.com/images/I/example-patagonia.jpg",
+        "title": "Patagonia Recycled Everyday Pack",
+        "brand": "Patagonia",
+        "price": 89.0,
+        "priceText": "$89.00",
+        "seller": "Amazon.com",
+        "category": "Sports & Outdoors > Outdoor Recreation",
+        "productBullets": [
+          "Recycled polyester everyday backpack",
+          "Durable water repellent finish"
+        ],
+        "certifications": [],
+        "facts": {
+          "asin": "B000PATAGN",
+          "title": "Patagonia Recycled Everyday Pack",
+          "brand": "Patagonia",
+          "price": 89.0,
+          "priceText": "$89.00",
+          "seller": "Amazon.com",
+          "category": "Sports & Outdoors > Outdoor Recreation",
+          "productBullets": [
+            "Recycled polyester everyday backpack",
+            "Durable water repellent finish"
+          ],
+          "certifications": [],
+          "cardText": "",
+          "imageUrl": "https://m.media-amazon.com/images/I/example-patagonia.jpg",
+          "url": "https://www.amazon.com/dp/B000PATAGN",
+          "pageType": "detail",
+          "pageText": "Patagonia Recycled Everyday Pack Amazon.com recycled polyester backpack outdoor recreation."
+        },
+        "text": "Patagonia Recycled Everyday Pack Amazon.com recycled polyester backpack outdoor recreation."
+      }
+    }
+  ]
+}

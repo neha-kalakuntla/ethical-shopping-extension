@@ -1,0 +1,3032 @@
+{
+  "schemaVersion": 1,
+  "kind": "certification_directory",
+  "capturedAt": "2026-08-05",
+  "source": {
+    "id": "leaping_bunny_shopping_guide",
+    "certificationName": "Leaping Bunny Certified",
+    "defaultScope": "brand",
+    "recordIdPrefix": "leaping-bunny"
+  },
+  "records": [
+    {
+      "id": "leaping-bunny-fusilli",
+      "brand": "Fusilli",
+      "aliases": [
+        "Fusilli"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/fusilli",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/fusilli",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-future-cool",
+      "brand": "Future of Cool",
+      "aliases": [
+        "Future of Cool"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/future-cool",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/future-cool",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-fuzz",
+      "brand": "FUZZ",
+      "aliases": [
+        "FUZZ"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/fuzz",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/fuzz",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gabriel-cosmetics",
+      "brand": "Gabriel Cosmetics",
+      "aliases": [
+        "Gabriel Cosmetics",
+        "Gabriel"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gabriel-cosmetics",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gabriel-cosmetics",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gaialove",
+      "brand": "Gaia.Love",
+      "aliases": [
+        "Gaia.Love"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gaialove",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gaialove",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gainer-beauty-llc",
+      "brand": "Gainer Beauty LLC",
+      "aliases": [
+        "Gainer Beauty LLC",
+        "Gainer Beauty"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gainer-beauty-llc",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gainer-beauty-llc",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gardeners-dream",
+      "brand": "Gardener's Dream",
+      "aliases": [
+        "Gardener's Dream"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gardeners-dream",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gardeners-dream",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gazing-green",
+      "brand": "Gazing Green",
+      "aliases": [
+        "Gazing Green"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gazing-green",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gazing-green",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gelly-bae",
+      "brand": "Gelly Bae",
+      "aliases": [
+        "Gelly Bae"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gelly-bae",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gelly-bae",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gemsthetix",
+      "brand": "GEMSTHETIX",
+      "aliases": [
+        "GEMSTHETIX"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gemsthetix",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gemsthetix",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gemstone-organic",
+      "brand": "Gemstone Organic",
+      "aliases": [
+        "Gemstone Organic"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gemstone-organic",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gemstone-organic",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gen-see",
+      "brand": "Gen See",
+      "aliases": [
+        "Gen See"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gen-see",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gen-see",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-genial-day",
+      "brand": "Genial Day",
+      "aliases": [
+        "Genial Day"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/genial-day",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/genial-day",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gently-radiant-skin",
+      "brand": "Gently Radiant SKin",
+      "aliases": [
+        "Gently Radiant SKin"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gently-radiant-skin",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gently-radiant-skin",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-getstonned",
+      "brand": "GetStonned",
+      "aliases": [
+        "GetStonned"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/getstonned",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/getstonned",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gigi",
+      "brand": "Gigi",
+      "aliases": [
+        "Gigi"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gigi",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gigi",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gigi-0",
+      "brand": "GIGI",
+      "aliases": [
+        "GIGI"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gigi-0",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gigi-0",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gilchrist-soames",
+      "brand": "Gilchrist & Soames",
+      "aliases": [
+        "Gilchrist & Soames"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gilchrist-soames",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gilchrist-soames",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gin-amber-beauty",
+      "brand": "GIN AMBER BEAUTY",
+      "aliases": [
+        "GIN AMBER BEAUTY"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gin-amber-beauty",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gin-amber-beauty",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-giordano-colors",
+      "brand": "Giordano Colors",
+      "aliases": [
+        "Giordano Colors"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/giordano-colors",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/giordano-colors",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-giovanni",
+      "brand": "Giovanni",
+      "aliases": [
+        "Giovanni"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/giovanni",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/giovanni",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glacial-bay-organic-clay",
+      "brand": "Glacial Bay Organic Clay",
+      "aliases": [
+        "Glacial Bay Organic Clay"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glacial-bay-organic-clay",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glacial-bay-organic-clay",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glace-spa-clay",
+      "brand": "Glacé Spa Clay",
+      "aliases": [
+        "Glacé Spa Clay"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glace-spa-clay",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glace-spa-clay",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glamazon-beauty",
+      "brand": "Glamazon Beauty",
+      "aliases": [
+        "Glamazon Beauty"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glamazon-beauty",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glamazon-beauty",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glamlite",
+      "brand": "Glamlite",
+      "aliases": [
+        "Glamlite"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glamlite",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glamlite",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glamnetic",
+      "brand": "GLAMNETIC",
+      "aliases": [
+        "GLAMNETIC"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glamnetic",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glamnetic",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gleam",
+      "brand": "Gleam",
+      "aliases": [
+        "Gleam"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gleam",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gleam",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gleamin",
+      "brand": "Gleamin",
+      "aliases": [
+        "Gleamin"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gleamin",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gleamin",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glimmer-wish",
+      "brand": "Glimmer Wish",
+      "aliases": [
+        "Glimmer Wish"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glimmer-wish",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glimmer-wish",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glixi",
+      "brand": "Glixi",
+      "aliases": [
+        "Glixi"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glixi",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glixi",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glossier",
+      "brand": "Glossier",
+      "aliases": [
+        "Glossier"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glossier",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glossier",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glosslab-llc",
+      "brand": "Glosslab, LLC",
+      "aliases": [
+        "Glosslab, LLC",
+        "Glosslab"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glosslab-llc",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glosslab-llc",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glow-jar-beauty",
+      "brand": "Glow Jar Beauty",
+      "aliases": [
+        "Glow Jar Beauty"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glow-jar-beauty",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glow-jar-beauty",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glow-natural-wellness",
+      "brand": "Glow Natural Wellness",
+      "aliases": [
+        "Glow Natural Wellness"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glow-natural-wellness",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glow-natural-wellness",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glow-recipe",
+      "brand": "Glow Recipe",
+      "aliases": [
+        "Glow Recipe"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glow-recipe",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glow-recipe",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glowell",
+      "brand": "Glowell",
+      "aliases": [
+        "Glowell"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glowell",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glowell",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-glowing-orchid-organics",
+      "brand": "Glowing Orchid Organics",
+      "aliases": [
+        "Glowing Orchid Organics"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/glowing-orchid-organics",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/glowing-orchid-organics",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gntl",
+      "brand": "Gntl",
+      "aliases": [
+        "Gntl"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gntl",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gntl",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-go-red-cosmetics",
+      "brand": "Go Red Cosmetics",
+      "aliases": [
+        "Go Red Cosmetics",
+        "Go Red"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/go-red-cosmetics",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/go-red-cosmetics",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-golden-hour-botanicals",
+      "brand": "Golden Hour Botanicals",
+      "aliases": [
+        "Golden Hour Botanicals"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/golden-hour-botanicals",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/golden-hour-botanicals",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-goldie-locks",
+      "brand": "Goldie Locks",
+      "aliases": [
+        "Goldie Locks"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/goldie-locks",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/goldie-locks",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-goldie-lux-skin",
+      "brand": "Goldie Lux Skin",
+      "aliases": [
+        "Goldie Lux Skin"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/goldie-lux-skin",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/goldie-lux-skin",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-goldn-beauty-llc",
+      "brand": "Goldn beauty LLC",
+      "aliases": [
+        "Goldn beauty LLC",
+        "Goldn beauty"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/goldn-beauty-llc",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/goldn-beauty-llc",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-good-daily",
+      "brand": "Good + Daily",
+      "aliases": [
+        "Good + Daily"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/good-daily",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/good-daily",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-good-alchemy",
+      "brand": "Good Alchemy",
+      "aliases": [
+        "Good Alchemy"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/good-alchemy",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/good-alchemy",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-good-dye-young",
+      "brand": "Good Dye Young",
+      "aliases": [
+        "Good Dye Young"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/good-dye-young",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/good-dye-young",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-good-flower-farm",
+      "brand": "Good Flower Farm",
+      "aliases": [
+        "Good Flower Farm"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/good-flower-farm",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/good-flower-farm",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-good-you-girls",
+      "brand": "Good For You Girls",
+      "aliases": [
+        "Good For You Girls"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/good-you-girls",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/good-you-girls",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-good-juju-body-home",
+      "brand": "Good Juju Body & Home",
+      "aliases": [
+        "Good Juju Body & Home"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/good-juju-body-home",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/good-juju-body-home",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-good-life-solutions",
+      "brand": "Good Life Solutions",
+      "aliases": [
+        "Good Life Solutions"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/good-life-solutions",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/good-life-solutions",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-good-medicine-beauty-lab",
+      "brand": "Good Medicine Beauty Lab",
+      "aliases": [
+        "Good Medicine Beauty Lab"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/good-medicine-beauty-lab",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/good-medicine-beauty-lab",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-good-molecules",
+      "brand": "Good Molecules",
+      "aliases": [
+        "Good Molecules"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/good-molecules",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/good-molecules",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-good-organics",
+      "brand": "Good Organics",
+      "aliases": [
+        "Good Organics"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/good-organics",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/good-organics",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-good-weather-skin",
+      "brand": "Good Weather Skin",
+      "aliases": [
+        "Good Weather Skin"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/good-weather-skin",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/good-weather-skin",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-good-weird",
+      "brand": "Good Weird",
+      "aliases": [
+        "Good Weird"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/good-weird",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/good-weird",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-goodcleangoop",
+      "brand": "good.clean.goop",
+      "aliases": [
+        "good.clean.goop"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/goodcleangoop",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/goodcleangoop",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-goodfur",
+      "brand": "GoodFur",
+      "aliases": [
+        "GoodFur"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/goodfur",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/goodfur",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-goodspread",
+      "brand": "Goodspread",
+      "aliases": [
+        "Goodspread"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/goodspread",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/goodspread",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-goodwins-skin-soother",
+      "brand": "Goodwin's Skin Soother",
+      "aliases": [
+        "Goodwin's Skin Soother"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/goodwins-skin-soother",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/goodwins-skin-soother",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-goopbeauty",
+      "brand": "GoopBeauty",
+      "aliases": [
+        "GoopBeauty"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/goopbeauty",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/goopbeauty",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gotji-beauty",
+      "brand": "Gotji Beauty",
+      "aliases": [
+        "Gotji Beauty"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gotji-beauty",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gotji-beauty",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gowipe",
+      "brand": "GoWipe",
+      "aliases": [
+        "GoWipe"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gowipe",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gowipe",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-grab-green",
+      "brand": "Grab Green",
+      "aliases": [
+        "Grab Green"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/grab-green",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/grab-green",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-grace-stella",
+      "brand": "Grace & Stella",
+      "aliases": [
+        "Grace & Stella"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/grace-stella",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/grace-stella",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-grainular",
+      "brand": "Grainular",
+      "aliases": [
+        "Grainular"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/grainular",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/grainular",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-grandmas-natural-remedies-inc",
+      "brand": "Grandma's Natural Remedies, Inc.",
+      "aliases": [
+        "Grandma's Natural Remedies, Inc.",
+        "Grandma's Natural Remedies"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/grandmas-natural-remedies-inc",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/grandmas-natural-remedies-inc",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-grandmas-olde-fashioned-soap-and-candles",
+      "brand": "Grandma's Olde Fashioned Soap and Candles",
+      "aliases": [
+        "Grandma's Olde Fashioned Soap and Candles"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/grandmas-olde-fashioned-soap-and-candles",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/grandmas-olde-fashioned-soap-and-candles",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-grateful-body-botanical-skin-care",
+      "brand": "Grateful Body Botanical Skin Care",
+      "aliases": [
+        "Grateful Body Botanical Skin Care"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/grateful-body-botanical-skin-care",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/grateful-body-botanical-skin-care",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gray-away",
+      "brand": "Gray Away",
+      "aliases": [
+        "Gray Away"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gray-away",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gray-away",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-great-many",
+      "brand": "Great Many",
+      "aliases": [
+        "Great Many"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/great-many",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/great-many",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-greater-beauty",
+      "brand": "Greater Than Beauty",
+      "aliases": [
+        "Greater Than Beauty"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/greater-beauty",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/greater-beauty",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-green-bee-botanicals",
+      "brand": "Green Bee Botanicals",
+      "aliases": [
+        "Green Bee Botanicals"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/green-bee-botanicals",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/green-bee-botanicals",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-green-girl-basics",
+      "brand": "Green Girl Basics",
+      "aliases": [
+        "Green Girl Basics"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/green-girl-basics",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/green-girl-basics",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-green-goo",
+      "brand": "Green Goo",
+      "aliases": [
+        "Green Goo"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/green-goo",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/green-goo",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-green-llama",
+      "brand": "Green Llama",
+      "aliases": [
+        "Green Llama"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/green-llama",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/green-llama",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-greenberry",
+      "brand": "Greenberry",
+      "aliases": [
+        "Greenberry"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/greenberry",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/greenberry",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-greenbone",
+      "brand": "Greenbone",
+      "aliases": [
+        "Greenbone"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/greenbone",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/greenbone",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-greenbone-humane-society",
+      "brand": "Greenbone -Humane Society",
+      "aliases": [
+        "Greenbone -Humane Society"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/greenbone-humane-society",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/greenbone-humane-society",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-greener-clean-designs",
+      "brand": "Greener Clean Designs",
+      "aliases": [
+        "Greener Clean Designs"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/greener-clean-designs",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/greener-clean-designs",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-greenheart-botanicals",
+      "brand": "GREENHEART BOTANICALS",
+      "aliases": [
+        "GREENHEART BOTANICALS"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/greenheart-botanicals",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/greenheart-botanicals",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gressa-inc",
+      "brand": "Gressa Inc",
+      "aliases": [
+        "Gressa Inc",
+        "Gressa"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gressa-inc",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gressa-inc",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-grounded-sage-skincare",
+      "brand": "Grounded Sage Skincare",
+      "aliases": [
+        "Grounded Sage Skincare"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/grounded-sage-skincare",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/grounded-sage-skincare",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-grove-co",
+      "brand": "Grove Co",
+      "aliases": [
+        "Grove Co",
+        "Grove"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/grove-co",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/grove-co",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-grow-fragrance",
+      "brand": "Grow Fragrance",
+      "aliases": [
+        "Grow Fragrance"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/grow-fragrance",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/grow-fragrance",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-guanology",
+      "brand": "Guanology",
+      "aliases": [
+        "Guanology"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/guanology",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/guanology",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-guests-earth",
+      "brand": "Guests on Earth",
+      "aliases": [
+        "Guests on Earth"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/guests-earth",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/guests-earth",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-guildpepper",
+      "brand": "Guild+Pepper",
+      "aliases": [
+        "Guild+Pepper"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/guildpepper",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/guildpepper",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gundry-md",
+      "brand": "Gundry MD",
+      "aliases": [
+        "Gundry MD"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gundry-md",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gundry-md",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-gussi",
+      "brand": "GUSSI",
+      "aliases": [
+        "GUSSI"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/gussi",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/gussi",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hairgurt",
+      "brand": "HAIRGURT",
+      "aliases": [
+        "HAIRGURT"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hairgurt",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hairgurt",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hairstory",
+      "brand": "Hairstory",
+      "aliases": [
+        "Hairstory"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hairstory",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hairstory",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hale-and-hush",
+      "brand": "Hale and Hush",
+      "aliases": [
+        "Hale and Hush"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hale-and-hush",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hale-and-hush",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-half-magic-beauty",
+      "brand": "Half Magic Beauty",
+      "aliases": [
+        "Half Magic Beauty"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/half-magic-beauty",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/half-magic-beauty",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hally-hair",
+      "brand": "Hally Hair",
+      "aliases": [
+        "Hally Hair"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hally-hair",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hally-hair",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hallyu",
+      "brand": "Hallyu",
+      "aliases": [
+        "Hallyu"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hallyu",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hallyu",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-halo-hair-oil",
+      "brand": "Halo Hair Oil",
+      "aliases": [
+        "Halo Hair Oil"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/halo-hair-oil",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/halo-hair-oil",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hampton-sun",
+      "brand": "Hampton Sun",
+      "aliases": [
+        "Hampton Sun"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hampton-sun",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hampton-sun",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hanalei",
+      "brand": "Hanalei",
+      "aliases": [
+        "Hanalei"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hanalei",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hanalei",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hand-over-heart",
+      "brand": "Hand over Heart",
+      "aliases": [
+        "Hand over Heart"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hand-over-heart",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hand-over-heart",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-handetizer",
+      "brand": "handētizer",
+      "aliases": [
+        "handētizer"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/handetizer",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/handetizer",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hanni",
+      "brand": "Hanni",
+      "aliases": [
+        "Hanni"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hanni",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hanni",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hanson-skincare",
+      "brand": "Hanson Skincare",
+      "aliases": [
+        "Hanson Skincare"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hanson-skincare",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hanson-skincare",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-happy-plant-botanicals",
+      "brand": "Happy Plant Botanicals",
+      "aliases": [
+        "Happy Plant Botanicals"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/happy-plant-botanicals",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/happy-plant-botanicals",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-happy-spritz",
+      "brand": "Happy Spritz",
+      "aliases": [
+        "Happy Spritz"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/happy-spritz",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/happy-spritz",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-happy-squad",
+      "brand": "Happy Squad",
+      "aliases": [
+        "Happy Squad"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/happy-squad",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/happy-squad",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hard-night-good-morning",
+      "brand": "Hard Night Good Morning",
+      "aliases": [
+        "Hard Night Good Morning"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hard-night-good-morning",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hard-night-good-morning",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-harlow-skin-company-inc",
+      "brand": "Harlow Skin Company Inc",
+      "aliases": [
+        "Harlow Skin Company Inc",
+        "Harlow Skin Company"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/harlow-skin-company-inc",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/harlow-skin-company-inc",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-harmony",
+      "brand": "Harmony",
+      "aliases": [
+        "Harmony"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/harmony",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/harmony",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-harvey-haven-lavender-farm",
+      "brand": "Harvey Haven Lavender Farm",
+      "aliases": [
+        "Harvey Haven Lavender Farm"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/harvey-haven-lavender-farm",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/harvey-haven-lavender-farm",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hask",
+      "brand": "HASK",
+      "aliases": [
+        "HASK"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hask",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hask",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hat-creek-trading-company",
+      "brand": "Hat Creek Trading Company",
+      "aliases": [
+        "Hat Creek Trading Company",
+        "Hat Creek Trading"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hat-creek-trading-company",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hat-creek-trading-company",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-haus-labs-lady-gaga",
+      "brand": "HAUS LABS BY LADY GAGA",
+      "aliases": [
+        "HAUS LABS BY LADY GAGA"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/haus-labs-lady-gaga",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/haus-labs-lady-gaga",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hbface",
+      "brand": "HBFace",
+      "aliases": [
+        "HBFace"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hbface",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hbface",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-heal-yes",
+      "brand": "Heal Yes!",
+      "aliases": [
+        "Heal Yes!"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/heal-yes",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/heal-yes",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-healthnaturally",
+      "brand": "HealthNaturally",
+      "aliases": [
+        "HealthNaturally"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/healthnaturally",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/healthnaturally",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-healthy-hoohoor",
+      "brand": "healthy hoohoo®",
+      "aliases": [
+        "healthy hoohoo®",
+        "healthy hoohoo"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/healthy-hoohoor",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/healthy-hoohoor",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hear-me-raw",
+      "brand": "HEAR ME RAW",
+      "aliases": [
+        "HEAR ME RAW"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hear-me-raw",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hear-me-raw",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hearth-and-homestead-llc",
+      "brand": "Hearth and Homestead LLC",
+      "aliases": [
+        "Hearth and Homestead LLC",
+        "Hearth and Homestead"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hearth-and-homestead-llc",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hearth-and-homestead-llc",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-heavenly-hair-milktm",
+      "brand": "Heavenly Hair Milk™",
+      "aliases": [
+        "Heavenly Hair Milk™",
+        "Heavenly Hair Milk"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/heavenly-hair-milktm",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/heavenly-hair-milktm",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-helena-lane-skincare",
+      "brand": "Helena Lane Skincare",
+      "aliases": [
+        "Helena Lane Skincare"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/helena-lane-skincare",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/helena-lane-skincare",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hello-bello",
+      "brand": "Hello Bello",
+      "aliases": [
+        "Hello Bello"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hello-bello",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hello-bello",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hello-joyous",
+      "brand": "Hello Joyous",
+      "aliases": [
+        "Hello Joyous"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hello-joyous",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hello-joyous",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hemplucid",
+      "brand": "HempLucid",
+      "aliases": [
+        "HempLucid"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hemplucid",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hemplucid",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hempz",
+      "brand": "Hempz",
+      "aliases": [
+        "Hempz"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hempz",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hempz",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-henna-color-labr",
+      "brand": "Henna Color Lab®",
+      "aliases": [
+        "Henna Color Lab®",
+        "Henna Color Lab"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/henna-color-labr",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/henna-color-labr",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-henne-organics",
+      "brand": "Henné Organics",
+      "aliases": [
+        "Henné Organics"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/henne-organics",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/henne-organics",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-henry-rose",
+      "brand": "Henry Rose",
+      "aliases": [
+        "Henry Rose"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/henry-rose",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/henry-rose",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-her-mannerisms",
+      "brand": "Her Mannerisms",
+      "aliases": [
+        "Her Mannerisms"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/her-mannerisms",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/her-mannerisms",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-herbaceous-hair-and-skin",
+      "brand": "Herbaceous Hair and Skin",
+      "aliases": [
+        "Herbaceous Hair and Skin"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/herbaceous-hair-and-skin",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/herbaceous-hair-and-skin",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-herbal-clinic",
+      "brand": "Herbal Clinic",
+      "aliases": [
+        "Herbal Clinic"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/herbal-clinic",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/herbal-clinic",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-herbitual",
+      "brand": "Herbitual",
+      "aliases": [
+        "Herbitual"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/herbitual",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/herbitual",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-herbivore-botanicals",
+      "brand": "Herbivore Botanicals",
+      "aliases": [
+        "Herbivore Botanicals"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/herbivore-botanicals",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/herbivore-botanicals",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-herd-tallow",
+      "brand": "Herd Tallow",
+      "aliases": [
+        "Herd Tallow"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/herd-tallow",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/herd-tallow",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-heritage-park-laundry-essentials",
+      "brand": "Heritage Park Laundry Essentials",
+      "aliases": [
+        "Heritage Park Laundry Essentials"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/heritage-park-laundry-essentials",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/heritage-park-laundry-essentials",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-herve-loucindi",
+      "brand": "Herve Loucindi",
+      "aliases": [
+        "Herve Loucindi"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/herve-loucindi",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/herve-loucindi",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hey-honey",
+      "brand": "Hey Honey",
+      "aliases": [
+        "Hey Honey"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hey-honey",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hey-honey",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-heybode",
+      "brand": "HeyBode",
+      "aliases": [
+        "HeyBode"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/heybode",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/heybode",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-heyday",
+      "brand": "Heyday",
+      "aliases": [
+        "Heyday"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/heyday",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/heyday",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hibar",
+      "brand": "HiBAR",
+      "aliases": [
+        "HiBAR"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hibar",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hibar",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hidden-treasure-soap",
+      "brand": "Hidden Treasure Soap",
+      "aliases": [
+        "Hidden Treasure Soap"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hidden-treasure-soap",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hidden-treasure-soap",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-high-love",
+      "brand": "High On Love",
+      "aliases": [
+        "High On Love"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/high-love",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/high-love",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-high-vibe-aromatics",
+      "brand": "High Vibe Aromatics",
+      "aliases": [
+        "High Vibe Aromatics"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/high-vibe-aromatics",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/high-vibe-aromatics",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-highbrow-hippie",
+      "brand": "Highbrow Hippie",
+      "aliases": [
+        "Highbrow Hippie"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/highbrow-hippie",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/highbrow-hippie",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hippie-soul-candle-shop",
+      "brand": "Hippie Soul Candle Shop",
+      "aliases": [
+        "Hippie Soul Candle Shop"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hippie-soul-candle-shop",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hippie-soul-candle-shop",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hiruna-designs",
+      "brand": "HiRuna Designs",
+      "aliases": [
+        "HiRuna Designs"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hiruna-designs",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hiruna-designs",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hnp",
+      "brand": "HnP",
+      "aliases": [
+        "HnP"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hnp",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hnp",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hobacare-baby",
+      "brand": "HobaCare Baby",
+      "aliases": [
+        "HobaCare Baby"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hobacare-baby",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hobacare-baby",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hobacare-jojoba",
+      "brand": "HobaCare Jojoba",
+      "aliases": [
+        "HobaCare Jojoba"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hobacare-jojoba",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hobacare-jojoba",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-holifrog",
+      "brand": "HOLIFROG",
+      "aliases": [
+        "HOLIFROG"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/holifrog",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/holifrog",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-holistic-body-care-llc",
+      "brand": "Holistic Body Care LLC",
+      "aliases": [
+        "Holistic Body Care LLC",
+        "Holistic Body Care"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/holistic-body-care-llc",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/holistic-body-care-llc",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hollybeth-organics",
+      "brand": "HollyBeth Organics",
+      "aliases": [
+        "HollyBeth Organics"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hollybeth-organics",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hollybeth-organics",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-home-spa-collection",
+      "brand": "Home Spa Collection",
+      "aliases": [
+        "Home Spa Collection"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/home-spa-collection",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/home-spa-collection",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-homecourt",
+      "brand": "Homecourt",
+      "aliases": [
+        "Homecourt"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/homecourt",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/homecourt",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-homesolv",
+      "brand": "Homesolv",
+      "aliases": [
+        "Homesolv"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/homesolv",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/homesolv",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-homepourri",
+      "brand": "Home~Pourri",
+      "aliases": [
+        "Home~Pourri"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/homepourri",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/homepourri",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hommeface",
+      "brand": "HOMMEFACE",
+      "aliases": [
+        "HOMMEFACE"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hommeface",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hommeface",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hone",
+      "brand": "HONE",
+      "aliases": [
+        "HONE"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hone",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hone",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-honestly-phresh",
+      "brand": "Honestly pHresh",
+      "aliases": [
+        "Honestly pHresh"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/honestly-phresh",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/honestly-phresh",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-honey-sweetie-acres",
+      "brand": "Honey Sweetie Acres",
+      "aliases": [
+        "Honey Sweetie Acres"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/honey-sweetie-acres",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/honey-sweetie-acres",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-honeybee-gardens",
+      "brand": "Honeybee Gardens",
+      "aliases": [
+        "Honeybee Gardens"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/honeybee-gardens",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/honeybee-gardens",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-honor-house-beauty",
+      "brand": "Honor The House Beauty",
+      "aliases": [
+        "Honor The House Beauty"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/honor-house-beauty",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/honor-house-beauty",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hooplar",
+      "brand": "HOOPLA®",
+      "aliases": [
+        "HOOPLA®",
+        "HOOPLA"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hooplar",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hooplar",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hot-me",
+      "brand": "HOT LIKE ME",
+      "aliases": [
+        "HOT LIKE ME"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hot-me",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hot-me",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hot-tools",
+      "brand": "Hot Tools",
+      "aliases": [
+        "Hot Tools"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hot-tools",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hot-tools",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-house-elysia",
+      "brand": "House of Elysia",
+      "aliases": [
+        "House of Elysia"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/house-elysia",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/house-elysia",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-house-lashes",
+      "brand": "House of Lashes",
+      "aliases": [
+        "House of Lashes"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/house-lashes",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/house-lashes",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hownd",
+      "brand": "HOWND",
+      "aliases": [
+        "HOWND"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hownd",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hownd",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-huella",
+      "brand": "Huella",
+      "aliases": [
+        "Huella"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/huella",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/huella",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-humanist-beauty",
+      "brand": "Humanist Beauty",
+      "aliases": [
+        "Humanist Beauty"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/humanist-beauty",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/humanist-beauty",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-humanrace",
+      "brand": "Humanrace",
+      "aliases": [
+        "Humanrace"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/humanrace",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/humanrace",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-humble-brands",
+      "brand": "Humble Brands",
+      "aliases": [
+        "Humble Brands"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/humble-brands",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/humble-brands",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hume-supernatural",
+      "brand": "hume supernatural",
+      "aliases": [
+        "hume supernatural"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hume-supernatural",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hume-supernatural",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hummer",
+      "brand": "Hummer",
+      "aliases": [
+        "Hummer"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hummer",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hummer",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-huna-skin-inc",
+      "brand": "Huna Skin Inc",
+      "aliases": [
+        "Huna Skin Inc",
+        "Huna Skin"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/huna-skin-inc",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/huna-skin-inc",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-huppy",
+      "brand": "Huppy",
+      "aliases": [
+        "Huppy"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/huppy",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/huppy",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-huron",
+      "brand": "Huron",
+      "aliases": [
+        "Huron"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/huron",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/huron",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hush-hush",
+      "brand": "Hush & Hush",
+      "aliases": [
+        "Hush & Hush"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hush-hush",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hush-hush",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hushd",
+      "brand": "HUSHD",
+      "aliases": [
+        "HUSHD"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hushd",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hushd",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hustle-butter",
+      "brand": "Hustle Butter",
+      "aliases": [
+        "Hustle Butter"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hustle-butter",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hustle-butter",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hylamide",
+      "brand": "Hylamide",
+      "aliases": [
+        "Hylamide"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hylamide",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hylamide",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hynt-beauty",
+      "brand": "Hynt Beauty",
+      "aliases": [
+        "Hynt Beauty"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hynt-beauty",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hynt-beauty",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-hypothesis",
+      "brand": "Hypothesis",
+      "aliases": [
+        "Hypothesis"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/hypothesis",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/hypothesis",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-i-am-skincare-men",
+      "brand": "I AM Skincare for Men",
+      "aliases": [
+        "I AM Skincare for Men"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/i-am-skincare-men",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/i-am-skincare-men",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-i-love-me",
+      "brand": "I Love Me",
+      "aliases": [
+        "I Love Me"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/i-love-me",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/i-love-me",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-i-luv-it",
+      "brand": "I Luv It",
+      "aliases": [
+        "I Luv It"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/i-luv-it",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/i-luv-it",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-i-pekar",
+      "brand": "I Pekar",
+      "aliases": [
+        "I Pekar"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/i-pekar",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/i-pekar",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-ibd",
+      "brand": "IBD",
+      "aliases": [
+        "IBD"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/ibd",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/ibd",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-icing-face",
+      "brand": "Icing on the Face",
+      "aliases": [
+        "Icing on the Face"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/icing-face",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/icing-face",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-igk-llc",
+      "brand": "IGK LLC",
+      "aliases": [
+        "IGK LLC",
+        "IGK"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/igk-llc",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/igk-llc",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-iles-formula",
+      "brand": "Iles Formula",
+      "aliases": [
+        "Iles Formula"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/iles-formula",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/iles-formula",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-ilia",
+      "brand": "ILIA",
+      "aliases": [
+        "ILIA"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/ilia",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/ilia",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-illicit-curls",
+      "brand": "illicit curls",
+      "aliases": [
+        "illicit curls"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/illicit-curls",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/illicit-curls",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-illumia-skincare-products",
+      "brand": "Illumia skincare products",
+      "aliases": [
+        "Illumia skincare products"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/illumia-skincare-products",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/illumia-skincare-products",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-imean-beauty",
+      "brand": "IMEAN BEAUTY",
+      "aliases": [
+        "IMEAN BEAUTY"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/imean-beauty",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/imean-beauty",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-immaculate-anti-aging-skincare",
+      "brand": "Immaculate Anti-Aging Skincare",
+      "aliases": [
+        "Immaculate Anti-Aging Skincare"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/immaculate-anti-aging-skincare",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/immaculate-anti-aging-skincare",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-immaculate-minerals",
+      "brand": "Immaculate Minerals",
+      "aliases": [
+        "Immaculate Minerals"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/immaculate-minerals",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/immaculate-minerals",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-indie-lee-co",
+      "brand": "Indie Lee & Co.",
+      "aliases": [
+        "Indie Lee & Co.",
+        "Indie Lee &"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/indie-lee-co",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/indie-lee-co",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-indys-vibe",
+      "brand": "Indy's Vibe",
+      "aliases": [
+        "Indy's Vibe"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/indys-vibe",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/indys-vibe",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-infinitealoe",
+      "brand": "InfiniteAloe",
+      "aliases": [
+        "InfiniteAloe"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/infinitealoe",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/infinitealoe",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    },
+    {
+      "id": "leaping-bunny-infuse",
+      "brand": "Infuse",
+      "aliases": [
+        "Infuse"
+      ],
+      "status": "certified",
+      "scope": "brand",
+      "certificationName": "Leaping Bunny Certified",
+      "scopeNote": "Certification applies to this listed brand. It must not be transferred to a parent company, sibling brand, retailer, or unrelated product brand.",
+      "sourceUrl": "https://www.leapingbunny.org/brand/infuse",
+      "officialProfileUrl": "https://www.leapingbunny.org/brand/infuse",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.92
+    }
+  ]
+}

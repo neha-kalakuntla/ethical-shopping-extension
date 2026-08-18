@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "kind": "open_food_facts_product",
+  "capturedAt": "2026-07-31T21:47:37Z",
+  "source": {
+    "id": "open_food_facts",
+    "label": "Open Food Facts",
+    "issuer": "Open Food Facts",
+    "sourceType": "community_product_database",
+    "homepageUrl": "https://world.openfoodfacts.org"
+  },
+  "records": [
+    {
+      "allergens_tags": [
+        "en:milk",
+        "en:nuts",
+        "en:soybeans"
+      ],
+      "brands": "Nutella, Ferrero, Yum yum",
+      "brands_tags": [
+        "xx:nutella",
+        "xx:Ferrero",
+        "xx:Yum yum"
+      ],
+      "categories_tags": [
+        "en:breakfasts",
+        "en:spreads",
+        "en:sweet-spreads",
+        "en:confectionary-based-spreads",
+        "en:Petit-déjeuners",
+        "en:Produits à tartiner",
+        "en:Produits à tartiner sucrés",
+        "en:Pâtes à tartiner"
+      ],
+      "code": "3017620422003",
+      "countries_tags": [
+        "en:france"
+      ],
+      "environmental_score_grade": "unknown",
+      "image_front_url": "https://images.openfoodfacts.org/images/products/301/762/042/2003/front_en.879.400.jpg",
+      "ingredients": [
+        {
+          "ciqual_food_code": "31016",
+          "ciqual_proxy_food_code": "31016",
+          "ecobalyse_code": "8f075c25-9ebf-430c-b41d-51d165c6e0d8",
+          "id": "en:sugar",
+          "is_in_taxonomy": 1,
+          "percent_estimate": 52.13,
+          "quantity_estimate": 52.13,
+          "text": "Sucre",
+          "vegan": "maybe",
+          "vegetarian": "yes"
+        },
+        {
+          "ciqual_food_code": "16129",
+          "ecobalyse_code": "45658c32-66d9-4305-a34b-21d6a4cef89c",
+          "from_palm_oil": "yes",
+          "id": "en:palm-oil",
+          "is_in_taxonomy": 1,
+          "percent_estimate": 18.26,
+          "quantity_estimate": 18.26,
+          "text": "huile de palme",
+          "vegan": "yes",
+          "vegetarian": "yes"
+        },
+        {
+          "ciqual_food_code": "15004",
+          "ecobalyse_code": "hazelnut-unshelled-non-eu",
+          "id": "en:hazelnut",
+          "is_in_taxonomy": 1,
+          "percent": 13,
+          "percent_estimate": 13.5,
+          "quantity_estimate": 14.56,
+          "text": "NOISETTES",
+          "vegan": "yes",
+          "vegetarian": "yes"
+        },
+        {
+          "ciqual_food_code": "18100",
+          "ciqual_proxy_food_code": "18100",
+          "id": "en:fat-reduced-cocoa",
+          "is_in_taxonomy": 1,
+          "percent": 7.4,
+          "percent_estimate": 7.15,
+          "quantity_estimate": 7.15,
+          "text": "cacao maigre",
+          "vegan": "yes",
+          "vegetarian": "yes"
+        },
+        {
+          "ciqual_food_code": "19054",
+          "ecobalyse_code": "b6776a28-ec84-4bf3-988c-07b3c29f6136",
+          "id": "en:skimmed-milk-powder",
+          "is_in_taxonomy": 1,
+          "percent": 6.6,
+          "percent_estimate": 6.35,
+          "quantity_estimate": 6.35,
+          "text": "LAIT écrémé en poudre",
+          "vegan": "no",
+          "vegetarian": "yes"
+        },
+        {
+          "id": "en:whey-powder",
+          "is_in_taxonomy": 1,
+          "percent_estimate": 1.56,
+          "quantity_estimate": 1.56,
+          "text": "LACTOSERUM en poudre",
+          "vegan": "no",
+          "vegetarian": "maybe"
+        },
+        {
+          "id": "en:emulsifier",
+          "ingredients": [
+            {
+              "id": "en:e322",
+              "ingredients": [
+                {
+                  "ciqual_food_code": "42200",
+                  "id": "en:soya-lecithin",
+                  "is_in_taxonomy": 1,
+                  "percent_estimate": 1.56,
+                  "quantity_estimate": 1.56,
+                  "text": "lécithines de SOJA",
+                  "vegan": "yes",
+                  "vegetarian": "yes"
+                }
+              ],
+              "is_in_taxonomy": 1,
+              "percent_estimate": 1.56,
+              "quantity_estimate": 1.56,
+              "text": "lécithines",
+              "vegan": "maybe",
+              "vegetarian": "maybe"
+            }
+          ],
+          "is_in_taxonomy": 1,
+          "percent_estimate": 1.56,
+          "quantity_estimate": 1.56,
+          "text": "émulsifiants"
+        },
+        {
+          "id": "en:vanillin",
+          "is_in_taxonomy": 1,
+          "percent_estimate": 0,
+          "quantity_estimate": 0,
+          "text": "vanilline",
+          "vegan": "yes",
+          "vegetarian": "yes"
+        }
+      ],
+      "ingredients_text": "Sucre, huile de palme, NOISETTES 13%, cacao maigre 7,4%, LAIT écrémé en poudre 6,6%, LACTOSERUM en poudre, émulsifiants: lécithines [SOJA), vanilline. Sans gluten.",
+      "labels": "Sans gluten, en:no-gluten",
+      "labels_tags": [
+        "en:no-gluten"
+      ],
+      "last_modified_t": 1784675080,
+      "nova_group": 4,
+      "nutriments": {},
+      "nutriscore_grade": "e",
+      "packaging": "Plastic,fr:Pot en verre",
+      "packagings": [
+        {
+          "food_contact": 1,
+          "material": {
+            "id": "en:glass",
+            "lc_name": "Glass"
+          },
+          "number_of_units": 1,
+          "quantity_per_unit": "400 g",
+          "quantity_per_unit_unit": "g",
+          "quantity_per_unit_value": 400,
+          "recycling": {
+            "id": "en:recycle",
+            "lc_name": "recycle"
+          },
+          "shape": {
+            "id": "en:jar",
+            "lc_name": "Jar"
+          }
+        },
+        {
+          "food_contact": 0,
+          "material": {
+            "id": "en:pp-5-polypropylene",
+            "lc_name": "PP 5 - Polypropylene"
+          },
+          "number_of_units": 1,
+          "quantity_per_unit": "400 g",
+          "quantity_per_unit_unit": "g",
+          "quantity_per_unit_value": 400,
+          "recycling": {
+            "id": "en:recycle",
+            "lc_name": "recycle"
+          },
+          "shape": {
+            "id": "en:screw-cap",
+            "lc_name": "screw cap"
+          }
+        },
+        {
+          "food_contact": 0,
+          "material": {
+            "id": "en:paperboard",
+            "lc_name": "Paperboard"
+          },
+          "number_of_units": 1,
+          "quantity_per_unit": "400 g",
+          "quantity_per_unit_unit": "g",
+          "quantity_per_unit_value": 400,
+          "recycling": {
+            "id": "en:recycle",
+            "lc_name": "recycle"
+          },
+          "shape": {
+            "id": "en:plaque",
+            "lc_name": "plaque"
+          }
+        },
+        {
+          "food_contact": 1,
+          "material": {
+            "id": "en:paperboard",
+            "lc_name": "Paperboard"
+          },
+          "number_of_units": 1,
+          "quantity_per_unit": "400 g",
+          "quantity_per_unit_unit": "g",
+          "quantity_per_unit_value": 400,
+          "recycling": {
+            "id": "en:recycle",
+            "lc_name": "recycle"
+          },
+          "shape": {
+            "id": "en:seal",
+            "lc_name": "Seal"
+          }
+        }
+      ],
+      "product_name": "Nutella",
+      "traces_tags": []
+    }
+  ]
+}

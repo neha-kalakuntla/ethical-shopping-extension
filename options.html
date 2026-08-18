@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ethical Grade Settings</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <main>
+    <header>
+      <div class="brand">
+        <img id="headerLogo" src="icons/icon128.png" alt="Ethical Grade logo">
+        <div>
+          <p>Ethical Grade</p>
+          <h1>Personal grading system</h1>
+        </div>
+      </div>
+      <button id="saveButton" type="button">Save</button>
+    </header>
+
+    <section class="panel">
+      <label>Profile name
+        <input id="profileName" type="text" autocomplete="off">
+      </label>
+    </section>
+
+    <section class="panel">
+      <h2>Preset</h2>
+      <div id="presetGrid" class="cards"></div>
+    </section>
+
+    <section class="grid">
+      <div class="panel">
+        <h2>Weights</h2>
+        <div id="categoryList"></div>
+      </div>
+      <aside class="panel">
+        <h2>Preview</h2>
+        <select id="sampleProduct"></select>
+        <div id="gradePreview" class="preview"></div>
+      </aside>
+    </section>
+
+    <section class="panel">
+      <h2>Strictness</h2>
+      <div id="strictnessGroup" class="segmented"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Missing data penalty</h2>
+      <div id="missingGroup" class="cards compact"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Dealbreakers</h2>
+      <div id="dealbreakerList"></div>
+    </section>
+
+    <section class="panel">
+      <h2>RAG evidence export</h2>
+      <p id="claimArchiveSummary">Checking locally captured merchant claims…</p>
+      <button id="exportClaimsButton" type="button">Export page claims</button>
+    </section>
+
+    <footer>
+      <button id="resetButton" type="button">Reset</button>
+      <span id="status"></span>
+    </footer>
+  </main>
+  <script src="shared.js"></script>
+  <script src="options.js"></script>
+</body>
+</html>
