@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ethical Grade identity preview</title>
+    <link rel="stylesheet" href="../content.css">
+    <style>
+      body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #f6f3eb; font-family: system-ui, sans-serif; }
+      #demo { position: relative; width: min(92vw, 420px); min-height: 580px; }
+      .eg-popover { display: block !important; position: static !important; width: auto !important; }
+      .eg-popover-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+      .eg-popover-header h3 { margin: .25rem 0 .75rem; }
+      .eg-eyebrow { color: #527064; font-size: .75rem; font-weight: 750; text-transform: uppercase; letter-spacing: .06em; }
+      .eg-large-grade { flex: 0 0 auto; display: grid; place-items: center; width: 3rem; height: 3rem; border-radius: 999px; background: #efe7d8; font-size: 1.15rem; font-weight: 800; }
+      .eg-summary { margin: 0 0 1rem; color: #52615b; }
+      .eg-details { display: grid; gap: .65rem; }
+      .eg-detail-row { display: grid; grid-template-columns: 88px minmax(0, 1fr); gap: .75rem; align-items: start; }
+      .eg-detail-row span { color: #68756f; font-size: .82rem; }
+      .eg-detail-row strong { overflow-wrap: anywhere; font-size: .84rem; line-height: 1.35; }
+      .eg-disclaimer { margin: 1.1rem 0 0; color: #68756f; font-size: .78rem; line-height: 1.4; }
+      .preview-error { color: #8b1e1e; padding: 1rem; background: white; border-radius: 12px; }
+    </style>
+  </head>
+  <body>
+    <main id="demo" aria-live="polite"></main>
+    <script src="../shared.js"></script>
+    <script src="identity-demo.js"></script>
+  </body>
+</html>

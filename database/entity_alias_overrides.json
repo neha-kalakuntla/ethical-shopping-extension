@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "overrides": {
+    "usda-organic-5520030778": {
+      "aliases": ["Applegate"],
+      "reason": "Reviewed retail brand for the USDA-listed operation Applegate Farms."
+    },
+    "gots-sco011402": {
+      "aliases": ["Boll & Branch", "BOLL & BRANCH", "BOLL&BRANCH"],
+      "extensionEligible": true,
+      "reason": "Reviewed retail brand for the GOTS-listed brand and retailer Boll & Branch LLC."
+    }
+  }
+}

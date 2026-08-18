@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-09",
+  "products": [
+    {
+      "id": "gtin:3017620422003",
+      "barcode": "3017620422003",
+      "name": "Nutella",
+      "facts": {
+        "allergens": [
+          "en:milk",
+          "en:nuts",
+          "en:soybeans"
+        ],
+        "brand": "Nutella, Ferrero, Yum yum",
+        "categories": [
+          "en:breakfasts",
+          "en:spreads",
+          "en:sweet-spreads",
+          "en:confectionary-based-spreads",
+          "en:Petit-déjeuners",
+          "en:Produits à tartiner",
+          "en:Produits à tartiner sucrés",
+          "en:Pâtes à tartiner"
+        ],
+        "environmental_score_grade": "unknown",
+        "ingredients_text": "Sucre, huile de palme, NOISETTES 13%, cacao maigre 7,4%, LAIT écrémé en poudre 6,6%, LACTOSERUM en poudre, émulsifiants: lécithines [SOJA), vanilline. Sans gluten.",
+        "labels": [
+          "en:no-gluten"
+        ],
+        "nova_group": 4,
+        "nutriscore_grade": "e",
+        "packaging": [
+          {
+            "food_contact": 1,
+            "material": {
+              "id": "en:glass",
+              "lc_name": "Glass"
+            },
+            "number_of_units": 1,
+            "quantity_per_unit": "400 g",
+            "quantity_per_unit_unit": "g",
+            "quantity_per_unit_value": 400,
+            "recycling": {
+              "id": "en:recycle",
+              "lc_name": "recycle"
+            },
+            "shape": {
+              "id": "en:jar",
+              "lc_name": "Jar"
+            }
+          },
+          {
+            "food_contact": 0,
+            "material": {
+              "id": "en:pp-5-polypropylene",
+              "lc_name": "PP 5 - Polypropylene"
+            },
+            "number_of_units": 1,
+            "quantity_per_unit": "400 g",
+            "quantity_per_unit_unit": "g",
+            "quantity_per_unit_value": 400,
+            "recycling": {
+              "id": "en:recycle",
+              "lc_name": "recycle"
+            },
+            "shape": {
+              "id": "en:screw-cap",
+              "lc_name": "screw cap"
+            }
+          },
+          {
+            "food_contact": 0,
+            "material": {
+              "id": "en:paperboard",
+              "lc_name": "Paperboard"
+            },
+            "number_of_units": 1,
+            "quantity_per_unit": "400 g",
+            "quantity_per_unit_unit": "g",
+            "quantity_per_unit_value": 400,
+            "recycling": {
+              "id": "en:recycle",
+              "lc_name": "recycle"
+            },
+            "shape": {
+              "id": "en:plaque",
+              "lc_name": "plaque"
+            }
+          },
+          {
+            "food_contact": 1,
+            "material": {
+              "id": "en:paperboard",
+              "lc_name": "Paperboard"
+            },
+            "number_of_units": 1,
+            "quantity_per_unit": "400 g",
+            "quantity_per_unit_unit": "g",
+            "quantity_per_unit_value": 400,
+            "recycling": {
+              "id": "en:recycle",
+              "lc_name": "recycle"
+            },
+            "shape": {
+              "id": "en:seal",
+              "lc_name": "Seal"
+            }
+          }
+        ]
+      },
+      "sourceUrl": "https://world.openfoodfacts.org/product/3017620422003",
+      "capturedAt": "2026-07-31T21:47:37Z"
+    }
+  ]
+}

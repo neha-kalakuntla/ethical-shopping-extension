@@ -1,0 +1,2769 @@
+{
+  "schemaVersion": 1,
+  "kind": "certification_directory",
+  "capturedAt": "2026-08-04",
+  "source": {
+    "id": "rainforest_alliance_find_certified",
+    "certificationName": "Rainforest Alliance Certified seal listing",
+    "defaultScope": "brand",
+    "recordIdPrefix": "rainforest-alliance"
+  },
+  "records": [
+    {
+      "id": "rainforest-alliance-catamona",
+      "brand": "Catamona",
+      "aliases": [
+        "Catamona"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "China"
+      ],
+      "scopeNote": "The directory lists Catamona products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/catamona/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/catamona/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "www.catamona.com",
+        "purchase_url": "https://www.catamona1998.com/pages/sales-base"
+      }
+    },
+    {
+      "id": "rainforest-alliance-fuze-tea",
+      "brand": "Fuze Tea",
+      "aliases": [
+        "Fuze Tea"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "North Macedonia",
+        "Spain",
+        "Portugal",
+        "Austria",
+        "Estonia",
+        "France",
+        "Germany",
+        "Greece",
+        "Italy",
+        "Latvia",
+        "Lithuania",
+        "Montenegro",
+        "Poland",
+        "Serbia"
+      ],
+      "scopeNote": "The directory lists Fuze Tea products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/fuze-tea/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/fuze-tea/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.coca-cola.co.uk/drinks/fuze-tea"
+      }
+    },
+    {
+      "id": "rainforest-alliance-fyffes",
+      "brand": "Fyffes",
+      "aliases": [
+        "Fyffes"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Bananas"
+      ],
+      "matchTerms": [
+        "Bananas"
+      ],
+      "certifiedIngredients": [
+        "Bananas"
+      ],
+      "availableIn": [
+        "New Zealand",
+        "Belgium",
+        "France",
+        "Germany",
+        "Ireland",
+        "Netherlands",
+        "Portugal",
+        "Spain",
+        "United Kingdom"
+      ],
+      "scopeNote": "The directory lists Fyffes products in these categories with certified ingredient(s): Bananas. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/fyffes/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/fyffes/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.fyffes.com"
+      }
+    },
+    {
+      "id": "rainforest-alliance-hersheys",
+      "brand": "Hershey's",
+      "aliases": [
+        "Hershey's"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Chocolate"
+      ],
+      "matchTerms": [
+        "Chocolate",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Cocoa"
+      ],
+      "availableIn": [
+        "Argentina",
+        "Chile",
+        "Colombia",
+        "Costa Rica",
+        "El Salvador",
+        "Guatemala",
+        "Panama",
+        "Paraguay",
+        "Peru",
+        "Brazil"
+      ],
+      "scopeNote": "The directory lists Hershey's products in these categories with certified ingredient(s): Cocoa. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/hersheys/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/hersheys/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.thehersheycompany.com/en_us/home.html"
+      }
+    },
+    {
+      "id": "rainforest-alliance-nerada",
+      "brand": "Nerada",
+      "aliases": [
+        "Nerada"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "New Zealand",
+        "Australia"
+      ],
+      "scopeNote": "The directory lists Nerada products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/nerada/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/nerada/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.neradatea.com.au/",
+        "purchase_url": "https://www.neradatea.com.au/our-teas/shop"
+      }
+    },
+    {
+      "id": "rainforest-alliance-albi",
+      "brand": "Albi",
+      "aliases": [
+        "Albi"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Juice, Smoothies",
+        "Orange Juice"
+      ],
+      "matchTerms": [
+        "Juice, Smoothies",
+        "Orange Juice",
+        "Fruit"
+      ],
+      "certifiedIngredients": [
+        "Fruit"
+      ],
+      "availableIn": [
+        "Germany"
+      ],
+      "scopeNote": "The directory lists Albi products in these categories with certified ingredient(s): Fruit. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/albi/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/albi/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.albi.de/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-ali-kaffe",
+      "brand": "ALI Kaffe",
+      "aliases": [
+        "ALI Kaffe"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Norway"
+      ],
+      "scopeNote": "The directory lists ALI Kaffe products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/ali-kaffe/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/ali-kaffe/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.alikaffe.no"
+      }
+    },
+    {
+      "id": "rainforest-alliance-kroger",
+      "brand": "Kroger",
+      "aliases": [
+        "Kroger"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Chocolate"
+      ],
+      "matchTerms": [
+        "Chocolate",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Cocoa"
+      ],
+      "availableIn": [
+        "United States"
+      ],
+      "scopeNote": "The directory lists Kroger products in these categories with certified ingredient(s): Cocoa. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/kroger/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/kroger/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.kroger.com"
+      }
+    },
+    {
+      "id": "rainforest-alliance-taragui",
+      "brand": "Taragüí",
+      "aliases": [
+        "Taragüí"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Yerba Mate"
+      ],
+      "matchTerms": [
+        "Yerba Mate",
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "Uruguay",
+        "Chile",
+        "France",
+        "Spain",
+        "United States"
+      ],
+      "scopeNote": "The directory lists Taragüí products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/taragui/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/taragui/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "www.taragui.com"
+      }
+    },
+    {
+      "id": "rainforest-alliance-zavida",
+      "brand": "Zavida Coffee",
+      "aliases": [
+        "Zavida Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Canada",
+        "United States"
+      ],
+      "scopeNote": "The directory lists Zavida Coffee products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/zavida/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/zavida/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.zavida.com",
+        "purchase_url": "https://www.zavida.com"
+      }
+    },
+    {
+      "id": "rainforest-alliance-caribou",
+      "brand": "Caribou Coffee",
+      "aliases": [
+        "Caribou Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "United States"
+      ],
+      "scopeNote": "The directory lists Caribou Coffee products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/caribou/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/caribou/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.cariboucoffee.com/",
+        "purchase_url": "https://shop.cariboucoffee.com/asp/shop/index.asp"
+      }
+    },
+    {
+      "id": "rainforest-alliance-royal-cup",
+      "brand": "Royal Cup Coffee",
+      "aliases": [
+        "Royal Cup Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Canada",
+        "United States"
+      ],
+      "scopeNote": "The directory lists Royal Cup Coffee products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/royal-cup/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/royal-cup/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.royalcupcoffee.com/",
+        "purchase_url": "https://store.royalcupcoffee.com/home"
+      }
+    },
+    {
+      "id": "rainforest-alliance-reunion-coffee-roasters",
+      "brand": "Reunion Coffee Roasters",
+      "aliases": [
+        "Reunion Coffee Roasters"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "United States",
+        "Canada"
+      ],
+      "scopeNote": "The directory lists Reunion Coffee Roasters products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/reunion-coffee-roasters/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/reunion-coffee-roasters/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://reunioncoffeeroasters.com/",
+        "purchase_url": "https://reunioncoffeeroasters.com/collections/coffee"
+      }
+    },
+    {
+      "id": "rainforest-alliance-luzianne-tea",
+      "brand": "Luzianne Tea",
+      "aliases": [
+        "Luzianne Tea"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "United States"
+      ],
+      "scopeNote": "The directory lists Luzianne Tea products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/luzianne-tea/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/luzianne-tea/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://luzianne.com",
+        "purchase_url": "https://reilyproducts.com/product-category/brand/luzianne-tea"
+      }
+    },
+    {
+      "id": "rainforest-alliance-tayst",
+      "brand": "Tayst",
+      "aliases": [
+        "Tayst"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "United States",
+        "Canada"
+      ],
+      "scopeNote": "The directory lists Tayst products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/tayst/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/tayst/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.tayst.com/",
+        "purchase_url": "https://www.tayst.com/pages/our-products"
+      }
+    },
+    {
+      "id": "rainforest-alliance-verena-street-coffee",
+      "brand": "Verena Street Coffee",
+      "aliases": [
+        "Verena Street Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "United States"
+      ],
+      "scopeNote": "The directory lists Verena Street Coffee products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/verena-street-coffee/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/verena-street-coffee/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.verenastreet.com",
+        "purchase_url": "https://www.verenastreet.com"
+      }
+    },
+    {
+      "id": "rainforest-alliance-breyers",
+      "brand": "Breyers",
+      "aliases": [
+        "Breyers"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Ice Cream, Vanilla"
+      ],
+      "matchTerms": [
+        "Ice Cream, Vanilla",
+        "Herbs & Spices"
+      ],
+      "certifiedIngredients": [
+        "Herbs & Spices"
+      ],
+      "availableIn": [
+        "United States"
+      ],
+      "scopeNote": "The directory lists Breyers products in these categories with certified ingredient(s): Herbs & Spices. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/breyers/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/breyers/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.breyers.com/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-solevita",
+      "brand": "Solevita",
+      "aliases": [
+        "Solevita"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Orange Juice"
+      ],
+      "matchTerms": [
+        "Orange Juice",
+        "Fruit"
+      ],
+      "certifiedIngredients": [
+        "Fruit"
+      ],
+      "availableIn": [
+        "Italy",
+        "United States",
+        "United Kingdom",
+        "Switzerland",
+        "Sweden",
+        "Slovenia",
+        "Slovakia",
+        "Serbia",
+        "Romania",
+        "Poland",
+        "Luxembourg",
+        "Lithuania",
+        "Latvia",
+        "Ireland",
+        "Hungary",
+        "Greece",
+        "France",
+        "Finland",
+        "Estonia",
+        "Denmark",
+        "Czech Republic",
+        "Cyprus",
+        "Croatia",
+        "Bulgaria",
+        "Belgium",
+        "Austria",
+        "Germany",
+        "Netherlands"
+      ],
+      "scopeNote": "The directory lists Solevita products in these categories with certified ingredient(s): Fruit. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/solevita/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/solevita/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.lidl.de/de/solevita/b6840"
+      }
+    },
+    {
+      "id": "rainforest-alliance-nespresso",
+      "brand": "Nespresso",
+      "aliases": [
+        "Nespresso"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Cocoa",
+        "Coffee"
+      ],
+      "availableIn": [
+        "Uruguay",
+        "Algeria",
+        "Argentina",
+        "Australia",
+        "Austria",
+        "Bahrain",
+        "Belgium",
+        "Brazil",
+        "Canada",
+        "Chile",
+        "China",
+        "Colombia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Dominican Republic",
+        "Egypt",
+        "Finland",
+        "France",
+        "Gabon",
+        "Germany",
+        "Ghana",
+        "Greece",
+        "Hong Kong, China",
+        "Hungary",
+        "Ireland",
+        "Israel",
+        "Italy",
+        "Ivory Coast",
+        "Japan",
+        "Jordan",
+        "Kuwait",
+        "Lebanon",
+        "Luxembourg",
+        "Malaysia",
+        "Mauritius",
+        "Mexico",
+        "Morocco",
+        "Netherlands",
+        "New Zealand",
+        "Norway",
+        "Oman",
+        "Panama",
+        "Poland",
+        "Portugal",
+        "Qatar",
+        "Réunion",
+        "Romania",
+        "Russia",
+        "Saudi Arabia",
+        "Senegal",
+        "Singapore",
+        "Slovakia",
+        "South Africa",
+        "South Korea",
+        "Spain",
+        "Sweden",
+        "Switzerland",
+        "Taiwan, China",
+        "Thailand",
+        "Turkey",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States"
+      ],
+      "scopeNote": "The directory lists Nespresso products in these categories with certified ingredient(s): Cocoa, Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/nespresso/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/nespresso/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.nespresso.com?utm_id=6a26af9d-9d10-4647-92cb-8895503c3228"
+      }
+    },
+    {
+      "id": "rainforest-alliance-chocolove",
+      "brand": "Chocolove",
+      "aliases": [
+        "Chocolove"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Chocolate"
+      ],
+      "matchTerms": [
+        "Chocolate",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Cocoa"
+      ],
+      "availableIn": [
+        "Canada",
+        "United States"
+      ],
+      "scopeNote": "The directory lists Chocolove products in these categories with certified ingredient(s): Cocoa. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/chocolove/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/chocolove/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.chocolove.com/",
+        "purchase_url": "https://www.chocolove.com/shop/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-yogi",
+      "brand": "Yogi",
+      "aliases": [
+        "Yogi"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Rooibos",
+        "Tea"
+      ],
+      "matchTerms": [
+        "Rooibos",
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "Japan",
+        "Canada",
+        "United States"
+      ],
+      "scopeNote": "The directory lists Yogi products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/yogi/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/yogi/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.yogiproducts.com/",
+        "purchase_url": "https://yogiproducts.com/teas/all-yogi-teas/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-tetley",
+      "brand": "Tetley",
+      "aliases": [
+        "Tetley"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "Australia",
+        "Canada",
+        "Denmark",
+        "France",
+        "Germany",
+        "India",
+        "Italy",
+        "Netherlands",
+        "Poland",
+        "Spain",
+        "United States",
+        "United Kingdom"
+      ],
+      "scopeNote": "The directory lists Tetley products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/tetley/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/tetley/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.tetley.co.uk/",
+        "purchase_url": "https://www.amazon.co.uk/stores/Tetley/page/4018B711-A455-4706-B6AC-531E48850680?ref_=ast_bln"
+      }
+    },
+    {
+      "id": "rainforest-alliance-bulletproof",
+      "brand": "Bulletproof Cold Brew Coffee",
+      "aliases": [
+        "Bulletproof Cold Brew Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Canada",
+        "United States"
+      ],
+      "scopeNote": "The directory lists Bulletproof Cold Brew Coffee products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/bulletproof/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/bulletproof/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.bulletproof.com/",
+        "purchase_url": "https://shop.bulletproof.com/collections/coffee"
+      }
+    },
+    {
+      "id": "rainforest-alliance-la-colombe",
+      "brand": "La Colombe Torrefaction",
+      "aliases": [
+        "La Colombe Torrefaction"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "United States"
+      ],
+      "scopeNote": "The directory lists La Colombe Torrefaction products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/la-colombe/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/la-colombe/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.lacolombe.com",
+        "purchase_url": "http://www.lacolombe.com/pages/coffee"
+      }
+    },
+    {
+      "id": "rainforest-alliance-barrys",
+      "brand": "Barry's Tea",
+      "aliases": [
+        "Barry's Tea"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "United States",
+        "United Kingdom",
+        "United Arab Emirates",
+        "Spain",
+        "South Korea",
+        "Saudi Arabia",
+        "Portugal",
+        "Netherlands",
+        "Germany",
+        "France",
+        "Canada",
+        "Bosnia-Herzegovina",
+        "Australia",
+        "Ireland"
+      ],
+      "scopeNote": "The directory lists Barry's Tea products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/barrys/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/barrys/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.barrystea.ie/",
+        "purchase_url": "https://barrysteashop.ie/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-tejava",
+      "brand": "Tejava",
+      "aliases": [
+        "Tejava"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "United States"
+      ],
+      "scopeNote": "The directory lists Tejava products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/tejava/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/tejava/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "http://www.tejava.com/",
+        "purchase_url": "https://tejava.com/collections/tejava-collection"
+      }
+    },
+    {
+      "id": "rainforest-alliance-eightoclock",
+      "brand": "Eight O'Clock Coffee Company",
+      "aliases": [
+        "Eight O'Clock Coffee Company"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "United States"
+      ],
+      "scopeNote": "The directory lists Eight O'Clock Coffee Company products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/eightoclock/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/eightoclock/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "http://www.eightoclock.com/",
+        "purchase_url": "https://www.eightoclock.com/collections/all"
+      }
+    },
+    {
+      "id": "rainforest-alliance-lyons",
+      "brand": "Lyons",
+      "aliases": [
+        "Lyons"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "United Kingdom"
+      ],
+      "scopeNote": "The directory lists Lyons products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/lyons/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/lyons/",
+      "verifiedAt": "2026-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.lyonstea.ie"
+      }
+    },
+    {
+      "id": "rainforest-alliance-lidl",
+      "brand": "Lidl",
+      "aliases": [
+        "Lidl"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Pineapples",
+        "Tea",
+        "Rooibos",
+        "Chocolate",
+        "Coffee",
+        "Flowers & Plants"
+      ],
+      "matchTerms": [
+        "Pineapples",
+        "Tea",
+        "Rooibos",
+        "Chocolate",
+        "Coffee",
+        "Flowers & Plants",
+        "Cocoa",
+        "Fruit",
+        "Herbs & Spices"
+      ],
+      "certifiedIngredients": [
+        "Cocoa",
+        "Fruit",
+        "Coffee",
+        "Tea",
+        "Herbs & Spices"
+      ],
+      "availableIn": [
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "Argentina",
+        "Australia",
+        "Bahrain",
+        "Belarus",
+        "Belize",
+        "Bolivia",
+        "Bosnia-Herzegovina",
+        "Brazil",
+        "Cambodia",
+        "Cameroon",
+        "Canada",
+        "Chile",
+        "China",
+        "Colombia",
+        "Costa Rica",
+        "Croatia",
+        "Cyprus",
+        "Dominican Republic",
+        "Ecuador",
+        "Egypt",
+        "El Salvador",
+        "Estonia",
+        "Ethiopia",
+        "Gabon",
+        "Ghana",
+        "Global",
+        "Guatemala",
+        "Honduras",
+        "Hong Kong, China",
+        "Hungary",
+        "Iceland",
+        "India",
+        "Indonesia",
+        "Israel",
+        "Ivory Coast",
+        "Japan",
+        "Jordan",
+        "Kenya",
+        "Kosovo",
+        "Kuwait",
+        "Latvia",
+        "Lebanon",
+        "Liechtenstein",
+        "Lithuania",
+        "Luxembourg",
+        "Macedonia",
+        "Malaysia",
+        "Malta",
+        "Mauritius",
+        "Mexico",
+        "Moldova",
+        "Montenegro",
+        "Morocco",
+        "New Zealand",
+        "Nicaragua",
+        "Norway",
+        "Oman",
+        "Pakistan",
+        "Panama",
+        "Paraguay",
+        "Peru",
+        "Qatar",
+        "Romania",
+        "Russia",
+        "Rwanda",
+        "Saudi Arabia",
+        "Scotland",
+        "Senegal",
+        "Serbia",
+        "Singapore",
+        "South Africa",
+        "South Korea",
+        "Sri Lanka",
+        "Suriname",
+        "Taiwan, China",
+        "Tanzania",
+        "Thailand",
+        "Turkey",
+        "Uganda",
+        "Ukraine",
+        "United Arab Emirates",
+        "United States",
+        "Uruguay",
+        "Venezuela",
+        "Vietnam",
+        "Puerto Rico",
+        "Azerbaijan",
+        "Bangladesh",
+        "Kazakhstan",
+        "Maldives",
+        "Timor-Leste",
+        "Palestine",
+        "Uzbekistan",
+        "North Macedonia",
+        "Kiribati",
+        "Nauru",
+        "New Caledonia",
+        "Philippines",
+        "Samoa",
+        "Tonga",
+        "Vanuatu",
+        "Darussalam",
+        "French Polynesia",
+        "Brunei",
+        "Georgia",
+        "Syrian Arab Republic",
+        "Sierra Leone",
+        "American Samoa",
+        "Aruba",
+        "Curaçao",
+        "Macao",
+        "Great Britain",
+        "Saint Martin",
+        "Austria",
+        "Belgium",
+        "Bulgaria",
+        "Czech Republic",
+        "Denmark",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Ireland",
+        "Italy",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Slovakia",
+        "Slovenia",
+        "Spain",
+        "Sweden",
+        "Switzerland",
+        "United Kingdom"
+      ],
+      "scopeNote": "The directory lists Lidl products in these categories with certified ingredient(s): Cocoa, Fruit, Coffee, Tea, Herbs & Spices. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/lidl/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/lidl/",
+      "verifiedAt": "2026-03-19",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.lidl.de/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-heritage",
+      "brand": "Heritage Coffee",
+      "aliases": [
+        "Heritage Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Canada"
+      ],
+      "scopeNote": "The directory lists Heritage Coffee products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/heritage/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/heritage/",
+      "verifiedAt": "2026-03-18",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.heritagecoffee.com/",
+        "purchase_url": "https://www.heritagecoffee.com/product-category/coffee/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-muskoka",
+      "brand": "Muskoka Roastery Coffee Company",
+      "aliases": [
+        "Muskoka Roastery Coffee Company"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Canada"
+      ],
+      "scopeNote": "The directory lists Muskoka Roastery Coffee Company products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/muskoka/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/muskoka/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "http://muskokaroastery.com/",
+        "purchase_url": "https://www.muskokaroastery.com/collections/all-products"
+      }
+    },
+    {
+      "id": "rainforest-alliance-joe",
+      "brand": "Joe Coffee Company",
+      "aliases": [
+        "Joe Coffee Company"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "United States"
+      ],
+      "scopeNote": "The directory lists Joe Coffee Company products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/joe/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/joe/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "http://www.joenewyork.com/",
+        "purchase_url": "https://joecoffeecompany.com/collections/shop-all"
+      }
+    },
+    {
+      "id": "rainforest-alliance-asda",
+      "brand": "ASDA",
+      "aliases": [
+        "ASDA"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Bananas",
+        "Dessert",
+        "Chocolate",
+        "Tea",
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Bananas",
+        "Dessert",
+        "Chocolate",
+        "Tea",
+        "Coffee",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Bananas",
+        "Tea",
+        "Coffee",
+        "Cocoa"
+      ],
+      "availableIn": [
+        "Ireland",
+        "United Kingdom"
+      ],
+      "scopeNote": "The directory lists ASDA products in these categories with certified ingredient(s): Bananas, Tea, Coffee, Cocoa. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/asda/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/asda/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.asda.com/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-remsey",
+      "brand": "Remsey",
+      "aliases": [
+        "Remsey"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "Slovakia",
+        "Poland"
+      ],
+      "scopeNote": "The directory lists Remsey products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/remsey/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/remsey/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.biedronka.pl/pl"
+      }
+    },
+    {
+      "id": "rainforest-alliance-art-coffee",
+      "brand": "Art Coffee",
+      "aliases": [
+        "Art Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Japan"
+      ],
+      "scopeNote": "The directory lists Art Coffee products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/art-coffee/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/art-coffee/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.artcoffee.co.jp/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-mokate",
+      "brand": "Mokate",
+      "aliases": [
+        "Mokate"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Chocolate",
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Chocolate",
+        "Coffee",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Cocoa",
+        "Coffee"
+      ],
+      "availableIn": [
+        "Slovakia",
+        "Georgia",
+        "United Kingdom",
+        "Sweden",
+        "Spain",
+        "Saudi Arabia",
+        "Romania",
+        "Norway",
+        "Hungary",
+        "Germany",
+        "France",
+        "Denmark",
+        "Czech Republic",
+        "Poland"
+      ],
+      "scopeNote": "The directory lists Mokate products in these categories with certified ingredient(s): Cocoa, Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/mokate/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/mokate/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.sklep.mokate.com.pl/",
+        "purchase_url": "https://www.sklep.mokate.com.pl/oferta.html"
+      }
+    },
+    {
+      "id": "rainforest-alliance-birchall",
+      "brand": "Birchall",
+      "aliases": [
+        "Birchall"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "United Kingdom"
+      ],
+      "scopeNote": "The directory lists Birchall products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/birchall/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/birchall/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://birchalltea.co.uk/",
+        "purchase_url": "https://birchalltea.co.uk/tea-shop"
+      }
+    },
+    {
+      "id": "rainforest-alliance-nesquik",
+      "brand": "Nesquik",
+      "aliases": [
+        "Nesquik"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Cocoa Powder"
+      ],
+      "matchTerms": [
+        "Cocoa Powder",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Cocoa"
+      ],
+      "availableIn": [
+        "South Africa",
+        "Moldova",
+        "Montenegro",
+        "Netherlands",
+        "New Zealand",
+        "Norway",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Serbia",
+        "Slovakia",
+        "Slovenia",
+        "Mexico",
+        "Spain",
+        "Sweden",
+        "Switzerland",
+        "Turkey",
+        "Ukraine",
+        "United Kingdom",
+        "United States",
+        "North Macedonia",
+        "France",
+        "Australia",
+        "Austria",
+        "Belgium",
+        "Bosnia-Herzegovina",
+        "Bulgaria",
+        "Croatia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "Albania",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Italy",
+        "Kosovo",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta"
+      ],
+      "scopeNote": "The directory lists Nesquik products in these categories with certified ingredient(s): Cocoa. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/nesquik/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/nesquik/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "www.nestle.com"
+      }
+    },
+    {
+      "id": "rainforest-alliance-costa",
+      "brand": "Costa Coffee",
+      "aliases": [
+        "Costa Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Mexico",
+        "United States",
+        "United Kingdom"
+      ],
+      "scopeNote": "The directory lists Costa Coffee products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/costa/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/costa/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "http://www.costacoffee.com/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-kaufland",
+      "brand": "Kaufland",
+      "aliases": [
+        "Kaufland"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Chocolate",
+        "Tea",
+        "Cocoa Powder",
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Chocolate",
+        "Tea",
+        "Cocoa Powder",
+        "Coffee",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Cocoa",
+        "Coffee",
+        "Tea"
+      ],
+      "availableIn": [
+        "Bulgaria",
+        "Hungary",
+        "Moldova",
+        "Croatia",
+        "Czech Republic",
+        "Germany",
+        "Poland",
+        "Romania",
+        "Slovakia"
+      ],
+      "scopeNote": "The directory lists Kaufland products in these categories with certified ingredient(s): Cocoa, Coffee, Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/kaufland/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/kaufland/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.kaufland.com",
+        "purchase_url": "https://shop.kaufland.de/pointofservice-finder"
+      }
+    },
+    {
+      "id": "rainforest-alliance-bentax",
+      "brand": "Bentax",
+      "aliases": [
+        "Bentax"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Norway",
+        "Denmark"
+      ],
+      "scopeNote": "The directory lists Bentax products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/bentax/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/bentax/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.bentax.dk/",
+        "purchase_url": "https://www.bentax.dk/bentax/c/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-paradiso",
+      "brand": "Paradiso",
+      "aliases": [
+        "Paradiso"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Mangoes",
+        "Pineapples",
+        "Orange Juice"
+      ],
+      "matchTerms": [
+        "Mangoes",
+        "Pineapples",
+        "Orange Juice",
+        "Fruit"
+      ],
+      "certifiedIngredients": [
+        "Fruit"
+      ],
+      "availableIn": [
+        "Austria",
+        "Poland",
+        "Germany"
+      ],
+      "scopeNote": "The directory lists Paradiso products in these categories with certified ingredient(s): Fruit. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/paradiso/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/paradiso/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.penny.de/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-moevenpick",
+      "brand": "Mövenpick",
+      "aliases": [
+        "Mövenpick"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Coffee",
+        "Cocoa"
+      ],
+      "availableIn": [
+        "Slovenia",
+        "Bangladesh",
+        "United Kingdom",
+        "United Arab Emirates",
+        "Ukraine",
+        "Turkey",
+        "Taiwan, China",
+        "Switzerland",
+        "Sweden",
+        "Spain",
+        "South Korea",
+        "Kazakhstan",
+        "Slovakia",
+        "Singapore",
+        "Saudi Arabia",
+        "Romania",
+        "Poland",
+        "Pakistan",
+        "New Zealand",
+        "Netherlands",
+        "Norway",
+        "Nigeria",
+        "Maldives",
+        "Liechtenstein",
+        "Luxembourg",
+        "France",
+        "Finland",
+        "Greece",
+        "Hong Kong, China",
+        "India",
+        "Denmark",
+        "Indonesia",
+        "Czech Republic",
+        "Belgium",
+        "Bahrain",
+        "Austria",
+        "Ireland",
+        "Italy",
+        "Australia",
+        "Germany"
+      ],
+      "scopeNote": "The directory lists Mövenpick products in these categories with certified ingredient(s): Coffee, Cocoa. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/moevenpick/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/moevenpick/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.moevenpick-finefoods.com/",
+        "purchase_url": "https://www.moevenpick-finefood.com/shop"
+      }
+    },
+    {
+      "id": "rainforest-alliance-pennytogo",
+      "brand": "Penny. Ready",
+      "aliases": [
+        "Penny. Ready"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Chocolate",
+        "Orange Juice",
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Chocolate",
+        "Orange Juice",
+        "Coffee",
+        "Cocoa",
+        "Fruit"
+      ],
+      "certifiedIngredients": [
+        "Cocoa",
+        "Coffee",
+        "Fruit"
+      ],
+      "availableIn": [
+        "Germany"
+      ],
+      "scopeNote": "The directory lists Penny. Ready products in these categories with certified ingredient(s): Cocoa, Coffee, Fruit. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/pennytogo/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/pennytogo/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": " https://www.penny.de/",
+        "purchase_url": "https://www.penny.de/penny-onlineshop"
+      }
+    },
+    {
+      "id": "rainforest-alliance-emmi",
+      "brand": "Emmi",
+      "aliases": [
+        "Emmi"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Milk Based Beverages",
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Milk Based Beverages",
+        "Coffee",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Cocoa",
+        "Coffee"
+      ],
+      "availableIn": [
+        "Switzerland"
+      ],
+      "scopeNote": "The directory lists Emmi products in these categories with certified ingredient(s): Cocoa, Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/emmi/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/emmi/",
+      "verifiedAt": "2026-03-17",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "http://ch.emmi.com/de/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-wawa",
+      "brand": "Wawa",
+      "aliases": [
+        "Wawa"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "United States"
+      ],
+      "scopeNote": "The directory lists Wawa products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/wawa/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/wawa/",
+      "verifiedAt": "2026-02-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.wawa.com/",
+        "purchase_url": "https://gear.wawa.com/?utm_source=dotcom&utm_medium=homepage_fullwidthbanner&utm_campaign=012626_adhoc_merch_freeshipping_promo&_gl=1*4z89ox*_gcl_au*MTkxMDExNTk0MC4xNzY5NjU0NzY0"
+      }
+    },
+    {
+      "id": "rainforest-alliance-tea-drop",
+      "brand": "Tea Drop",
+      "aliases": [
+        "Tea Drop"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "Maldives",
+        "Vietnam",
+        "United Kingdom",
+        "New Zealand",
+        "Malaysia",
+        "Indonesia",
+        "Australia"
+      ],
+      "scopeNote": "The directory lists Tea Drop products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/tea-drop/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/tea-drop/",
+      "verifiedAt": "2026-02-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.teadrop.com.au/pages/sustainability",
+        "purchase_url": "https://www.teadrop.com.au/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-nordqvist",
+      "brand": "Nordqvist",
+      "aliases": [
+        "Nordqvist"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Plant-Based Beverages",
+        "Rooibos",
+        "Tea"
+      ],
+      "matchTerms": [
+        "Plant-Based Beverages",
+        "Rooibos",
+        "Tea",
+        "Herbs & Spices"
+      ],
+      "certifiedIngredients": [
+        "Herbs & Spices",
+        "Tea"
+      ],
+      "availableIn": [
+        "Japan",
+        "Finland",
+        "United States"
+      ],
+      "scopeNote": "The directory lists Nordqvist products in these categories with certified ingredient(s): Herbs & Spices, Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/nordqvist/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/nordqvist/",
+      "verifiedAt": "2026-02-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.nordqvist.fi",
+        "purchase_url": "https://nordqvist.fi/collections/all"
+      }
+    },
+    {
+      "id": "rainforest-alliance-tea-india",
+      "brand": "Tea India",
+      "aliases": [
+        "Tea India"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "Spain",
+        "Netherlands",
+        "Italy",
+        "Ireland",
+        "France",
+        "Denmark",
+        "United Kingdom"
+      ],
+      "scopeNote": "The directory lists Tea India products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/tea-india/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/tea-india/",
+      "verifiedAt": "2026-02-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://shop.teaindia.co.uk/",
+        "purchase_url": "https://shop.teaindia.co.uk/collections/all-products"
+      }
+    },
+    {
+      "id": "rainforest-alliance-lofbergs",
+      "brand": "Löfbergs",
+      "aliases": [
+        "Löfbergs"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Norway",
+        "Lithuania",
+        "Latvia",
+        "Ireland",
+        "Finland",
+        "Estonia",
+        "Denmark",
+        "Poland",
+        "United Kingdom",
+        "Sweden"
+      ],
+      "scopeNote": "The directory lists Löfbergs products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/lofbergs/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/lofbergs/",
+      "verifiedAt": "2026-02-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.lofbergs.se/",
+        "purchase_url": "http://shop.lofbergslila.se/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-pg-tips",
+      "brand": "PG Tips",
+      "aliases": [
+        "PG Tips"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "France",
+        "United States",
+        "Sweden",
+        "Spain",
+        "Norway",
+        "Netherlands",
+        "Italy",
+        "Greece",
+        "Germany",
+        "United Kingdom"
+      ],
+      "scopeNote": "The directory lists PG Tips products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/pg-tips/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/pg-tips/",
+      "verifiedAt": "2026-02-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.pgtips.co.uk"
+      }
+    },
+    {
+      "id": "rainforest-alliance-lidl-us",
+      "brand": "Lidl U.S.",
+      "aliases": [
+        "Lidl U.S."
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee",
+        "Tea",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Tea",
+        "Coffee",
+        "Cocoa"
+      ],
+      "availableIn": [
+        "United States"
+      ],
+      "scopeNote": "The directory lists Lidl U.S. products in these categories with certified ingredient(s): Tea, Coffee, Cocoa. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/lidl-us/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/lidl-us/",
+      "verifiedAt": "2026-02-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.lidl.com/",
+        "purchase_url": "https://www.lidl.com/mylidl-deals?category=all"
+      }
+    },
+    {
+      "id": "rainforest-alliance-yorkshire",
+      "brand": "Yorkshire Tea",
+      "aliases": [
+        "Yorkshire Tea"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "Australia",
+        "United States",
+        "Canada",
+        "United Kingdom"
+      ],
+      "scopeNote": "The directory lists Yorkshire Tea products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/yorkshire/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/yorkshire/",
+      "verifiedAt": "2026-02-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.yorkshiretea.co.uk/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-mayfair",
+      "brand": "Mayfair",
+      "aliases": [
+        "Mayfair"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea",
+        "Herbs & Spices"
+      ],
+      "certifiedIngredients": [
+        "Tea",
+        "Herbs & Spices"
+      ],
+      "availableIn": [
+        "Austria",
+        "Germany"
+      ],
+      "scopeNote": "The directory lists Mayfair products in these categories with certified ingredient(s): Tea, Herbs & Spices. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/mayfair/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/mayfair/",
+      "verifiedAt": "2026-02-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.penny.de/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-nescafe",
+      "brand": "Nescafé",
+      "aliases": [
+        "Nescafé"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Cocoa",
+        "Coffee"
+      ],
+      "availableIn": [
+        "Albania",
+        "Australia",
+        "Austria",
+        "Bahrain",
+        "Belgium",
+        "Bosnia-Herzegovina",
+        "Brazil",
+        "Bulgaria",
+        "China",
+        "Croatia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Hong Kong, China",
+        "Hungary",
+        "Ireland",
+        "Israel",
+        "Italy",
+        "Japan",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malaysia",
+        "Malta",
+        "Mexico",
+        "Moldova",
+        "Montenegro",
+        "New Zealand",
+        "Norway",
+        "Panama",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Saudi Arabia",
+        "Serbia",
+        "Singapore",
+        "Slovakia",
+        "Spain",
+        "Sweden",
+        "Switzerland",
+        "Taiwan, China",
+        "Thailand",
+        "Turkey",
+        "Ukraine",
+        "United Kingdom",
+        "North Macedonia",
+        "Netherlands"
+      ],
+      "scopeNote": "The directory lists Nescafé products in these categories with certified ingredient(s): Cocoa, Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/nescafe/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/nescafe/",
+      "verifiedAt": "2026-02-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "http://www.nestleprofessional.com"
+      }
+    },
+    {
+      "id": "rainforest-alliance-edeka",
+      "brand": "EDEKA",
+      "aliases": [
+        "EDEKA"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee",
+        "Orange Juice"
+      ],
+      "matchTerms": [
+        "Coffee",
+        "Orange Juice",
+        "Tea",
+        "Nuts",
+        "Fruit",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Tea",
+        "Nuts",
+        "Coffee",
+        "Fruit",
+        "Cocoa"
+      ],
+      "availableIn": [
+        "Germany"
+      ],
+      "scopeNote": "The directory lists EDEKA products in these categories with certified ingredient(s): Tea, Nuts, Coffee, Fruit, Cocoa. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/edeka/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/edeka/",
+      "verifiedAt": "2026-02-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.edeka.de/homepage.jsp"
+      }
+    },
+    {
+      "id": "rainforest-alliance-arvid-nordquist",
+      "brand": "Arvid Nordquist",
+      "aliases": [
+        "Arvid Nordquist"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Denmark",
+        "Sweden",
+        "Norway",
+        "Finland"
+      ],
+      "scopeNote": "The directory lists Arvid Nordquist products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/arvid-nordquist/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/arvid-nordquist/",
+      "verifiedAt": "2025-10-01",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.arvidnordquist.se/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-lipton",
+      "brand": "Lipton",
+      "aliases": [
+        "Lipton"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "Global"
+      ],
+      "scopeNote": "The directory lists Lipton products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/lipton/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/lipton/",
+      "verifiedAt": "2025-10-01",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.lipton.com"
+      }
+    },
+    {
+      "id": "rainforest-alliance-alpro",
+      "brand": "Alpro Coffee",
+      "aliases": [
+        "Alpro Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Norway",
+        "Switzerland",
+        "Sweden",
+        "Spain",
+        "Slovenia",
+        "Portugal",
+        "Poland",
+        "Austria",
+        "Netherlands",
+        "Luxembourg",
+        "Italy",
+        "Hungary",
+        "Germany",
+        "France",
+        "Finland",
+        "Denmark",
+        "Belgium",
+        "Ireland",
+        "United Kingdom"
+      ],
+      "scopeNote": "The directory lists Alpro Coffee products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/alpro/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/alpro/",
+      "verifiedAt": "2025-09-30",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.alpro.com/uk"
+      }
+    },
+    {
+      "id": "rainforest-alliance-aero",
+      "brand": "Aero",
+      "aliases": [
+        "Aero"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Chocolate"
+      ],
+      "matchTerms": [
+        "Chocolate",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Cocoa"
+      ],
+      "availableIn": [
+        "Australia",
+        "Canada",
+        "Ireland",
+        "New Zealand",
+        "United Kingdom"
+      ],
+      "scopeNote": "The directory lists Aero products in these categories with certified ingredient(s): Cocoa. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/aero/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/aero/",
+      "verifiedAt": "2025-09-30",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.aerochocolate.co.uk/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-knightsbridge",
+      "brand": "Knightsbridge",
+      "aliases": [
+        "Knightsbridge"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certifiedIngredients": [
+        "Tea"
+      ],
+      "availableIn": [
+        "United Kingdom"
+      ],
+      "scopeNote": "The directory lists Knightsbridge products in these categories with certified ingredient(s): Tea. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/knightsbridge/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/knightsbridge/",
+      "verifiedAt": "2025-05-12",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.lidl.co.uk/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-zoegas",
+      "brand": "Zoégas",
+      "aliases": [
+        "Zoégas"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Finland",
+        "Norway",
+        "Sweden"
+      ],
+      "scopeNote": "The directory lists Zoégas products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/zoegas/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/zoegas/",
+      "verifiedAt": "2025-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.zoegas.se/",
+        "purchase_url": "https://www.zoegas.se/vart-kaffe/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-davidoff",
+      "brand": "Davidoff Café",
+      "aliases": [
+        "Davidoff Café"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "France",
+        "Algeria",
+        "Bulgaria",
+        "Czech Republic",
+        "Egypt",
+        "Germany",
+        "Hungary",
+        "Poland",
+        "Romania",
+        "Slovakia",
+        "Ukraine"
+      ],
+      "scopeNote": "The directory lists Davidoff Café products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/davidoff/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/davidoff/",
+      "verifiedAt": "2025-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.zinodavidoff.com/coffee"
+      }
+    },
+    {
+      "id": "rainforest-alliance-evergood",
+      "brand": "Evergood",
+      "aliases": [
+        "Evergood"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Norway"
+      ],
+      "scopeNote": "The directory lists Evergood products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/evergood/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/evergood/",
+      "verifiedAt": "2025-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "http://www.evergood.no"
+      }
+    },
+    {
+      "id": "rainforest-alliance-grinders",
+      "brand": "Grinders Coffee",
+      "aliases": [
+        "Grinders Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Australia"
+      ],
+      "scopeNote": "The directory lists Grinders Coffee products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/grinders/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/grinders/",
+      "verifiedAt": "2025-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.grinderscoffee.com.au/",
+        "purchase_url": "https://www.grinderscoffee.com.au/index.php?action=prodcatalogue"
+      }
+    },
+    {
+      "id": "rainforest-alliance-key",
+      "brand": "Key Coffee",
+      "aliases": [
+        "Key Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Japan"
+      ],
+      "scopeNote": "The directory lists Key Coffee products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/key/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/key/",
+      "verifiedAt": "2025-03-20",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.keycoffee.co.jp/",
+        "purchase_url": "http://www.key-eshop.com/shop/contents1/top.aspx"
+      }
+    },
+    {
+      "id": "rainforest-alliance-cafe-1968",
+      "brand": "Café 1968",
+      "aliases": [
+        "Café 1968"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Mexico"
+      ],
+      "scopeNote": "The directory lists Café 1968 products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/cafe-1968/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/cafe-1968/",
+      "verifiedAt": "2025-02-12",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://cafe1968.com/?fbclid=IwAR0myW9zzir2eBx3lT5tvvpDhSFAda1Mn3wEK9pOKZ1oFoA39rtUucGaTdM",
+        "purchase_url": "https://www.amazon.com.mx/stores/page/B97CF59B-24C2-4FF8-B179-BA3DE20D1904?ingress=0&visitId=3df9022c-2194-4835-aead-db5221c6c57b"
+      }
+    },
+    {
+      "id": "rainforest-alliance-caffreddo",
+      "brand": "Caffreddo (Schwälbchen Molkerei)",
+      "aliases": [
+        "Caffreddo (Schwälbchen Molkerei)"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Germany"
+      ],
+      "scopeNote": "The directory lists Caffreddo (Schwälbchen Molkerei) products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/caffreddo/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/caffreddo/",
+      "verifiedAt": "2025-02-12",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://caffreddo.schwaelbchen-molkerei.de/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-color-beans",
+      "brand": "Color Beans",
+      "aliases": [
+        "Color Beans"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Netherlands"
+      ],
+      "scopeNote": "The directory lists Color Beans products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/color-beans/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/color-beans/",
+      "verifiedAt": "2025-02-12",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.colorbeans.nl/",
+        "purchase_url": "https://www.colorbeans.nl/koffie/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-machi",
+      "brand": "MACHI Café",
+      "aliases": [
+        "MACHI Café"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Coffee"
+      ],
+      "matchTerms": [
+        "Coffee"
+      ],
+      "certifiedIngredients": [
+        "Coffee"
+      ],
+      "availableIn": [
+        "Japan"
+      ],
+      "scopeNote": "The directory lists MACHI Café products in these categories with certified ingredient(s): Coffee. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/machi/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/machi/",
+      "verifiedAt": "2025-02-12",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "http://machicafe.lawson.jp/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-cafe-tasse",
+      "brand": "Café-Tasse",
+      "aliases": [
+        "Café-Tasse"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Chocolate"
+      ],
+      "matchTerms": [
+        "Chocolate",
+        "Cocoa"
+      ],
+      "certifiedIngredients": [
+        "Cocoa"
+      ],
+      "availableIn": [
+        "France",
+        "Germany",
+        "Netherlands",
+        "Belgium"
+      ],
+      "scopeNote": "The directory lists Café-Tasse products in these categories with certified ingredient(s): Cocoa. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/cafe-tasse/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/cafe-tasse/",
+      "verifiedAt": "2025-02-11",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.cafe-tasse.com/"
+      }
+    },
+    {
+      "id": "rainforest-alliance-tons",
+      "brand": "Ton's",
+      "aliases": [
+        "Ton's"
+      ],
+      "status": "listed certified",
+      "scope": "brand",
+      "productNames": [
+        "Macadamia"
+      ],
+      "matchTerms": [
+        "Macadamia",
+        "Nuts"
+      ],
+      "certifiedIngredients": [
+        "Nuts"
+      ],
+      "availableIn": [
+        "Japan"
+      ],
+      "scopeNote": "The directory lists Ton's products in these categories with certified ingredient(s): Nuts. It does not certify unrelated products from the brand.",
+      "sourceUrl": "https://www.rainforest-alliance.org/find-certified/tons/",
+      "officialProfileUrl": "https://www.rainforest-alliance.org/find-certified/tons/",
+      "verifiedAt": "2025-02-10",
+      "confidence": 0.88,
+      "companyFacts": {
+        "company_website": "https://www.toyonut.co.jp/english"
+      }
+    }
+  ]
+}

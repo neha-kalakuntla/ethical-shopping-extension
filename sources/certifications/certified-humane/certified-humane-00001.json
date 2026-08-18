@@ -1,0 +1,5687 @@
+{
+  "schemaVersion": 1,
+  "kind": "certification_directory",
+  "capturedAt": "2026-08-04",
+  "source": {
+    "id": "certified_humane_directory",
+    "certificationName": "Certified Humane Raised and Handled",
+    "defaultScope": "product",
+    "recordIdPrefix": "certified-humane"
+  },
+  "records": [
+    {
+      "id": "certified-humane-ackron-egg-farms-ltd-dba-nature-s-farm",
+      "brand": "Ackron Egg Farms Ltd. dba Nature’s Farm",
+      "aliases": [
+        "Ackron Egg Farms Ltd. dba Nature’s Farm",
+        "Nature’s Farm Smart"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Egg Organic Cage-Free Eggs",
+        "Nature’s Farm Smart Egg Free-Run Eggs"
+      ],
+      "matchTerms": [
+        "Egg Organic Cage-Free Eggs",
+        "Nature’s Farm Smart Egg Free-Run Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Nature’s Farm Smart"
+          ],
+          "terms": [
+            "Egg Organic Cage-Free Eggs",
+            "Nature’s Farm Smart Egg Free-Run Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Nature’s Farm Smart Egg Organic Cage-Free Eggs & Nature’s Farm Smart Egg Free-Run Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://naturesfarm.ca"
+      }
+    },
+    {
+      "id": "certified-humane-aegis-foods-llc",
+      "brand": "Aegis Foods LLC",
+      "aliases": [
+        "Aegis Foods LLC",
+        "Fearless",
+        "Poach'd by Fearless"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Eggs Pasteurized Cage Free Shell Eggs",
+        "Eggs",
+        "Cage-Free Shell Eggs"
+      ],
+      "matchTerms": [
+        "Eggs Pasteurized Cage Free Shell Eggs",
+        "Eggs",
+        "Cage-Free Shell Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Fearless"
+          ],
+          "terms": [
+            "Eggs Pasteurized Cage Free Shell Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Poach'd by Fearless"
+          ],
+          "terms": [
+            "Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Aegis Foods LLC"
+          ],
+          "terms": [
+            "Cage-Free Shell Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Fearless Eggs Pasteurized Cage Free Shell Eggs; Poach'd by Fearless Eggs; Cage-Free Shell Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://aegisfoods.net/"
+      }
+    },
+    {
+      "id": "certified-humane-alderfer-poultry-farm-inc",
+      "brand": "Alderfer Poultry Farm Inc.",
+      "aliases": [
+        "Alderfer Poultry Farm Inc.",
+        "Alderfer",
+        "Born Free",
+        "Green Way",
+        "Heinen’s",
+        "Just Fresh Direct",
+        "Hidden Nest Specialty",
+        "Ingles Best",
+        "LaBelle Patrimoine",
+        "McMahon’s Farm",
+        "Nature’s Yoke Legacy",
+        "O Organics",
+        "Open Nature",
+        "PICS",
+        "Rosie’s Farm Fresh",
+        "Seven Farms",
+        "Simply Nature",
+        "Tops",
+        "Wegmans"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Eggs Cage-Free",
+        "Loose Cage-Free",
+        "Loose Free-Range",
+        "Loose Pasture-Raised Eggs",
+        "Nest Run Cage-Free",
+        "Nest Run Free-Range",
+        "and Nest Run Pasture-Raised Eggs",
+        "Pasture-Raised Organic",
+        "Pasture-Raised Eggs",
+        "Free-Range Brown",
+        "Free-Range Omega-3 Brown Eggs",
+        "Pasture-Raised Brown",
+        "Pasture-Raised Organic Brown Eggs",
+        "Pasture-Raised Organic Eggs",
+        "Eggs - Heirloom Blue Eggs",
+        "Cage-Free Brown Eggs",
+        "Free-Range Brown Eggs",
+        "Cage-Free Organic Brown Eggs",
+        "Cage-Free Eggs",
+        "Organic Pasture-Raised Brown Eggs"
+      ],
+      "matchTerms": [
+        "Eggs Cage-Free",
+        "Loose Cage-Free",
+        "Loose Free-Range",
+        "Loose Pasture-Raised Eggs",
+        "Nest Run Cage-Free",
+        "Nest Run Free-Range",
+        "and Nest Run Pasture-Raised Eggs",
+        "Pasture-Raised Organic",
+        "Pasture-Raised Eggs",
+        "Free-Range Brown",
+        "Free-Range Omega-3 Brown Eggs",
+        "Pasture-Raised Brown",
+        "Pasture-Raised Organic Brown Eggs",
+        "Pasture-Raised Organic Eggs",
+        "Eggs - Heirloom Blue Eggs",
+        "Cage-Free Brown Eggs",
+        "Free-Range Brown Eggs",
+        "Cage-Free Organic Brown Eggs",
+        "Cage-Free Eggs",
+        "Organic Pasture-Raised Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Alderfer"
+          ],
+          "terms": [
+            "Eggs Cage-Free",
+            "Loose Cage-Free",
+            "Loose Free-Range",
+            "Loose Pasture-Raised Eggs",
+            "Nest Run Cage-Free",
+            "Nest Run Free-Range",
+            "and Nest Run Pasture-Raised Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Born Free"
+          ],
+          "terms": [
+            "Pasture-Raised Organic",
+            "Pasture-Raised Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Green Way"
+          ],
+          "terms": [
+            "Free-Range Brown",
+            "Free-Range Omega-3 Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Heinen’s"
+          ],
+          "terms": [
+            "Pasture-Raised Brown",
+            "Pasture-Raised Organic Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Just Fresh Direct"
+          ],
+          "terms": [
+            "Pasture-Raised Organic Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Hidden Nest Specialty"
+          ],
+          "terms": [
+            "Eggs - Heirloom Blue Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Ingles Best"
+          ],
+          "terms": [
+            "Cage-Free Brown Eggs",
+            "Free-Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "LaBelle Patrimoine"
+          ],
+          "terms": [
+            "Pasture-Raised Organic Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "McMahon’s Farm"
+          ],
+          "terms": [
+            "Cage-Free Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Nature’s Yoke Legacy"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "O Organics"
+          ],
+          "terms": [
+            "Cage-Free Organic Brown Eggs",
+            "Pasture-Raised Organic Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Open Nature"
+          ],
+          "terms": [
+            "Cage-Free Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "PICS"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Rosie’s Farm Fresh"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Seven Farms"
+          ],
+          "terms": [
+            "Cage-Free Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Simply Nature"
+          ],
+          "terms": [
+            "Cage-Free Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Tops"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Wegmans"
+          ],
+          "terms": [
+            "Organic Pasture-Raised Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Alderfer Eggs Cage-Free, Loose Cage-Free, Loose Free-Range, Loose Pasture-Raised Eggs, Nest Run Cage-Free, Nest Run Free-Range, and Nest Run Pasture-Raised Eggs; Born Free Pasture-Raised Organic and Pasture-Raised Eggs; Green Way Free-Range Brown and Free-Range Omega-3 Brown Eggs; Heinen’s Pasture-Raised Brown and Pasture-Raised Organic Brown Eggs; Just Fresh Direct Pasture-Raised Organic Eggs; Hidden Nest Specialty Eggs - Heirloom Blue Eggs; Ingles Best Cage-Free Brown Eggs and Free-Range Brown Eggs; LaBelle Patrimoine Pasture-Raised Organic Eggs; McMahon’s Farm Cage-Free Brown Eggs; Nature’s Yoke Legacy Free-Range Brown Eggs; O Organics Cage-Free Organic Brown Eggs and Pasture-Raised Organic Brown Eggs; Open Nature Cage-Free Eggs; PICS Free-Range Brown Eggs; Rosie’s Farm Fresh Free-Range Brown Eggs; Seven Farms Cage-Free Eggs; Simply Nature Cage-Free Brown Eggs; Tops Free-Range Brown Eggs; Wegmans Organic Pasture-Raised Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://alderfereggs.com/"
+      }
+    },
+    {
+      "id": "certified-humane-american-jerky-company",
+      "brand": "American Jerky Company",
+      "aliases": [
+        "American Jerky Company",
+        "Ollie Jerky Strips"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Beef",
+        "Sweet Potato",
+        "Open Farm Dehydrated Beef Dog Treats",
+        "Open Farm Grain Free Jerky Strips Grass-Feed Beef",
+        "Air Dried Beef"
+      ],
+      "matchTerms": [
+        "Beef",
+        "Sweet Potato",
+        "Open Farm Dehydrated Beef Dog Treats",
+        "Open Farm Grain Free Jerky Strips Grass-Feed Beef",
+        "Air Dried Beef"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Ollie Jerky Strips"
+          ],
+          "terms": [
+            "Beef",
+            "Sweet Potato",
+            "Open Farm Dehydrated Beef Dog Treats",
+            "Open Farm Grain Free Jerky Strips Grass-Feed Beef",
+            "Air Dried Beef"
+          ]
+        }
+      ],
+      "certifiedProductText": "Ollie Jerky Strips Beef & Sweet Potato, Open Farm Dehydrated Beef Dog Treats, Open Farm Grain Free Jerky Strips Grass-Feed Beef & Air Dried Beef",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.americanjerkycompany.com/"
+      }
+    },
+    {
+      "id": "certified-humane-anderson-sheep-company",
+      "brand": "Anderson Sheep Company",
+      "aliases": [
+        "Anderson Sheep Company",
+        "Anderson Ranches Oregon"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Lamb",
+        "Lamb Products"
+      ],
+      "matchTerms": [
+        "Lamb",
+        "Lamb Products"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Anderson Ranches Oregon"
+          ],
+          "terms": [
+            "Lamb",
+            "Lamb Products"
+          ]
+        }
+      ],
+      "certifiedProductText": "Anderson Ranches Oregon Lamb and Lamb Products",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.oregonlamb.com"
+      }
+    },
+    {
+      "id": "certified-humane-applegate-farms",
+      "brand": "Applegate Farms",
+      "aliases": [
+        "Applegate Farms",
+        "Applegate"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Egg Patty",
+        "Applegate Naturals® Breakfast Sandwich - Chicken",
+        "Maple Breakfast Sausage",
+        "Cheese on a Biscuit",
+        "Applegate Naturals® Breakfast Sandwich - Savory Turkey Breakfast Sausage",
+        "Cheese on an English Muffin",
+        "Applegate Naturals® Hickory Smoked No Sugar Uncured Beef Bacon",
+        "Applegate Naturals® Hickory Smoked No Sugar Beef Bacon",
+        "Applegate Naturals® Frittata Bites - Chicken Sausage",
+        "Red Pepper",
+        "Onion",
+        "Spinach",
+        "Applegate Naturals® Frittata Bites - Egg",
+        "Uncured Bacon",
+        "Cheese",
+        "Applegate Naturals® Natural Pork",
+        "Beef Uncured Hot Dog",
+        "Beef Hot Dog",
+        "Applegate Naturals® Pork",
+        "Beef Uncured Pepperoni",
+        "Beef Pepperoni",
+        "Beef Trim"
+      ],
+      "matchTerms": [
+        "Egg Patty",
+        "Applegate Naturals® Breakfast Sandwich - Chicken",
+        "Maple Breakfast Sausage",
+        "Cheese on a Biscuit",
+        "Applegate Naturals® Breakfast Sandwich - Savory Turkey Breakfast Sausage",
+        "Cheese on an English Muffin",
+        "Applegate Naturals® Hickory Smoked No Sugar Uncured Beef Bacon",
+        "Applegate Naturals® Hickory Smoked No Sugar Beef Bacon",
+        "Applegate Naturals® Frittata Bites - Chicken Sausage",
+        "Red Pepper",
+        "Onion",
+        "Spinach",
+        "Applegate Naturals® Frittata Bites - Egg",
+        "Uncured Bacon",
+        "Cheese",
+        "Applegate Naturals® Natural Pork",
+        "Beef Uncured Hot Dog",
+        "Beef Hot Dog",
+        "Applegate Naturals® Pork",
+        "Beef Uncured Pepperoni",
+        "Beef Pepperoni",
+        "Beef Trim"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Applegate"
+          ],
+          "terms": [
+            "Egg Patty",
+            "Applegate Naturals® Breakfast Sandwich - Chicken",
+            "Maple Breakfast Sausage",
+            "Cheese on a Biscuit",
+            "Applegate Naturals® Breakfast Sandwich - Savory Turkey Breakfast Sausage",
+            "Cheese on an English Muffin",
+            "Applegate Naturals® Hickory Smoked No Sugar Uncured Beef Bacon",
+            "Applegate Naturals® Hickory Smoked No Sugar Beef Bacon",
+            "Applegate Naturals® Frittata Bites - Chicken Sausage",
+            "Red Pepper",
+            "Onion",
+            "Spinach",
+            "Applegate Naturals® Frittata Bites - Egg",
+            "Uncured Bacon",
+            "Cheese",
+            "Applegate Naturals® Natural Pork",
+            "Beef Uncured Hot Dog",
+            "Beef Hot Dog",
+            "Applegate Naturals® Pork",
+            "Beef Uncured Pepperoni",
+            "Beef Pepperoni"
+          ]
+        },
+        {
+          "brands": [
+            "Applegate Farms"
+          ],
+          "terms": [
+            "Beef Trim"
+          ]
+        }
+      ],
+      "certifiedProductText": "Applegate Egg Patty, Applegate Naturals® Breakfast Sandwich - Chicken & Maple Breakfast Sausage, Egg & Cheese on a Biscuit, Applegate Naturals® Breakfast Sandwich - Savory Turkey Breakfast Sausage, Egg & Cheese on an English Muffin , Applegate Naturals® Breakfast Sandwich - Chicken & Maple Breakfast Sausage, Egg & Cheese on an English Muffin, Applegate Naturals® Hickory Smoked No Sugar Uncured Beef Bacon , Applegate Naturals® Frittata Bites - Chicken Sausage, Red Pepper, Onion & Spinach , Applegate Naturals® Frittata Bites - Egg, Uncured Bacon & Cheese , Applegate Naturals® Natural Pork & Beef Uncured Hot Dog, Applegate Naturals® Pork & Beef Uncured Pepperoni; Beef Trim",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://applegate.com/"
+      }
+    },
+    {
+      "id": "certified-humane-arch-farms-llc",
+      "brand": "Arch Farms, LLC",
+      "aliases": [
+        "Arch Farms, LLC",
+        "Nest Run"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pasture-Raised Brown Eggs"
+      ],
+      "matchTerms": [
+        "Pasture-Raised Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Nest Run"
+          ],
+          "terms": [
+            "Pasture-Raised Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Nest Run Pasture-Raised Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-arch-poultry-services-llc",
+      "brand": "Arch Poultry Services, LLC",
+      "aliases": [
+        "Arch Poultry Services, LLC",
+        "Kirkland Signature"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free-Range White",
+        "Brown Eggs"
+      ],
+      "matchTerms": [
+        "Free-Range White",
+        "Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Kirkland Signature"
+          ],
+          "terms": [
+            "Free-Range White",
+            "Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Kirkland Signature Free-Range White & Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-benton-county-foods",
+      "brand": "Benton County Foods",
+      "aliases": [
+        "Benton County Foods",
+        "Eggland’s Best",
+        "Open Nature",
+        "O Organics",
+        "Simply Nature",
+        "Goldhen"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pasture Raised Omega-3 Brown Eggs",
+        "Free Range Brown Eggs",
+        "Cage Free Brown Eggs",
+        "Organic Cage Free Brown Eggs",
+        "Pasture Raised Brown Eggs"
+      ],
+      "matchTerms": [
+        "Pasture Raised Omega-3 Brown Eggs",
+        "Free Range Brown Eggs",
+        "Cage Free Brown Eggs",
+        "Organic Cage Free Brown Eggs",
+        "Pasture Raised Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Eggland’s Best"
+          ],
+          "terms": [
+            "Pasture Raised Omega-3 Brown Eggs",
+            "Free Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Open Nature"
+          ],
+          "terms": [
+            "Cage Free Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "O Organics"
+          ],
+          "terms": [
+            "Cage Free Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Simply Nature"
+          ],
+          "terms": [
+            "Organic Cage Free Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Goldhen"
+          ],
+          "terms": [
+            "Free Range Brown Eggs",
+            "Pasture Raised Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Eggland’s Best: Pasture Raised Omega-3 Brown Eggs, Free Range Brown Eggs; Farm House Eggs: Pasture Raised Brown Eggs; Open Nature: Cage Free Brown Eggs; O Organics: Cage Free Brown Eggs; Simply Nature: Organic Cage Free Brown Eggs; Goldhen: Free Range Brown Eggs, Pasture Raised Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-born-free-eggs",
+      "brand": "Born Free Eggs",
+      "aliases": [
+        "Born Free Eggs"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free Range Eggs",
+        "Organic Free Range Eggs",
+        "Organic Pasture-Raised Eggs",
+        "Pasture-Raised Eggs. SHOP ONLINE AVAILABLE at Instacart.com"
+      ],
+      "matchTerms": [
+        "Free Range Eggs",
+        "Organic Free Range Eggs",
+        "Organic Pasture-Raised Eggs",
+        "Pasture-Raised Eggs. SHOP ONLINE AVAILABLE at Instacart.com"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Born Free Eggs"
+          ],
+          "terms": [
+            "Free Range Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Born Free Eggs"
+          ],
+          "terms": [
+            "Organic Free Range Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Born Free Eggs"
+          ],
+          "terms": [
+            "Organic Pasture-Raised Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Born Free Eggs"
+          ],
+          "terms": [
+            "Pasture-Raised Eggs. SHOP ONLINE AVAILABLE at Instacart.com"
+          ]
+        }
+      ],
+      "certifiedProductText": "Free Range Eggs; Organic Free Range Eggs; Organic Pasture-Raised Eggs; Pasture-Raised Eggs. SHOP ONLINE AVAILABLE at Instacart.com",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.instagram.com/bornfreeeggs/"
+      }
+    },
+    {
+      "id": "certified-humane-branding-iron-holdings-inc",
+      "brand": "Branding Iron Holdings Inc.",
+      "aliases": [
+        "Branding Iron Holdings Inc.",
+        "Butcher Box"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Grass-Fed Ground Beef Patties",
+        "Seasoned Pork",
+        "Seasoned Grass-fed Ground Beef for Meatloaf"
+      ],
+      "matchTerms": [
+        "Grass-Fed Ground Beef Patties",
+        "Seasoned Pork",
+        "Seasoned Grass-fed Ground Beef for Meatloaf"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Butcher Box"
+          ],
+          "terms": [
+            "Grass-Fed Ground Beef Patties",
+            "Seasoned Pork",
+            "Seasoned Grass-fed Ground Beef for Meatloaf"
+          ]
+        }
+      ],
+      "certifiedProductText": "Butcher Box: Grass-Fed Ground Beef Patties, Seasoned Pork and Seasoned Grass-fed Ground Beef for Meatloaf",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.bih-us.com/"
+      }
+    },
+    {
+      "id": "certified-humane-braswell-family-farms",
+      "brand": "Braswell Family Farms",
+      "aliases": [
+        "Braswell Family Farms",
+        "Kirkland Signature",
+        "Natural Choice",
+        "Eggland’s Best",
+        "Harris Teeter HT Traders"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Organic Free-Range Eggs",
+        "Organic Pasture Raised Eggs",
+        "Free Range Brown Eggs",
+        "Free Range Organic Eggs",
+        "Pasture-Raised Brown Eggs",
+        "Pasture Raised Eggs",
+        "Pasture Raised Brown Eggs"
+      ],
+      "matchTerms": [
+        "Organic Free-Range Eggs",
+        "Organic Pasture Raised Eggs",
+        "Free Range Brown Eggs",
+        "Free Range Organic Eggs",
+        "Pasture-Raised Brown Eggs",
+        "Pasture Raised Eggs",
+        "Pasture Raised Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Kirkland Signature"
+          ],
+          "terms": [
+            "Organic Free-Range Eggs",
+            "Organic Pasture Raised Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Natural Choice"
+          ],
+          "terms": [
+            "Free Range Brown Eggs",
+            "Free Range Organic Eggs",
+            "Pasture-Raised Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Eggland’s Best"
+          ],
+          "terms": [
+            "Pasture Raised Eggs",
+            "Organic Pasture Raised Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Harris Teeter HT Traders"
+          ],
+          "terms": [
+            "Pasture Raised Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Kirkland Signature Organic Free-Range Eggs, Organic Pasture Raised Eggs; Natural Choice Free Range Brown Eggs, Free Range Organic Eggs, Pasture-Raised Brown Eggs ; Eggland’s Best Pasture Raised Eggs, Organic Pasture Raised Eggs; Harris Teeter HT Traders Pasture Raised Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.braswellfamilyfarms.com/"
+      }
+    },
+    {
+      "id": "certified-humane-brian-weaver-farm",
+      "brand": "Brian Weaver Farm",
+      "aliases": [
+        "Brian Weaver Farm",
+        "Nest-Run"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free-Range Brown Eggs"
+      ],
+      "matchTerms": [
+        "Free-Range Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Nest-Run"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Nest-Run Free-Range Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-burger-maker-inc",
+      "brand": "Burger Maker, Inc",
+      "aliases": [
+        "Burger Maker, Inc",
+        "Wholesale Products"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Schweid",
+        "Sons® The Very Best Burger",
+        "The All Natural Blend Made with 100% All Natural Angus Beef",
+        "Fresh Natural Angus Ground Beef Patty",
+        "Fresh Natural Angus Ground Beef Loaf",
+        "IQF Natural Angus Ground Beef Patty"
+      ],
+      "matchTerms": [
+        "Schweid",
+        "Sons® The Very Best Burger",
+        "The All Natural Blend Made with 100% All Natural Angus Beef",
+        "Fresh Natural Angus Ground Beef Patty",
+        "Fresh Natural Angus Ground Beef Loaf",
+        "IQF Natural Angus Ground Beef Patty"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Burger Maker, Inc"
+          ],
+          "terms": [
+            "Schweid",
+            "Sons® The Very Best Burger"
+          ]
+        },
+        {
+          "brands": [
+            "Burger Maker, Inc"
+          ],
+          "terms": [
+            "The All Natural Blend Made with 100% All Natural Angus Beef"
+          ]
+        },
+        {
+          "brands": [
+            "Wholesale Products"
+          ],
+          "terms": [
+            "Fresh Natural Angus Ground Beef Patty",
+            "Fresh Natural Angus Ground Beef Loaf",
+            "IQF Natural Angus Ground Beef Patty"
+          ]
+        }
+      ],
+      "certifiedProductText": "Schweid & Sons® The Very Best Burger; The All Natural Blend Made with 100% All Natural Angus Beef; Wholesale Products: Fresh Natural Angus Ground Beef Patty, Fresh Natural Angus Ground Beef Loaf, IQF Natural Angus Ground Beef Patty",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.burgermaker.com"
+      }
+    },
+    {
+      "id": "certified-humane-butcherbox",
+      "brand": "ButcherBox",
+      "aliases": [
+        "ButcherBox",
+        "By subscription ButcherBox Grass-fed"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Beef",
+        "Pork",
+        "and Bison"
+      ],
+      "matchTerms": [
+        "Beef",
+        "Pork",
+        "and Bison"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "By subscription ButcherBox Grass-fed"
+          ],
+          "terms": [
+            "Beef",
+            "Pork",
+            "and Bison"
+          ]
+        }
+      ],
+      "certifiedProductText": "By subscription ButcherBox Grass-fed: Beef, Pork, and Bison",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.butcherbox.com/"
+      }
+    },
+    {
+      "id": "certified-humane-c-a-c-l-properties-llc-latremore-pine-ridge-farm",
+      "brand": "C.A.C.L. Properties, LLC - Latremore Pine Ridge Farm",
+      "aliases": [
+        "C.A.C.L. Properties, LLC - Latremore Pine Ridge Farm",
+        "Latremore Pine Ridge Farm –"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Organic Free-Range Eggs",
+        "Nest-Run Free-Range Brown Eggs"
+      ],
+      "matchTerms": [
+        "Organic Free-Range Eggs",
+        "Nest-Run Free-Range Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Latremore Pine Ridge Farm –"
+          ],
+          "terms": [
+            "Organic Free-Range Eggs",
+            "Nest-Run Free-Range Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Latremore Pine Ridge Farm – Organic Free-Range Eggs, Nest-Run Free-Range Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-cal-maine-foods-inc",
+      "brand": "Cal Maine Foods, Inc.",
+      "aliases": [
+        "Cal Maine Foods, Inc.",
+        "Loose"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free Brown Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Loose"
+          ],
+          "terms": [
+            "Cage-Free Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Loose Cage-Free Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.calmainefoods.com"
+      }
+    },
+    {
+      "id": "certified-humane-capracopia-llc-dba-redwood-hill-farm",
+      "brand": "Capracopia, LLC dba Redwood Hill Farm",
+      "aliases": [
+        "Capracopia, LLC dba Redwood Hill Farm",
+        "Raw"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Goat Milk"
+      ],
+      "matchTerms": [
+        "Goat Milk"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Raw"
+          ],
+          "terms": [
+            "Goat Milk"
+          ]
+        }
+      ],
+      "certifiedProductText": "Raw Goat Milk",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://redwoodhillfarm.org/"
+      }
+    },
+    {
+      "id": "certified-humane-cashton-farm-supply",
+      "brand": "Cashton Farm Supply",
+      "aliases": [
+        "Cashton Farm Supply",
+        "Cashton Farm Supply Inc",
+        "Dutch Farms",
+        "Goldhen",
+        "Kirkland",
+        "Kowalski’s Markets",
+        "Nest Fresh",
+        "O-Organics",
+        "Open Nature",
+        "OrgaNick Pastures",
+        "Sendik’s",
+        "Simply Nature",
+        "The Country Hen",
+        "Today’s Farm",
+        "Wild Harvest"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Loose Cage-Free Organic Brown Eggs",
+        "Loose Free-Range Brown Eggs",
+        "Loose Pasture-Raised Organic Brown Eggs",
+        "Pasture-Raised Organic Eggs",
+        "Pasture-Raised Organic Heirloom Eggs",
+        "Free-Range Brown Eggs",
+        "Cage-Free Organic Eggs",
+        "Free-Range Organic Eggs",
+        "Pasture-Raised Brown Eggs",
+        "Cage-Free Organic Brown Eggs",
+        "Pasture-Raised Organic Brown Eggs",
+        "Cage-Free Brown Eggs",
+        "Cage-Free Eggs",
+        "Free-Range Eggs",
+        "Pasture-Raised Eggs"
+      ],
+      "matchTerms": [
+        "Loose Cage-Free Organic Brown Eggs",
+        "Loose Free-Range Brown Eggs",
+        "Loose Pasture-Raised Organic Brown Eggs",
+        "Pasture-Raised Organic Eggs",
+        "Pasture-Raised Organic Heirloom Eggs",
+        "Free-Range Brown Eggs",
+        "Cage-Free Organic Eggs",
+        "Free-Range Organic Eggs",
+        "Pasture-Raised Brown Eggs",
+        "Cage-Free Organic Brown Eggs",
+        "Pasture-Raised Organic Brown Eggs",
+        "Cage-Free Brown Eggs",
+        "Cage-Free Eggs",
+        "Free-Range Eggs",
+        "Pasture-Raised Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Cashton Farm Supply Inc"
+          ],
+          "terms": [
+            "Loose Cage-Free Organic Brown Eggs",
+            "Loose Free-Range Brown Eggs",
+            "Loose Pasture-Raised Organic Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Dutch Farms"
+          ],
+          "terms": [
+            "Pasture-Raised Organic Eggs",
+            "Pasture-Raised Organic Heirloom Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Goldhen"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Kirkland"
+          ],
+          "terms": [
+            "Cage-Free Organic Eggs",
+            "Pasture-Raised Organic Eggs",
+            "Free-Range Organic Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Kowalski’s Markets"
+          ],
+          "terms": [
+            "Pasture-Raised Organic Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Nest Fresh"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs",
+            "Pasture-Raised Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "O-Organics"
+          ],
+          "terms": [
+            "Cage-Free Organic Brown Eggs",
+            "Pasture-Raised Organic Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Open Nature"
+          ],
+          "terms": [
+            "Cage-Free Brown Eggs",
+            "Free-Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "OrgaNick Pastures"
+          ],
+          "terms": [
+            "Pasture-Raised Organic Brown Eggs",
+            "Pasture-Raised Organic Heirloom Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Sendik’s"
+          ],
+          "terms": [
+            "Cage-Free Eggs",
+            "Free-Range Eggs",
+            "Free-Range Organic Eggs",
+            "Pasture-Raised Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Simply Nature"
+          ],
+          "terms": [
+            "Cage-Free Organic Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "The Country Hen"
+          ],
+          "terms": [
+            "Free-Range Organic Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Today’s Farm"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Wild Harvest"
+          ],
+          "terms": [
+            "Cage-Free Organic Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Cashton Farm Supply Inc.: Loose Cage-Free Organic Brown Eggs, Loose Free-Range Brown Eggs,Loose Pasture-Raised Organic Brown Eggs; Dutch Farms: Pasture-Raised Organic Eggs, Pasture-Raised Organic Heirloom Eggs; Goldhen: Free-Range Brown Eggs; Kirkland: Cage-Free Organic Eggs, Pasture-Raised Organic Eggs, Free-Range Organic Eggs; Kowalski’s Markets: Pasture-Raised Organic Eggs; Nest Fresh: Free-Range Brown Eggs, Pasture-Raised Brown Eggs; O-Organics: Cage-Free Organic Brown Eggs, Pasture-Raised Organic Brown Eggs; Open Nature: Cage-Free Brown Eggs, Free-Range Brown Eggs; Organic Valley: Pasture-Raised Organic Brown Eggs; OrgaNick Pastures: Pasture-Raised Organic Brown Eggs, Pasture-Raised Organic Heirloom Eggs; Sendik’s: Cage-Free Eggs, Free-Range Eggs, Free-Range Organic Eggs, Pasture-Raised Eggs; Simply Nature: Cage-Free Organic Brown Eggs; The Country Hen:Free-Range Organic Eggs;Today’s Farm: Free-Range Brown Eggs;Wild Harvest: Cage-Free Organic Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.cfspecial.com/"
+      }
+    },
+    {
+      "id": "certified-humane-cedar-ridge-egg-farm-llc",
+      "brand": "Cedar Ridge Egg Farm LLC",
+      "aliases": [
+        "Cedar Ridge Egg Farm LLC",
+        "Cedar Ridge"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free-Range Eggs"
+      ],
+      "matchTerms": [
+        "Free-Range Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Cedar Ridge"
+          ],
+          "terms": [
+            "Free-Range Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Cedar Ridge Free-Range Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.cedarridgeeggs.com/"
+      }
+    },
+    {
+      "id": "certified-humane-central-market-by-heb",
+      "brand": "Central Market by HEB",
+      "aliases": [
+        "Central Market by HEB"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Organic Pasture Raised Brown Eggs",
+        "Organic Pasture-Raised Soy-Free Brown Eggs",
+        "Pasture Raised Brown Eggs",
+        "Central Market Air Chilled Chicken"
+      ],
+      "matchTerms": [
+        "Organic Pasture Raised Brown Eggs",
+        "Organic Pasture-Raised Soy-Free Brown Eggs",
+        "Pasture Raised Brown Eggs",
+        "Central Market Air Chilled Chicken"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Central Market by HEB"
+          ],
+          "terms": [
+            "Organic Pasture Raised Brown Eggs",
+            "Organic Pasture-Raised Soy-Free Brown Eggs",
+            "Pasture Raised Brown Eggs",
+            "Central Market Air Chilled Chicken"
+          ]
+        }
+      ],
+      "certifiedProductText": "Organic Pasture Raised Brown Eggs, Organic Pasture-Raised Soy-Free Brown Eggs, Pasture Raised Brown Eggs, Central Market Air Chilled Chicken",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.heb.com/category/shop/dairy-eggs/eggs-egg-substitutes/490016/490052"
+      }
+    },
+    {
+      "id": "certified-humane-central-virginia-poultry-cooperative-inc",
+      "brand": "Central Virginia Poultry Cooperative, Inc.",
+      "aliases": [
+        "Central Virginia Poultry Cooperative, Inc."
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free-range Brown Eggs",
+        "Cage-free White Eggs"
+      ],
+      "matchTerms": [
+        "Free-range Brown Eggs",
+        "Cage-free White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Central Virginia Poultry Cooperative, Inc."
+          ],
+          "terms": [
+            "Free-range Brown Eggs",
+            "Cage-free White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Free-range Brown Eggs & Cage-free White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.cvpco-op.com/home"
+      }
+    },
+    {
+      "id": "certified-humane-cher-make-sausage-company",
+      "brand": "Cher-Make Sausage Company",
+      "aliases": [
+        "Cher-Make Sausage Company",
+        "Teton Waters Ranch"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Classic Uncured Beef Hot Dogs",
+        "Classic Beef Hot Dogs",
+        "Bun Length Uncured Beef Hot Dogs",
+        "Bun Length Beef Hot Dogs"
+      ],
+      "matchTerms": [
+        "Classic Uncured Beef Hot Dogs",
+        "Classic Beef Hot Dogs",
+        "Bun Length Uncured Beef Hot Dogs",
+        "Bun Length Beef Hot Dogs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Teton Waters Ranch"
+          ],
+          "terms": [
+            "Classic Uncured Beef Hot Dogs",
+            "Classic Beef Hot Dogs",
+            "Bun Length Uncured Beef Hot Dogs",
+            "Bun Length Beef Hot Dogs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Teton Waters Ranch: Classic Uncured Beef Hot Dogs, Bun Length Uncured Beef Hot Dogs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://cher-make.com/"
+      }
+    },
+    {
+      "id": "certified-humane-chino-valley-ranchers",
+      "brand": "Chino Valley Ranchers",
+      "aliases": [
+        "Chino Valley Ranchers"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Organic Frozen Salted Whole Eggs Pastuerized",
+        "Organic Frozen Salted Egg Yolks Pastuerized",
+        "Shell Eggs"
+      ],
+      "matchTerms": [
+        "Organic Frozen Salted Whole Eggs Pastuerized",
+        "Organic Frozen Salted Egg Yolks Pastuerized",
+        "Shell Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Chino Valley Ranchers"
+          ],
+          "terms": [
+            "Organic Frozen Salted Whole Eggs Pastuerized",
+            "Organic Frozen Salted Egg Yolks Pastuerized",
+            "Shell Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Organic Frozen Salted Whole Eggs Pastuerized, Organic Frozen Salted Egg Yolks Pastuerized & Shell Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.chinovalleyranchers.com/"
+      }
+    },
+    {
+      "id": "certified-humane-collett-farms-llc",
+      "brand": "Collett Farms LLC",
+      "aliases": [
+        "Collett Farms LLC"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free White Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Collett Farms LLC"
+          ],
+          "terms": [
+            "Cage-Free White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Cage-Free White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-colorado-premium",
+      "brand": "Colorado Premium",
+      "aliases": [
+        "Colorado Premium",
+        "Butcher Box"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Grass-fed Beef",
+        "Ground Beef",
+        "Grass-fed Beef Portion Cuts",
+        "Pork Chops",
+        "Pork Carnitas"
+      ],
+      "matchTerms": [
+        "Grass-fed Beef",
+        "Ground Beef",
+        "Grass-fed Beef Portion Cuts",
+        "Pork Chops",
+        "Pork Carnitas"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Butcher Box"
+          ],
+          "terms": [
+            "Grass-fed Beef",
+            "Ground Beef",
+            "Grass-fed Beef Portion Cuts"
+          ]
+        },
+        {
+          "brands": [
+            "Butcher Box"
+          ],
+          "terms": [
+            "Pork Chops",
+            "Pork Carnitas"
+          ]
+        }
+      ],
+      "certifiedProductText": "Butcher Box: Grass-fed Beef, Ground Beef, Grass-fed Beef Portion Cuts; Butcher Box: Pork Chops & Pork Carnitas",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.coloradopremium.com/"
+      }
+    },
+    {
+      "id": "certified-humane-cooper-farms-inc",
+      "brand": "Cooper Farms, Inc.",
+      "aliases": [
+        "Cooper Farms, Inc.",
+        "Lucerne® Farms"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free Eggs (White)",
+        "Our Family® Cage-Free Eggs (Brown). Our Family® Cage-Free Eggs (White). Busch’s Cage-Free Eggs",
+        "Loose Cage-Free Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free Eggs (White)",
+        "Our Family® Cage-Free Eggs (Brown). Our Family® Cage-Free Eggs (White). Busch’s Cage-Free Eggs",
+        "Loose Cage-Free Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Lucerne® Farms"
+          ],
+          "terms": [
+            "Cage-Free Eggs (White)",
+            "Our Family® Cage-Free Eggs (Brown). Our Family® Cage-Free Eggs (White). Busch’s Cage-Free Eggs",
+            "Loose Cage-Free Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Lucerne® Farms Cage-Free Eggs (White), Our Family® Cage-Free Eggs (Brown). Our Family® Cage-Free Eggs (White). Busch’s Cage-Free Eggs, Loose Cage-Free Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.cooperfarms.com"
+      }
+    },
+    {
+      "id": "certified-humane-country-fresh-eggs",
+      "brand": "Country Fresh Eggs",
+      "aliases": [
+        "Country Fresh Eggs"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free-Range Brown Eggs"
+      ],
+      "matchTerms": [
+        "Free-Range Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Country Fresh Eggs"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Free-Range Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-courage-production-llc",
+      "brand": "Courage Production, LLC",
+      "aliases": [
+        "Courage Production, LLC",
+        "BUTCHERBOX® 100% Grass-Fed Uncured",
+        "Teton Waters Ranch Cooked Uncured"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Beef Hot Dogs",
+        "Beef Kielbasa",
+        "Cooked Uncured Polish Sausage",
+        "Cooked Polish Sausage",
+        "Hardwood Smoked Sausage",
+        "Jalapeño Cheddar Bratwurst",
+        "Jalapeño Cheddar Sausage",
+        "Uncured Beef Hot Dogs Bun Length",
+        "Beef Hot Dogs Bun Length",
+        "Uncured Beef Junior Franks",
+        "Beef Junior Franks"
+      ],
+      "matchTerms": [
+        "Beef Hot Dogs",
+        "Beef Kielbasa",
+        "Cooked Uncured Polish Sausage",
+        "Cooked Polish Sausage",
+        "Hardwood Smoked Sausage",
+        "Jalapeño Cheddar Bratwurst",
+        "Jalapeño Cheddar Sausage",
+        "Uncured Beef Hot Dogs Bun Length",
+        "Beef Hot Dogs Bun Length",
+        "Uncured Beef Junior Franks",
+        "Beef Junior Franks"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "BUTCHERBOX® 100% Grass-Fed Uncured"
+          ],
+          "terms": [
+            "Beef Hot Dogs"
+          ]
+        },
+        {
+          "brands": [
+            "Teton Waters Ranch Cooked Uncured"
+          ],
+          "terms": [
+            "Beef Kielbasa",
+            "Cooked Uncured Polish Sausage",
+            "Cooked Polish Sausage",
+            "Hardwood Smoked Sausage",
+            "Jalapeño Cheddar Bratwurst",
+            "Jalapeño Cheddar Sausage",
+            "Uncured Beef Hot Dogs Bun Length",
+            "Beef Hot Dogs Bun Length",
+            "Uncured Beef Junior Franks",
+            "Beef Junior Franks"
+          ]
+        }
+      ],
+      "certifiedProductText": "BUTCHERBOX® 100% Grass-Fed Uncured Beef Hot Dogs; Teton Waters Ranch Cooked Uncured Beef Kielbasa, Cooked Uncured Polish Sausage, Hardwood Smoked Sausage, Jalapeño Cheddar Bratwurst, Jalapeño Cheddar Sausage, Uncured Beef Hot Dogs Bun Length, Uncured Beef Junior Franks",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://courageproduction.com/"
+      }
+    },
+    {
+      "id": "certified-humane-cranswick-country-foods-plc",
+      "brand": "Cranswick Country Foods PLC",
+      "aliases": [
+        "Cranswick Country Foods PLC"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pork",
+        "Pork Cuts"
+      ],
+      "matchTerms": [
+        "Pork",
+        "Pork Cuts"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Cranswick Country Foods PLC"
+          ],
+          "terms": [
+            "Pork",
+            "Pork Cuts"
+          ]
+        }
+      ],
+      "certifiedProductText": "Pork and Pork Cuts",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://cranswick.plc.uk/"
+      }
+    },
+    {
+      "id": "certified-humane-creekstone-farms-premium-beef-llc",
+      "brand": "Creekstone Farms Premium Beef, LLC",
+      "aliases": [
+        "Creekstone Farms Premium Beef, LLC",
+        "Creekstone Farms Natural Black Angus"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Beef"
+      ],
+      "matchTerms": [
+        "Beef"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Creekstone Farms Natural Black Angus"
+          ],
+          "terms": [
+            "Beef"
+          ]
+        }
+      ],
+      "certifiedProductText": "Creekstone Farms Natural Black Angus Beef",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.creekstonefarms.com"
+      }
+    },
+    {
+      "id": "certified-humane-creminelli-fine-meats-creminelli-operating-llc",
+      "brand": "Creminelli Fine Meats (Creminelli Operating LLC)",
+      "aliases": [
+        "Creminelli Fine Meats (Creminelli Operating LLC)",
+        "Creminelli Fine Meats®",
+        "Creminelli"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Casalingo Uncured Italian Salami",
+        "Casalingo Salami",
+        "Finocchio Uncured Italian Salami",
+        "Finocchio Salami",
+        "Sopressata Uncured Italian Salami",
+        "Sopressata Salami",
+        "Barolo Uncured Italian Salami",
+        "Barolo Salami",
+        "Black Truffle Uncured Italian Salami",
+        "Black Truffle Salami",
+        "Prosciutto Air Dried Pork",
+        "Varzi Uncured Italian Salami",
+        "Varzi Salami",
+        "Coppa Air Dried Pork",
+        "Espelette Uncured Italian Salami",
+        "Espelette Salami",
+        "Calabrese Uncured Italian Salami",
+        "Calabrese Salami",
+        "Finocchiona",
+        "Prosciutto",
+        "Felino with Manchego Cheese Uncured Italian Salami",
+        "Felino with Manchego Cheese Salami",
+        "Prosciutto with Mozzarella Cheese",
+        "Casalingo with Gouda Cheese Uncured Italian Salami",
+        "Casalingo with Gouda Cheese Salami",
+        "Calabrese with Smoked Provolone Cheese Uncured Italian Salami",
+        "Calabrese with Smoked Provolone Cheese Salami",
+        "Genoa with Provolone Cheese",
+        "Crackers Uncured Italian Salami",
+        "Crackers Salami",
+        "Sopressata with Monterey Jack Cheese",
+        "Salami Minis™ Original Wine",
+        "Garlic Uncured Italian Salami",
+        "Garlic Salami",
+        "Salami Minis™ Black Pepper Cracked Peppercorns Uncured Italian Salami",
+        "Salami Minis™ Black Pepper Cracked Peppercorns Salami",
+        "Salami Minis™ Whiskey Made with High West Whiskey Uncured Italian Salami",
+        "Salami Minis™ Whiskey Made with High West Whiskey Salami",
+        "Salami Minis™ Chipotle Spicy",
+        "Smoky Uncured Italian Salami",
+        "Smoky Salami",
+        "Salami Minis™ Parmesan Made with Imported Parmigiano Reggiano Uncured Italian Salami",
+        "Salami Minis™ Parmesan Made with Imported Parmigiano Reggiano Salami"
+      ],
+      "matchTerms": [
+        "Casalingo Uncured Italian Salami",
+        "Casalingo Salami",
+        "Finocchio Uncured Italian Salami",
+        "Finocchio Salami",
+        "Sopressata Uncured Italian Salami",
+        "Sopressata Salami",
+        "Barolo Uncured Italian Salami",
+        "Barolo Salami",
+        "Black Truffle Uncured Italian Salami",
+        "Black Truffle Salami",
+        "Prosciutto Air Dried Pork",
+        "Varzi Uncured Italian Salami",
+        "Varzi Salami",
+        "Coppa Air Dried Pork",
+        "Espelette Uncured Italian Salami",
+        "Espelette Salami",
+        "Calabrese Uncured Italian Salami",
+        "Calabrese Salami",
+        "Finocchiona",
+        "Prosciutto",
+        "Felino with Manchego Cheese Uncured Italian Salami",
+        "Felino with Manchego Cheese Salami",
+        "Prosciutto with Mozzarella Cheese",
+        "Casalingo with Gouda Cheese Uncured Italian Salami",
+        "Casalingo with Gouda Cheese Salami",
+        "Calabrese with Smoked Provolone Cheese Uncured Italian Salami",
+        "Calabrese with Smoked Provolone Cheese Salami",
+        "Genoa with Provolone Cheese",
+        "Crackers Uncured Italian Salami",
+        "Crackers Salami",
+        "Sopressata with Monterey Jack Cheese",
+        "Salami Minis™ Original Wine",
+        "Garlic Uncured Italian Salami",
+        "Garlic Salami",
+        "Salami Minis™ Black Pepper Cracked Peppercorns Uncured Italian Salami",
+        "Salami Minis™ Black Pepper Cracked Peppercorns Salami",
+        "Salami Minis™ Whiskey Made with High West Whiskey Uncured Italian Salami",
+        "Salami Minis™ Whiskey Made with High West Whiskey Salami",
+        "Salami Minis™ Chipotle Spicy",
+        "Smoky Uncured Italian Salami",
+        "Smoky Salami",
+        "Salami Minis™ Parmesan Made with Imported Parmigiano Reggiano Uncured Italian Salami",
+        "Salami Minis™ Parmesan Made with Imported Parmigiano Reggiano Salami"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Creminelli Fine Meats®",
+            "Creminelli"
+          ],
+          "terms": [
+            "Casalingo Uncured Italian Salami",
+            "Casalingo Salami",
+            "Finocchio Uncured Italian Salami",
+            "Finocchio Salami",
+            "Sopressata Uncured Italian Salami",
+            "Sopressata Salami",
+            "Barolo Uncured Italian Salami",
+            "Barolo Salami",
+            "Black Truffle Uncured Italian Salami",
+            "Black Truffle Salami",
+            "Prosciutto Air Dried Pork",
+            "Varzi Uncured Italian Salami",
+            "Varzi Salami",
+            "Coppa Air Dried Pork",
+            "Espelette Uncured Italian Salami",
+            "Espelette Salami",
+            "Calabrese Uncured Italian Salami",
+            "Calabrese Salami",
+            "Finocchiona",
+            "Prosciutto",
+            "Felino with Manchego Cheese Uncured Italian Salami",
+            "Felino with Manchego Cheese Salami",
+            "Prosciutto with Mozzarella Cheese",
+            "Casalingo with Gouda Cheese Uncured Italian Salami",
+            "Casalingo with Gouda Cheese Salami",
+            "Calabrese with Smoked Provolone Cheese Uncured Italian Salami",
+            "Calabrese with Smoked Provolone Cheese Salami",
+            "Genoa with Provolone Cheese",
+            "Crackers Uncured Italian Salami",
+            "Crackers Salami",
+            "Sopressata with Monterey Jack Cheese",
+            "Salami Minis™ Original Wine",
+            "Garlic Uncured Italian Salami",
+            "Garlic Salami",
+            "Salami Minis™ Black Pepper Cracked Peppercorns Uncured Italian Salami",
+            "Salami Minis™ Black Pepper Cracked Peppercorns Salami",
+            "Salami Minis™ Whiskey Made with High West Whiskey Uncured Italian Salami",
+            "Salami Minis™ Whiskey Made with High West Whiskey Salami",
+            "Salami Minis™ Chipotle Spicy",
+            "Smoky Uncured Italian Salami",
+            "Smoky Salami",
+            "Salami Minis™ Parmesan Made with Imported Parmigiano Reggiano Uncured Italian Salami",
+            "Salami Minis™ Parmesan Made with Imported Parmigiano Reggiano Salami"
+          ]
+        }
+      ],
+      "certifiedProductText": "Creminelli Fine Meats®: Casalingo Uncured Italian Salami, Finocchio Uncured Italian Salami, Sopressata Uncured Italian Salami, Barolo Uncured Italian Salami, Black Truffle Uncured Italian Salami, Prosciutto Air Dried Pork, Varzi Uncured Italian Salami, Coppa Air Dried Pork, Espelette Uncured Italian Salami, Calabrese Uncured Italian Salami, Finocchiona, Prosciutto & Varzi Uncured Italian Salami, Felino with Manchego Cheese Uncured Italian Salami, Prosciutto with Mozzarella Cheese, Casalingo with Gouda Cheese Uncured Italian Salami, Calabrese with Smoked Provolone Cheese Uncured Italian Salami, Genoa with Provolone Cheese & Crackers Uncured Italian Salami, Sopressata with Monterey Jack Cheese & Crackers Uncured Italian Salami, Salami Minis™ Original Wine & Garlic Uncured Italian Salami, Salami Minis™ Black Pepper Cracked Peppercorns Uncured Italian Salami, Salami Minis™ Whiskey Made with High West Whiskey Uncured Italian Salami, Salami Minis™ Chipotle Spicy & Smoky Uncured Italian Salami, Salami Minis™ Parmesan Made with Imported Parmigiano Reggiano Uncured Italian Salami",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://creminelli.com/"
+      }
+    },
+    {
+      "id": "certified-humane-dan-s-prize",
+      "brand": "Dan's Prize",
+      "aliases": [
+        "Dan's Prize",
+        "Butcher Box 100% Grass-fed"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Beef Pot Roast"
+      ],
+      "matchTerms": [
+        "Beef Pot Roast"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Butcher Box 100% Grass-fed"
+          ],
+          "terms": [
+            "Beef Pot Roast"
+          ]
+        }
+      ],
+      "certifiedProductText": "Butcher Box 100% Grass-fed Beef Pot Roast",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.dansprize.com/"
+      }
+    },
+    {
+      "id": "certified-humane-deb-el-food-products-llc",
+      "brand": "Deb El Food Products, LLC",
+      "aliases": [
+        "Deb El Food Products, LLC",
+        "HEB",
+        "Mountainside Farms®",
+        "NatureFed",
+        "NestFresh Dried",
+        "Open Nature",
+        "Pete & Gerry’s Pure",
+        "Vital Farms",
+        "Deb El Food Products"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage Free 100% Liquid Egg Whites",
+        "Cage Free liquid Egg Whites",
+        "Cage Free Non-GMO Liquid Egg White",
+        "Cage Free Egg Yolks",
+        "Dried Cage Free Egg Whites",
+        "Cage-Free 100% Liquid Egg Whites",
+        "Liquid Cage Free Egg White",
+        "Frozen Salted Egg Yolks – Free Range Non-GMO",
+        "Frozen Salted Egg Yolks – Cage Free",
+        "Frozen Salted Whole Eggs – Cage Free Non-GMO. Frozen Salted Organic Egg Yolks",
+        "Egg Whites – Liquid Egg Product",
+        "Pasture-Raised Whole Eggs with Citric Acid",
+        "Liquid",
+        "Frozen Cage Free Whole Eggs",
+        "Frozen Cage Free Egg Yolks",
+        "Frozen Cage Free Egg Whites",
+        "Frozen Cage Free Whole Eggs with Citric Acid",
+        "Frozen High Cage Free Whip Egg Whites",
+        "Frozen Cage Free Scrambled Egg Mix",
+        "Frozen Cage Free Fat Free Cholesterol Free Egg Product",
+        "Frozen Cage Free Sugared Egg Yolk",
+        "Frozen Cage Free Salted Egg Yolk",
+        "Dried Cage Free Whole Eggs",
+        "Dried Cage Free Egg Yolk",
+        "Dried Cage Free Whole Eggs – Free Flow Type",
+        "Dried Cage Free Egg Yolks – Free Flow Type",
+        "Hard Cooked",
+        "Peeled Cage Free Eggs",
+        "Tray Ready Cage Free Pre-Cooked Scrambled Eggs with Butter Flavor"
+      ],
+      "matchTerms": [
+        "Cage Free 100% Liquid Egg Whites",
+        "Cage Free liquid Egg Whites",
+        "Cage Free Non-GMO Liquid Egg White",
+        "Cage Free Egg Yolks",
+        "Dried Cage Free Egg Whites",
+        "Cage-Free 100% Liquid Egg Whites",
+        "Liquid Cage Free Egg White",
+        "Frozen Salted Egg Yolks – Free Range Non-GMO",
+        "Frozen Salted Egg Yolks – Cage Free",
+        "Frozen Salted Whole Eggs – Cage Free Non-GMO. Frozen Salted Organic Egg Yolks",
+        "Egg Whites – Liquid Egg Product",
+        "Pasture-Raised Whole Eggs with Citric Acid",
+        "Liquid",
+        "Frozen Cage Free Whole Eggs",
+        "Frozen Cage Free Egg Yolks",
+        "Frozen Cage Free Egg Whites",
+        "Frozen Cage Free Whole Eggs with Citric Acid",
+        "Frozen High Cage Free Whip Egg Whites",
+        "Frozen Cage Free Scrambled Egg Mix",
+        "Frozen Cage Free Fat Free Cholesterol Free Egg Product",
+        "Frozen Cage Free Sugared Egg Yolk",
+        "Frozen Cage Free Salted Egg Yolk",
+        "Dried Cage Free Whole Eggs",
+        "Dried Cage Free Egg Yolk",
+        "Dried Cage Free Whole Eggs – Free Flow Type",
+        "Dried Cage Free Egg Yolks – Free Flow Type",
+        "Hard Cooked",
+        "Peeled Cage Free Eggs",
+        "Tray Ready Cage Free Pre-Cooked Scrambled Eggs with Butter Flavor"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "HEB"
+          ],
+          "terms": [
+            "Cage Free 100% Liquid Egg Whites"
+          ]
+        },
+        {
+          "brands": [
+            "Mountainside Farms®"
+          ],
+          "terms": [
+            "Cage Free liquid Egg Whites"
+          ]
+        },
+        {
+          "brands": [
+            "NatureFed"
+          ],
+          "terms": [
+            "Cage Free Non-GMO Liquid Egg White"
+          ]
+        },
+        {
+          "brands": [
+            "NestFresh Dried"
+          ],
+          "terms": [
+            "Cage Free Egg Yolks",
+            "Dried Cage Free Egg Whites",
+            "Cage-Free 100% Liquid Egg Whites",
+            "Liquid Cage Free Egg White",
+            "Frozen Salted Egg Yolks – Free Range Non-GMO",
+            "Frozen Salted Egg Yolks – Cage Free",
+            "Frozen Salted Whole Eggs – Cage Free Non-GMO. Frozen Salted Organic Egg Yolks"
+          ]
+        },
+        {
+          "brands": [
+            "Open Nature"
+          ],
+          "terms": [
+            "Cage Free 100% Liquid Egg Whites"
+          ]
+        },
+        {
+          "brands": [
+            "Pete & Gerry’s Pure"
+          ],
+          "terms": [
+            "Egg Whites – Liquid Egg Product"
+          ]
+        },
+        {
+          "brands": [
+            "Vital Farms"
+          ],
+          "terms": [
+            "Pasture-Raised Whole Eggs with Citric Acid"
+          ]
+        },
+        {
+          "brands": [
+            "Deb El Food Products"
+          ],
+          "terms": [
+            "Liquid",
+            "Frozen Cage Free Whole Eggs",
+            "Frozen Cage Free Egg Yolks",
+            "Frozen Cage Free Egg Whites",
+            "Frozen Cage Free Whole Eggs with Citric Acid",
+            "Frozen High Cage Free Whip Egg Whites",
+            "Frozen Cage Free Scrambled Egg Mix",
+            "Frozen Cage Free Fat Free Cholesterol Free Egg Product",
+            "Frozen Cage Free Sugared Egg Yolk",
+            "Frozen Cage Free Salted Egg Yolk",
+            "Dried Cage Free Whole Eggs",
+            "Dried Cage Free Egg Yolk",
+            "Dried Cage Free Egg Whites",
+            "Dried Cage Free Whole Eggs – Free Flow Type",
+            "Dried Cage Free Egg Yolks – Free Flow Type",
+            "Hard Cooked",
+            "Peeled Cage Free Eggs",
+            "Tray Ready Cage Free Pre-Cooked Scrambled Eggs with Butter Flavor"
+          ]
+        }
+      ],
+      "certifiedProductText": "HEB Cage Free 100% Liquid Egg Whites; Mountainside Farms® Cage Free liquid Egg Whites; NatureFed Cage Free Non-GMO Liquid Egg White; NestFresh Dried Cage Free Egg Yolks, Dried Cage Free Egg Whites, Cage-Free 100% Liquid Egg Whites , Liquid Cage Free Egg White, Frozen Salted Egg Yolks – Free Range Non-GMO, Frozen Salted Egg Yolks – Cage Free, Frozen Salted Whole Eggs – Cage Free Non-GMO. Frozen Salted Organic Egg Yolks; Open Nature Cage Free 100% Liquid Egg Whites; Pete & Gerry’s Pure Egg Whites – Liquid Egg Product; Vital Farms Pasture-Raised Whole Eggs with Citric Acid; Deb El Food Products: Liquid & Frozen Cage Free Whole Eggs, Liquid & Frozen Cage Free Egg Yolks, Liquid & Frozen Cage Free Egg Whites, Liquid & Frozen Cage Free Whole Eggs with Citric Acid, Frozen High Cage Free Whip Egg Whites, Liquid & Frozen Cage Free Scrambled Egg Mix, Liquid & Frozen Cage Free Fat Free Cholesterol Free Egg Product, Liquid & Frozen Cage Free Sugared Egg Yolk, Liquid & Frozen Cage Free Salted Egg Yolk, Dried Cage Free Whole Eggs, Dried Cage Free Egg Yolk, Dried Cage Free Egg Whites, Dried Cage Free Whole Eggs – Free Flow Type, Dried Cage Free Egg Yolks – Free Flow Type, Hard Cooked & Peeled Cage Free Eggs, Tray Ready Cage Free Pre-Cooked Scrambled Eggs with Butter Flavor",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.debelfoods.com/"
+      }
+    },
+    {
+      "id": "certified-humane-deep-run-farm",
+      "brand": "Deep Run Farm",
+      "aliases": [
+        "Deep Run Farm"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free White Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Deep Run Farm"
+          ],
+          "terms": [
+            "Cage-Free White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Cage-Free White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-deer-creek-eggs",
+      "brand": "Deer Creek Eggs",
+      "aliases": [
+        "Deer Creek Eggs",
+        "Nest Run"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free White",
+        "Brown Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free White",
+        "Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Nest Run"
+          ],
+          "terms": [
+            "Cage-Free White",
+            "Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Nest Run Cage-Free White & Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-demler-brothers-llc",
+      "brand": "Demler Brothers, LLC",
+      "aliases": [
+        "Demler Brothers, LLC"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free White Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Demler Brothers, LLC"
+          ],
+          "terms": [
+            "Cage-Free White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Cage-Free White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.facebook.com/p/Demler-Brothers-LLC-100080084820645/"
+      }
+    },
+    {
+      "id": "certified-humane-demler-enterprises",
+      "brand": "Demler Enterprises",
+      "aliases": [
+        "Demler Enterprises",
+        "Kroger"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage Free Eggs",
+        "Smart",
+        "Final First Street Cage Free Eggs",
+        "Walmart Great Value Cage Free Eggs"
+      ],
+      "matchTerms": [
+        "Cage Free Eggs",
+        "Smart",
+        "Final First Street Cage Free Eggs",
+        "Walmart Great Value Cage Free Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Kroger"
+          ],
+          "terms": [
+            "Cage Free Eggs",
+            "Smart",
+            "Final First Street Cage Free Eggs",
+            "Walmart Great Value Cage Free Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Kroger Cage Free Eggs, Smart & Final First Street Cage Free Eggs & Walmart Great Value Cage Free Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-demler-farms-llc",
+      "brand": "Demler Farms LLC",
+      "aliases": [
+        "Demler Farms LLC",
+        "Kirkland Signature"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage Free White Eggs"
+      ],
+      "matchTerms": [
+        "Cage Free White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Kirkland Signature"
+          ],
+          "terms": [
+            "Cage Free White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Kirkland Signature Cage Free White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.facebook.com/DemlerFarmsSanJacinto/"
+      }
+    },
+    {
+      "id": "certified-humane-dennis-sensenig-dba-franklin-farms",
+      "brand": "Dennis Sensenig DBA Franklin Farms",
+      "aliases": [
+        "Dennis Sensenig DBA Franklin Farms"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pasture-Raised Brown Eggs"
+      ],
+      "matchTerms": [
+        "Pasture-Raised Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Dennis Sensenig DBA Franklin Farms"
+          ],
+          "terms": [
+            "Pasture-Raised Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Pasture-Raised Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-deweerdt-poultry",
+      "brand": "Deweerdt Poultry",
+      "aliases": [
+        "Deweerdt Poultry"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage Free Brown",
+        "White Eggs"
+      ],
+      "matchTerms": [
+        "Cage Free Brown",
+        "White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Deweerdt Poultry"
+          ],
+          "terms": [
+            "Cage Free Brown",
+            "White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Cage Free Brown & White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://dweggs.com/"
+      }
+    },
+    {
+      "id": "certified-humane-dole-and-bailey-inc",
+      "brand": "Dole and Bailey, Inc.",
+      "aliases": [
+        "Dole and Bailey, Inc.",
+        "Koch’s – Raw Boneless",
+        "Butcher Box - Assorted Grass-Fed"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Turkey Breast (Antibiotic-Free",
+        "Skin-on)",
+        "North Country Smokehouse – Fruitwood Smoked Bacon",
+        "Maple Smoked Bistro Ham",
+        "Beef Cuts"
+      ],
+      "matchTerms": [
+        "Turkey Breast (Antibiotic-Free",
+        "Skin-on)",
+        "North Country Smokehouse – Fruitwood Smoked Bacon",
+        "Maple Smoked Bistro Ham",
+        "Beef Cuts"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Koch’s – Raw Boneless"
+          ],
+          "terms": [
+            "Turkey Breast (Antibiotic-Free",
+            "Skin-on)"
+          ]
+        },
+        {
+          "brands": [
+            "Dole and Bailey, Inc."
+          ],
+          "terms": [
+            "North Country Smokehouse – Fruitwood Smoked Bacon",
+            "Maple Smoked Bistro Ham"
+          ]
+        },
+        {
+          "brands": [
+            "Butcher Box - Assorted Grass-Fed"
+          ],
+          "terms": [
+            "Beef Cuts"
+          ]
+        }
+      ],
+      "certifiedProductText": "Koch’s – Raw Boneless Turkey Breast (Antibiotic-Free, Skin-on); North Country Smokehouse – Fruitwood Smoked Bacon, Maple Smoked Bistro Ham; Butcher Box - Assorted Grass-Fed Beef Cuts",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.doleandbailey.com"
+      }
+    },
+    {
+      "id": "certified-humane-dubreton-les-viandes-dubreton-les-sp-cialit-s-prodal",
+      "brand": "duBreton (Les Viandes duBreton/Les Spécialités Prodal)",
+      "aliases": [
+        "duBreton (Les Viandes duBreton/Les Spécialités Prodal)",
+        "duBreton Fresh, Cooked & Frozen"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pork (Chops",
+        "Tenderloin",
+        "Ground",
+        "Sausages",
+        "Bacon",
+        "Cretons",
+        "Pâté",
+        "Liver) -"
+      ],
+      "matchTerms": [
+        "Pork (Chops",
+        "Tenderloin",
+        "Ground",
+        "Sausages",
+        "Bacon",
+        "Cretons",
+        "Pâté",
+        "Liver) -"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "duBreton Fresh, Cooked & Frozen"
+          ],
+          "terms": [
+            "Pork (Chops",
+            "Tenderloin",
+            "Ground",
+            "Sausages",
+            "Bacon",
+            "Cretons",
+            "Pâté",
+            "Liver) -"
+          ]
+        }
+      ],
+      "certifiedProductText": "duBreton Fresh, Cooked & Frozen Pork (Chops, Tenderloin, Ground, Sausages, Bacon, Ham, Cretons, Pâté and Liver) - ; HelloFresh Canada Corncob Smoked Bacon - Jamie Oliver by Compliments Bacon and Paysan Naturel Ham - Wegmans: Organic Fully Cooked Uncured Ham",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.dubreton.com"
+      }
+    },
+    {
+      "id": "certified-humane-dutch-country-organics",
+      "brand": "Dutch Country Organics",
+      "aliases": [
+        "Dutch Country Organics",
+        "Dutch Farms",
+        "Dutch Country",
+        "Kirkland Signature",
+        "Loose",
+        "“O” Organics",
+        "Open Nature",
+        "Simply Nature™",
+        "Simply Nature"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free Eggs",
+        "Free-Range Eggs",
+        "Cage-Free Brown Eggs",
+        "Free-Range White Eggs",
+        "Free-Range Brown Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free Eggs",
+        "Free-Range Eggs",
+        "Cage-Free Brown Eggs",
+        "Free-Range White Eggs",
+        "Free-Range Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Dutch Farms"
+          ],
+          "terms": [
+            "Cage-Free Eggs",
+            "Free-Range Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Dutch Country"
+          ],
+          "terms": [
+            "Cage-Free Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Kirkland Signature"
+          ],
+          "terms": [
+            "Free-Range White Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Loose"
+          ],
+          "terms": [
+            "Cage-Free Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "“O” Organics"
+          ],
+          "terms": [
+            "Cage-Free Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Open Nature"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Simply Nature™",
+            "Simply Nature"
+          ],
+          "terms": [
+            "Cage-Free Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Dutch Farms: Cage-Free Eggs, Free-Range Eggs; Dutch Country: Cage-Free Brown Eggs; Farmsdale™: Cage-Free Brown Eggs GoldHen® Eggs: Cage-Free Brown Eggs, Free-Range Brown Eggs, Pasture-Raised Brown Eggs; Kirkland Signature: Free-Range White Eggs; Loose: Cage-Free Eggs ; “O” Organics: Cage-Free Brown Eggs; Open Nature: Free-Range Brown Eggs; Simply Nature™: Cage-Free Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://dcollc.com/"
+      }
+    },
+    {
+      "id": "certified-humane-dutch-farms-organics-llc",
+      "brand": "Dutch Farms Organics LLC",
+      "aliases": [
+        "Dutch Farms Organics LLC",
+        "Dutch Farms",
+        "Vegetarian Fed"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Dutch Farms"
+          ],
+          "terms": [
+            "Cage-Free Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Vegetarian Fed"
+          ],
+          "terms": [
+            "Cage-Free Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Dutch Farms: Cage-Free Eggs; Vegetarian Fed Cage-Free Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://dutchfarms.com/"
+      }
+    },
+    {
+      "id": "certified-humane-dutchland-farms-llc",
+      "brand": "Dutchland Farms, LLC",
+      "aliases": [
+        "Dutchland Farms, LLC",
+        "Nest Run"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free",
+        "Free-Range Brown Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free",
+        "Free-Range Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Nest Run"
+          ],
+          "terms": [
+            "Cage-Free",
+            "Free-Range Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Nest Run Cage-Free & Free-Range Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.wengerfeeds.com"
+      }
+    },
+    {
+      "id": "certified-humane-e-k-martin-and-sons-inc",
+      "brand": "E.K. Martin & Sons Inc.",
+      "aliases": [
+        "E.K. Martin & Sons Inc."
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "E.K. Martin & Sons Inc."
+          ],
+          "terms": [
+            "Cage-Free Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Cage-Free Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.martinseggs.com"
+      }
+    },
+    {
+      "id": "certified-humane-east-highland-farms",
+      "brand": "East Highland Farms",
+      "aliases": [
+        "East Highland Farms",
+        "Nest Run"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free White Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Nest Run"
+          ],
+          "terms": [
+            "Cage-Free White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Nest Run Cage-Free White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-eggland-s-best",
+      "brand": "Eggland's Best",
+      "aliases": [
+        "Eggland's Best"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free Range Eggs",
+        "Eggland's Best Pasture Raised Eggs"
+      ],
+      "matchTerms": [
+        "Free Range Eggs",
+        "Eggland's Best Pasture Raised Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Eggland's Best"
+          ],
+          "terms": [
+            "Free Range Eggs",
+            "Eggland's Best Pasture Raised Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Eggland's Best Free Range Eggs and Eggland's Best Pasture Raised Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.egglandsbest.com/"
+      }
+    },
+    {
+      "id": "certified-humane-eggology-foods-llc",
+      "brand": "Eggology Foods, LLC",
+      "aliases": [
+        "Eggology Foods, LLC",
+        "Eggology"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free Egg Whites",
+        "Whole Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free Egg Whites",
+        "Whole Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Eggology"
+          ],
+          "terms": [
+            "Cage-Free Egg Whites",
+            "Whole Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Eggology Cage-Free Egg Whites and Whole Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://pearlvalleyfarms.com/eggology/"
+      }
+    },
+    {
+      "id": "certified-humane-elam-stoltzfus",
+      "brand": "Elam Stoltzfus",
+      "aliases": [
+        "Elam Stoltzfus"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage Free White Eggs"
+      ],
+      "matchTerms": [
+        "Cage Free White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Elam Stoltzfus"
+          ],
+          "terms": [
+            "Cage Free White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Cage Free White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-eme",
+      "brand": "EME",
+      "aliases": [
+        "EME",
+        "Red Bear Provisions"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Holy Cow! Beef Dry Salami",
+        "Red Square Dry Salami",
+        "Tipsy Cow Dry Salami"
+      ],
+      "matchTerms": [
+        "Holy Cow! Beef Dry Salami",
+        "Red Square Dry Salami",
+        "Tipsy Cow Dry Salami"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Red Bear Provisions"
+          ],
+          "terms": [
+            "Holy Cow! Beef Dry Salami",
+            "Red Square Dry Salami",
+            "Tipsy Cow Dry Salami"
+          ]
+        }
+      ],
+      "certifiedProductText": "Red Bear Provisions: Holy Cow! Beef Dry Salami, Red Square Dry Salami, Tipsy Cow Dry Salami",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-eugene-hostetler",
+      "brand": "Eugene Hostetler",
+      "aliases": [
+        "Eugene Hostetler"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free Range Brown Eggs"
+      ],
+      "matchTerms": [
+        "Free Range Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Eugene Hostetler"
+          ],
+          "terms": [
+            "Free Range Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Free Range Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-fairfield-specialty-eggs",
+      "brand": "Fairfield Specialty Eggs",
+      "aliases": [
+        "Fairfield Specialty Eggs",
+        "Contented Hen"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free-Range Organic Eggs",
+        "Kirkland Signature Free-Range Eggs"
+      ],
+      "matchTerms": [
+        "Free-Range Organic Eggs",
+        "Kirkland Signature Free-Range Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Contented Hen"
+          ],
+          "terms": [
+            "Free-Range Organic Eggs",
+            "Kirkland Signature Free-Range Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Contented Hen Free-Range Organic Eggs & Kirkland Signature Free-Range Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-first-light-farms",
+      "brand": "First Light Farms",
+      "aliases": [
+        "First Light Farms",
+        "First Light Grass-fed Wagyu"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Beef",
+        "Beef Cuts",
+        "First Light New Zealand Red Deer Venison",
+        "Venison Cuts",
+        "New Zealand Elk - Ground"
+      ],
+      "matchTerms": [
+        "Beef",
+        "Beef Cuts",
+        "First Light New Zealand Red Deer Venison",
+        "Venison Cuts",
+        "New Zealand Elk - Ground"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "First Light Grass-fed Wagyu"
+          ],
+          "terms": [
+            "Beef",
+            "Beef Cuts",
+            "First Light New Zealand Red Deer Venison",
+            "Venison Cuts",
+            "New Zealand Elk - Ground"
+          ]
+        }
+      ],
+      "certifiedProductText": "First Light Grass-fed Wagyu Beef and Beef Cuts, First Light New Zealand Red Deer Venison and Venison Cuts, New Zealand Elk - Ground",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.firstlight.farm/where-to-buy/united-states/"
+      }
+    },
+    {
+      "id": "certified-humane-forsman-farms-inc",
+      "brand": "Forsman Farms, Inc",
+      "aliases": [
+        "Forsman Farms, Inc",
+        "Kirkland Signature",
+        "Vital Farms"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free Eggs",
+        "Pasture-Raised Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free Eggs",
+        "Pasture-Raised Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Kirkland Signature"
+          ],
+          "terms": [
+            "Cage-Free Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Vital Farms"
+          ],
+          "terms": [
+            "Pasture-Raised Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Kirkland Signature Cage-Free Eggs; Vital Farms Pasture-Raised Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.forsmanfarms.com/"
+      }
+    },
+    {
+      "id": "certified-humane-fred-usinger-inc",
+      "brand": "Fred Usinger, Inc.",
+      "aliases": [
+        "Fred Usinger, Inc.",
+        "Butcher Box",
+        "Dorothy Lane",
+        "Niman Ranch"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Sweet Italian Ground Pork Sausage Links",
+        "Sweet Ground Pork Sausage Links",
+        "All Natural Smoked Uncured Ham",
+        "All Natural Smoked Ham",
+        "Maple-Glazed Smoked Uncured Ham",
+        "Maple-Glazed Smoked Ham",
+        "All Natural Apple Gouda Uncured Sausage",
+        "All Natural Apple Gouda Sausage",
+        "Bavarian Cooked Bratwurst",
+        "Beef",
+        "Lamb Gyro Slices",
+        "Fat Tire Beer Bratwurst",
+        "Hatch Green Chile Bratwurst",
+        "Kentucky Bourbon Uncured Sausage",
+        "Kentucky Bourbon Sausage",
+        "Lamb Merguez Sausage",
+        "Pit Smoked Pumpkin Spice Uncured Bacon",
+        "Pit Smoked Pumpkin Spice Bacon",
+        "Sliced Black Forest Smoked Uncured Ham",
+        "Sliced Black Forest Smoked Ham",
+        "Sliced Roast Beef",
+        "Sliced Smoked Honey Uncured Ham",
+        "Sliced Smoked Honey Ham",
+        "Sliced Uncured Beef Pastrami",
+        "Sliced Beef Pastrami",
+        "Sliced Uncured Corned Beef",
+        "Sliced Corned Beef",
+        "Smoked Bratwurst Uncured",
+        "Smoked Bratwurst",
+        "Spicy Italian Uncured Sausage",
+        "Spicy Sausage",
+        "Uncured Beef Pastrami",
+        "Beef Pastrami",
+        "Uncured Canadian Bacon",
+        "Canadian Bacon",
+        "Uncured Corned Beef",
+        "Corned Beef",
+        "Uncured Garlic Summer Sausage",
+        "Garlic Summer Sausage",
+        "Uncured Summer Sausage",
+        "Summer Sausage",
+        "Fat Tire All Natural Spicy Cheddar Beer Bratwurst",
+        "Fearless Beef Franks",
+        "Fearless Uncured Beef Franks",
+        "Fearless Uncured Franks",
+        "Fearless Franks",
+        "Grass Fed Angus Beef Summer Sausage",
+        "Grass Fed Angus Uncured Beef Franks",
+        "Grass Fed Angus Beef Franks",
+        "Natural Casing Uncured Franks",
+        "Natural Casing Franks",
+        "Sliced Applewood Smoked Uncured Ham",
+        "Sliced Applewood Smoked Ham"
+      ],
+      "matchTerms": [
+        "Sweet Italian Ground Pork Sausage Links",
+        "Sweet Ground Pork Sausage Links",
+        "All Natural Smoked Uncured Ham",
+        "All Natural Smoked Ham",
+        "Maple-Glazed Smoked Uncured Ham",
+        "Maple-Glazed Smoked Ham",
+        "All Natural Apple Gouda Uncured Sausage",
+        "All Natural Apple Gouda Sausage",
+        "Bavarian Cooked Bratwurst",
+        "Beef",
+        "Lamb Gyro Slices",
+        "Fat Tire Beer Bratwurst",
+        "Hatch Green Chile Bratwurst",
+        "Kentucky Bourbon Uncured Sausage",
+        "Kentucky Bourbon Sausage",
+        "Lamb Merguez Sausage",
+        "Pit Smoked Pumpkin Spice Uncured Bacon",
+        "Pit Smoked Pumpkin Spice Bacon",
+        "Sliced Black Forest Smoked Uncured Ham",
+        "Sliced Black Forest Smoked Ham",
+        "Sliced Roast Beef",
+        "Sliced Smoked Honey Uncured Ham",
+        "Sliced Smoked Honey Ham",
+        "Sliced Uncured Beef Pastrami",
+        "Sliced Beef Pastrami",
+        "Sliced Uncured Corned Beef",
+        "Sliced Corned Beef",
+        "Smoked Bratwurst Uncured",
+        "Smoked Bratwurst",
+        "Spicy Italian Uncured Sausage",
+        "Spicy Sausage",
+        "Uncured Beef Pastrami",
+        "Beef Pastrami",
+        "Uncured Canadian Bacon",
+        "Canadian Bacon",
+        "Uncured Corned Beef",
+        "Corned Beef",
+        "Uncured Garlic Summer Sausage",
+        "Garlic Summer Sausage",
+        "Uncured Summer Sausage",
+        "Summer Sausage",
+        "Fat Tire All Natural Spicy Cheddar Beer Bratwurst",
+        "Fearless Beef Franks",
+        "Fearless Uncured Beef Franks",
+        "Fearless Uncured Franks",
+        "Fearless Franks",
+        "Grass Fed Angus Beef Summer Sausage",
+        "Grass Fed Angus Uncured Beef Franks",
+        "Grass Fed Angus Beef Franks",
+        "Natural Casing Uncured Franks",
+        "Natural Casing Franks",
+        "Sliced Applewood Smoked Uncured Ham",
+        "Sliced Applewood Smoked Ham"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Butcher Box"
+          ],
+          "terms": [
+            "Sweet Italian Ground Pork Sausage Links",
+            "Sweet Ground Pork Sausage Links"
+          ]
+        },
+        {
+          "brands": [
+            "Dorothy Lane"
+          ],
+          "terms": [
+            "All Natural Smoked Uncured Ham",
+            "All Natural Smoked Ham",
+            "Maple-Glazed Smoked Uncured Ham",
+            "Maple-Glazed Smoked Ham"
+          ]
+        },
+        {
+          "brands": [
+            "Niman Ranch"
+          ],
+          "terms": [
+            "All Natural Apple Gouda Uncured Sausage",
+            "All Natural Apple Gouda Sausage",
+            "Bavarian Cooked Bratwurst",
+            "Beef",
+            "Lamb Gyro Slices",
+            "Fat Tire Beer Bratwurst",
+            "Hatch Green Chile Bratwurst",
+            "Kentucky Bourbon Uncured Sausage",
+            "Kentucky Bourbon Sausage",
+            "Lamb Merguez Sausage",
+            "Pit Smoked Pumpkin Spice Uncured Bacon",
+            "Pit Smoked Pumpkin Spice Bacon",
+            "Sliced Black Forest Smoked Uncured Ham",
+            "Sliced Black Forest Smoked Ham",
+            "Sliced Roast Beef",
+            "Sliced Smoked Honey Uncured Ham",
+            "Sliced Smoked Honey Ham",
+            "Sliced Uncured Beef Pastrami",
+            "Sliced Beef Pastrami",
+            "Sliced Uncured Corned Beef",
+            "Sliced Corned Beef",
+            "Smoked Bratwurst Uncured",
+            "Smoked Bratwurst",
+            "Spicy Italian Uncured Sausage",
+            "Spicy Sausage",
+            "Uncured Beef Pastrami",
+            "Beef Pastrami",
+            "Uncured Canadian Bacon",
+            "Canadian Bacon",
+            "Uncured Corned Beef",
+            "Corned Beef",
+            "Uncured Garlic Summer Sausage",
+            "Garlic Summer Sausage",
+            "Uncured Summer Sausage",
+            "Summer Sausage",
+            "Fat Tire All Natural Spicy Cheddar Beer Bratwurst",
+            "Fearless Beef Franks",
+            "Fearless Uncured Beef Franks",
+            "Fearless Uncured Franks",
+            "Fearless Franks",
+            "Grass Fed Angus Beef Summer Sausage",
+            "Grass Fed Angus Uncured Beef Franks",
+            "Grass Fed Angus Beef Franks",
+            "Natural Casing Uncured Franks",
+            "Natural Casing Franks",
+            "Sliced Applewood Smoked Uncured Ham",
+            "Sliced Applewood Smoked Ham"
+          ]
+        }
+      ],
+      "certifiedProductText": "Butcher Box: Sweet Italian Ground Pork Sausage Links ; Dorothy Lane: All Natural Smoked Uncured Ham and Maple-Glazed Smoked Uncured Ham ; ; Niman Ranch: All Natural Apple Gouda Uncured Sausage, Bavarian Cooked Bratwurst, Beef & Lamb Gyro Slices, Fat Tire Beer Bratwurst, Hatch Green Chile Bratwurst, Kentucky Bourbon Uncured Sausage, Lamb Merguez Sausage, Pit Smoked Pumpkin Spice Uncured Bacon, Sliced Black Forest Smoked Uncured Ham, Sliced Roast Beef, Sliced Smoked Honey Uncured Ham, Sliced Uncured Beef Pastrami, Sliced Uncured Corned Beef, Smoked Bratwurst Uncured, Spicy Italian Uncured Sausage, Uncured Beef Pastrami, Uncured Canadian Bacon, Uncured Corned Beef, Uncured Garlic Summer Sausage, Uncured Summer Sausage, Fat Tire All Natural Spicy Cheddar Beer Bratwurst, Fearless Beef Franks, Fearless Uncured Beef Franks, Fearless Uncured Franks, Grass Fed Angus Beef Summer Sausage, Grass Fed Angus Uncured Beef Franks, Natural Casing Uncured Franks, Sliced Applewood Smoked Uncured Ham ;",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.usinger.com"
+      }
+    },
+    {
+      "id": "certified-humane-gemperle-family-farms-gemperle-enterprises",
+      "brand": "Gemperle Family Farms (Gemperle Enterprises)",
+      "aliases": [
+        "Gemperle Family Farms (Gemperle Enterprises)",
+        "Barnstar Family Farms",
+        "Kirkland Signature",
+        "Member's Mark",
+        "Open Nature",
+        "Raley’s",
+        "O Organics",
+        "Sun Harvest",
+        "Sunnyside Farms",
+        "Sun Valley"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free Eggs",
+        "Cage-Free Organic Eggs",
+        "Cage Free White Eggs",
+        "Organic Cage Free Brown Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free Eggs",
+        "Cage-Free Organic Eggs",
+        "Cage Free White Eggs",
+        "Organic Cage Free Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Barnstar Family Farms"
+          ],
+          "terms": [
+            "Cage-Free Eggs",
+            "Cage-Free Organic Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Kirkland Signature"
+          ],
+          "terms": [
+            "Cage-Free Organic Eggs",
+            "Cage-Free Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Member's Mark"
+          ],
+          "terms": [
+            "Cage Free White Eggs",
+            "Organic Cage Free Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Open Nature"
+          ],
+          "terms": [
+            "Cage-Free Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Raley’s"
+          ],
+          "terms": [
+            "Cage-Free Eggs",
+            "Cage-Free Organic Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "O Organics"
+          ],
+          "terms": [
+            "Cage-Free Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Sun Harvest"
+          ],
+          "terms": [
+            "Cage-Free Eggs",
+            "Cage-Free Organic Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Sunnyside Farms"
+          ],
+          "terms": [
+            "Cage-Free Eggs",
+            "Cage-Free Organic Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Sun Valley"
+          ],
+          "terms": [
+            "Cage-Free Eggs",
+            "Cage-Free Organic Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Barnstar Family Farms: Cage-Free Eggs, Cage-Free Organic Eggs; Kirkland Signature: Cage-Free Organic Eggs, Cage-Free Eggs; Member's Mark: Cage Free White Eggs, Organic Cage Free Brown Eggs; Open Nature: Cage-Free Eggs;Raley’s: Cage-Free Eggs, Cage-Free Organic Eggs;O Organics: Cage-Free Eggs; Sun Harvest: Cage-Free Eggs, Cage-Free Organic Eggs;Sunnyside Farms: Cage-Free Eggs, Cage-Free Organic Eggs;Sun Valley: Cage-Free Eggs, Cage-Free Organic Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://gemperle.com/contact/"
+      }
+    },
+    {
+      "id": "certified-humane-gjl-farms",
+      "brand": "GJL Farms",
+      "aliases": [
+        "GJL Farms",
+        "Fresh"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pork"
+      ],
+      "matchTerms": [
+        "Pork"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Fresh"
+          ],
+          "terms": [
+            "Pork"
+          ]
+        }
+      ],
+      "certifiedProductText": "Fresh Pork",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.facebook.com/profile.php?id=100066505118640"
+      }
+    },
+    {
+      "id": "certified-humane-glaum-egg-ranch",
+      "brand": "Glaum Egg Ranch",
+      "aliases": [
+        "Glaum Egg Ranch",
+        "Glaum"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Egg Ranch Cage-Free White",
+        "Brown Eggs",
+        "Glaum Egg Ranch Organic Cage-Free Brown Eggs"
+      ],
+      "matchTerms": [
+        "Egg Ranch Cage-Free White",
+        "Brown Eggs",
+        "Glaum Egg Ranch Organic Cage-Free Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Glaum"
+          ],
+          "terms": [
+            "Egg Ranch Cage-Free White",
+            "Brown Eggs",
+            "Glaum Egg Ranch Organic Cage-Free Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Glaum Egg Ranch Cage-Free White & Brown Eggs, Glaum Egg Ranch Organic Cage-Free Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.glaumeggranch.com"
+      }
+    },
+    {
+      "id": "certified-humane-godshall-s-quality-meats",
+      "brand": "Godshall’s Quality Meats",
+      "aliases": [
+        "Godshall’s Quality Meats",
+        "Koch's Rotisserie Recipe"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Turkey Breast",
+        "Smoked Boneless Turkey Breast"
+      ],
+      "matchTerms": [
+        "Turkey Breast",
+        "Smoked Boneless Turkey Breast"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Koch's Rotisserie Recipe"
+          ],
+          "terms": [
+            "Turkey Breast",
+            "Smoked Boneless Turkey Breast"
+          ]
+        }
+      ],
+      "certifiedProductText": "Koch's Rotisserie Recipe Turkey Breast and Smoked Boneless Turkey Breast",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://godshalls.com"
+      }
+    },
+    {
+      "id": "certified-humane-goede-acres-llc",
+      "brand": "Goede Acres LLC",
+      "aliases": [
+        "Goede Acres LLC"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pasture-Raised White",
+        "Brown Eggs"
+      ],
+      "matchTerms": [
+        "Pasture-Raised White",
+        "Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Goede Acres LLC"
+          ],
+          "terms": [
+            "Pasture-Raised White",
+            "Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Pasture-Raised White & Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-granite-ridge-farm",
+      "brand": "Granite Ridge Farm",
+      "aliases": [
+        "Granite Ridge Farm",
+        "Kirkland Signature"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free Range Organic Eggs",
+        "Kirkland Signature Free-Range Eggs"
+      ],
+      "matchTerms": [
+        "Free Range Organic Eggs",
+        "Kirkland Signature Free-Range Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Kirkland Signature"
+          ],
+          "terms": [
+            "Free Range Organic Eggs",
+            "Kirkland Signature Free-Range Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Kirkland Signature Free Range Organic Eggs, Kirkland Signature Free-Range Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.graniteridgefarm.com/"
+      }
+    },
+    {
+      "id": "certified-humane-greener-pastures-chicken",
+      "brand": "Greener Pastures Chicken",
+      "aliases": [
+        "Greener Pastures Chicken",
+        "Greener Pastures Whole"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Chicken",
+        "Chicken Parts",
+        "Offal"
+      ],
+      "matchTerms": [
+        "Chicken",
+        "Chicken Parts",
+        "Offal"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Greener Pastures Whole"
+          ],
+          "terms": [
+            "Chicken",
+            "Chicken Parts",
+            "Offal"
+          ]
+        }
+      ],
+      "certifiedProductText": "Greener Pastures Whole Chicken, Chicken Parts and Offal",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://greenerpastureschicken.com/"
+      }
+    },
+    {
+      "id": "certified-humane-greenham-never-ever-beef",
+      "brand": "Greenham Never Ever Beef",
+      "aliases": [
+        "Greenham Never Ever Beef",
+        "Greenham Never Ever",
+        "Greenham Barley"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Beef",
+        "Beef Cuts"
+      ],
+      "matchTerms": [
+        "Beef",
+        "Beef Cuts"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Greenham Never Ever"
+          ],
+          "terms": [
+            "Beef",
+            "Beef Cuts"
+          ]
+        },
+        {
+          "brands": [
+            "Greenham Barley"
+          ],
+          "terms": [
+            "Beef",
+            "Beef Cuts"
+          ]
+        }
+      ],
+      "certifiedProductText": "Greenham Never Ever Beef and Beef Cuts; Greenham Barley Beef and Beef Cuts",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.greenham.com.au/cape_grim_beef.html"
+      }
+    },
+    {
+      "id": "certified-humane-grote-egg-farm",
+      "brand": "Grote Egg Farm",
+      "aliases": [
+        "Grote Egg Farm"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage Free Eggs"
+      ],
+      "matchTerms": [
+        "Cage Free Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Grote Egg Farm"
+          ],
+          "terms": [
+            "Cage Free Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Cage Free Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-handsome-brook-farm-llc",
+      "brand": "Handsome Brook Farm, LLC",
+      "aliases": [
+        "Handsome Brook Farm, LLC"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pasture-Raised Eggs"
+      ],
+      "matchTerms": [
+        "Pasture-Raised Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Handsome Brook Farm, LLC"
+          ],
+          "terms": [
+            "Pasture-Raised Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Pasture-Raised Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-hazekamp-s-premier-foods",
+      "brand": "Hazekamp’s Premier Foods",
+      "aliases": [
+        "Hazekamp’s Premier Foods",
+        "Butcher Box"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pork Tenderloin",
+        "Boneless Pork Chops"
+      ],
+      "matchTerms": [
+        "Pork Tenderloin",
+        "Boneless Pork Chops"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Butcher Box"
+          ],
+          "terms": [
+            "Pork Tenderloin",
+            "Boneless Pork Chops"
+          ]
+        }
+      ],
+      "certifiedProductText": "Butcher Box Pork Tenderloin & Boneless Pork Chops",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://premier-foods.com/"
+      }
+    },
+    {
+      "id": "certified-humane-hbf-farms-llc",
+      "brand": "HBF Farms, LLC",
+      "aliases": [
+        "HBF Farms, LLC"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free-Range Eggs",
+        "Pasture-Raised Eggs",
+        "Cage-Free Eggs"
+      ],
+      "matchTerms": [
+        "Free-Range Eggs",
+        "Pasture-Raised Eggs",
+        "Cage-Free Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "HBF Farms, LLC"
+          ],
+          "terms": [
+            "Free-Range Eggs",
+            "Pasture-Raised Eggs",
+            "Cage-Free Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Free-Range Eggs, Pasture-Raised Eggs, Cage-Free Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-hbf-grading-llc-dba-brooks-grading",
+      "brand": "HBF Grading LLC DBA Brooks Grading",
+      "aliases": [
+        "HBF Grading LLC DBA Brooks Grading",
+        "Loose",
+        "Nest Run",
+        "Kirkland Signature",
+        "The Farmer’s Hen"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free Range Eggs",
+        "Organic Free Range Eggs",
+        "Organic Pasture Raised Eggs",
+        "Free-Range Eggs",
+        "Organic Cage-Free Eggs",
+        "Organic Free-Range Eggs",
+        "Classic Free-Range Eggs",
+        "Free-Range Organic Eggs"
+      ],
+      "matchTerms": [
+        "Free Range Eggs",
+        "Organic Free Range Eggs",
+        "Organic Pasture Raised Eggs",
+        "Free-Range Eggs",
+        "Organic Cage-Free Eggs",
+        "Organic Free-Range Eggs",
+        "Classic Free-Range Eggs",
+        "Free-Range Organic Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Loose"
+          ],
+          "terms": [
+            "Free Range Eggs",
+            "Organic Free Range Eggs",
+            "Organic Pasture Raised Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Nest Run"
+          ],
+          "terms": [
+            "Free Range Eggs",
+            "Organic Free Range Eggs",
+            "Organic Pasture Raised Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Kirkland Signature"
+          ],
+          "terms": [
+            "Free-Range Eggs",
+            "Organic Cage-Free Eggs",
+            "Organic Free-Range Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "The Farmer’s Hen"
+          ],
+          "terms": [
+            "Classic Free-Range Eggs",
+            "Free-Range Organic Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Loose: Free Range Eggs, Organic Free Range Eggs, Organic Pasture Raised Eggs; Nest Run: Free Range Eggs, Organic Free Range Eggs, Organic Pasture Raised Eggs; Kirkland Signature: Free-Range Eggs, Organic Cage-Free Eggs, Organic Free-Range Eggs; The Farmer’s Hen: Classic Free-Range Eggs, Free-Range Organic Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://hbfgrading.com/"
+      }
+    },
+    {
+      "id": "certified-humane-hbf-nest-run-llc",
+      "brand": "HBF Nest Run, LLC",
+      "aliases": [
+        "HBF Nest Run, LLC"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free-Range Eggs",
+        "Pasture-Raised Eggs",
+        "Cage-Free Eggs"
+      ],
+      "matchTerms": [
+        "Free-Range Eggs",
+        "Pasture-Raised Eggs",
+        "Cage-Free Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "HBF Nest Run, LLC"
+          ],
+          "terms": [
+            "Free-Range Eggs",
+            "Pasture-Raised Eggs",
+            "Cage-Free Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Free-Range Eggs, Pasture-Raised Eggs, Cage-Free Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-hendrix-isa-llc",
+      "brand": "Hendrix-ISA LLC",
+      "aliases": [
+        "Hendrix-ISA LLC"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "In Ovo Sexed Dekalb White",
+        "Isa Brown Day-Old Chicks"
+      ],
+      "matchTerms": [
+        "In Ovo Sexed Dekalb White",
+        "Isa Brown Day-Old Chicks"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Hendrix-ISA LLC"
+          ],
+          "terms": [
+            "In Ovo Sexed Dekalb White",
+            "Isa Brown Day-Old Chicks"
+          ]
+        }
+      ],
+      "certifiedProductText": "In Ovo Sexed Dekalb White & Isa Brown Day-Old Chicks",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.hendrix-isa.com/en/"
+      }
+    },
+    {
+      "id": "certified-humane-henry-farm-aka-donald-henry-farm",
+      "brand": "Henry Farm aka Donald Henry Farm",
+      "aliases": [
+        "Henry Farm aka Donald Henry Farm",
+        "Nest-Run"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free White Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Nest-Run"
+          ],
+          "terms": [
+            "Cage-Free White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Nest-Run Cage-Free White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-hentges-farms",
+      "brand": "Hentges Farms",
+      "aliases": [
+        "Hentges Farms"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage Free White Eggs"
+      ],
+      "matchTerms": [
+        "Cage Free White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Hentges Farms"
+          ],
+          "terms": [
+            "Cage Free White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Cage Free White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-herbruck-s-of-pennsylvania-blue-springs",
+      "brand": "Herbruck’s of Pennsylvania – Blue Springs",
+      "aliases": [
+        "Herbruck’s of Pennsylvania – Blue Springs",
+        "Kirkland Signature"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free Brown Eggs (Nest Run",
+        "Bulk",
+        "& Restricted)",
+        "Cage-Free White Eggs (Nest Run",
+        "Free-Range Cage-Free Brown Eggs (Nest Run)",
+        "Pasture-Raised Cage-Free Eggs (Nest Run)",
+        "Cage-Free Eggs",
+        "Kirkland Signature Free-Range Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free Brown Eggs (Nest Run",
+        "Bulk",
+        "& Restricted)",
+        "Cage-Free White Eggs (Nest Run",
+        "Free-Range Cage-Free Brown Eggs (Nest Run)",
+        "Pasture-Raised Cage-Free Eggs (Nest Run)",
+        "Cage-Free Eggs",
+        "Kirkland Signature Free-Range Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Herbruck’s of Pennsylvania – Blue Springs"
+          ],
+          "terms": [
+            "Cage-Free Brown Eggs (Nest Run",
+            "Bulk",
+            "& Restricted)",
+            "Cage-Free White Eggs (Nest Run",
+            "Free-Range Cage-Free Brown Eggs (Nest Run)",
+            "Pasture-Raised Cage-Free Eggs (Nest Run)"
+          ]
+        },
+        {
+          "brands": [
+            "Kirkland Signature"
+          ],
+          "terms": [
+            "Cage-Free Eggs",
+            "Kirkland Signature Free-Range Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Cage-Free Brown Eggs (Nest Run, Bulk, & Restricted), Cage-Free White Eggs (Nest Run, Bulk, & Restricted), Free-Range Cage-Free Brown Eggs (Nest Run), Pasture-Raised Cage-Free Eggs (Nest Run); Kirkland Signature Cage-Free Eggs, Kirkland Signature Free-Range Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.herbrucks.com"
+      }
+    },
+    {
+      "id": "certified-humane-herbruck-s-poultry-ranch",
+      "brand": "Herbruck’s Poultry Ranch",
+      "aliases": [
+        "Herbruck’s Poultry Ranch",
+        "Born Free",
+        "Eggland’s Best",
+        "Green Meadow Organics",
+        "Kirkland",
+        "Love Your",
+        "Meijer",
+        "O Organics"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free-Range Brown Eggs",
+        "Born Free Free-Range Organic Brown Eggs",
+        "Born Free Pasture-Raised Brown Eggs",
+        "Eggland’s Best Pasture-Raised Brown Eggs",
+        "Eggland’s Best Free-Range Organic Brown Eggs",
+        "Eggland’s Best Pasture-Raised Organic Brown Eggs",
+        "Cage-Free Organic Eggs",
+        "Green Meadow Organics Free-Range Organic Eggs",
+        "Green Meadow Organics Pasture-Raised Organic Eggs",
+        "Cage-Free Eggs",
+        "Kirkland Free-Range Eggs",
+        "Eggs Pasture Raised Organic Eggs",
+        "Cage-Free Brown Eggs",
+        "Meijer True Goodness Cage-Free Organic Brown Eggs",
+        "Meijer True Goodness Free-Range Organic Brown Eggs",
+        "Meijer True Goodness Pasture-Raised Organic Brown Eggs",
+        "Cage-Free Organic Brown Eggs",
+        "Cage-Free Whole Liquid Egg",
+        "Cage-Free Organic Eggs (Nest Run",
+        "Bulk",
+        "& Restricted)",
+        "Cage-Free Brown Eggs (Nest Run",
+        "Cage-Free White Egg (Nest Run"
+      ],
+      "matchTerms": [
+        "Free-Range Brown Eggs",
+        "Born Free Free-Range Organic Brown Eggs",
+        "Born Free Pasture-Raised Brown Eggs",
+        "Eggland’s Best Pasture-Raised Brown Eggs",
+        "Eggland’s Best Free-Range Organic Brown Eggs",
+        "Eggland’s Best Pasture-Raised Organic Brown Eggs",
+        "Cage-Free Organic Eggs",
+        "Green Meadow Organics Free-Range Organic Eggs",
+        "Green Meadow Organics Pasture-Raised Organic Eggs",
+        "Cage-Free Eggs",
+        "Kirkland Free-Range Eggs",
+        "Eggs Pasture Raised Organic Eggs",
+        "Cage-Free Brown Eggs",
+        "Meijer True Goodness Cage-Free Organic Brown Eggs",
+        "Meijer True Goodness Free-Range Organic Brown Eggs",
+        "Meijer True Goodness Pasture-Raised Organic Brown Eggs",
+        "Cage-Free Organic Brown Eggs",
+        "Cage-Free Whole Liquid Egg",
+        "Cage-Free Organic Eggs (Nest Run",
+        "Bulk",
+        "& Restricted)",
+        "Cage-Free Brown Eggs (Nest Run",
+        "Cage-Free White Egg (Nest Run"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Born Free"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs",
+            "Born Free Free-Range Organic Brown Eggs",
+            "Born Free Pasture-Raised Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Eggland’s Best"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs",
+            "Eggland’s Best Pasture-Raised Brown Eggs",
+            "Eggland’s Best Free-Range Organic Brown Eggs",
+            "Eggland’s Best Pasture-Raised Organic Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Green Meadow Organics"
+          ],
+          "terms": [
+            "Cage-Free Organic Eggs",
+            "Green Meadow Organics Free-Range Organic Eggs",
+            "Green Meadow Organics Pasture-Raised Organic Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Kirkland"
+          ],
+          "terms": [
+            "Cage-Free Eggs",
+            "Kirkland Free-Range Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Love Your"
+          ],
+          "terms": [
+            "Eggs Pasture Raised Organic Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Meijer"
+          ],
+          "terms": [
+            "Cage-Free Brown Eggs",
+            "Meijer True Goodness Cage-Free Organic Brown Eggs",
+            "Meijer True Goodness Free-Range Organic Brown Eggs",
+            "Meijer True Goodness Pasture-Raised Organic Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "O Organics"
+          ],
+          "terms": [
+            "Cage-Free Organic Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Herbruck’s Poultry Ranch"
+          ],
+          "terms": [
+            "Cage-Free Whole Liquid Egg"
+          ]
+        },
+        {
+          "brands": [
+            "Herbruck’s Poultry Ranch"
+          ],
+          "terms": [
+            "Cage-Free Organic Eggs (Nest Run",
+            "Bulk",
+            "& Restricted)",
+            "Cage-Free Brown Eggs (Nest Run",
+            "Cage-Free White Egg (Nest Run"
+          ]
+        }
+      ],
+      "certifiedProductText": "Born Free Free-Range Brown Eggs, Born Free Free-Range Organic Brown Eggs, Born Free Pasture-Raised Brown Eggs; Eggland’s Best Free-Range Brown Eggs, Eggland’s Best Pasture-Raised Brown Eggs, Eggland’s Best Free-Range Organic Brown Eggs, Eggland’s Best Pasture-Raised Organic Brown Eggs; Green Meadow Organics Cage-Free Organic Eggs, Green Meadow Organics Free-Range Organic Eggs, Green Meadow Organics Pasture-Raised Organic Eggs; Kirkland Cage-Free Eggs, Kirkland Free-Range Eggs; Love Your Eggs Pasture Raised Organic Eggs; Meijer Cage-Free Brown Eggs, Meijer True Goodness Cage-Free Organic Brown Eggs, Meijer True Goodness Free-Range Organic Brown Eggs, Meijer True Goodness Pasture-Raised Organic Brown Eggs; O Organics Cage-Free Organic Brown Eggs; Cage-Free Whole Liquid Egg; Cage-Free Organic Eggs (Nest Run, Bulk, & Restricted), Cage-Free Brown Eggs (Nest Run, Bulk, & Restricted), Cage-Free White Egg (Nest Run, Bulk, & Restricted)",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.herbrucks.com"
+      }
+    },
+    {
+      "id": "certified-humane-hidden-villa-ranch",
+      "brand": "Hidden Villa Ranch",
+      "aliases": [
+        "Hidden Villa Ranch",
+        "Cadia",
+        "Gelson’s",
+        "GoldHen",
+        "Happy Belly",
+        "Harris Teeter",
+        "HEB",
+        "Kirkland Signature",
+        "Natural Directions",
+        "Natural Grocers",
+        "Nature Fed",
+        "NestFresh",
+        "New Barn Organics",
+        "O Organics",
+        "Open Nature",
+        "ShopRite",
+        "Simply Nature",
+        "Teggxas",
+        "The Country Hen",
+        "The Farmers Hen",
+        "Waialua Fresh",
+        "Wild Oats"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free-Range Brown Eggs",
+        "Free-Range Organic Brown Eggs",
+        "Pasture-Raised Brown Eggs",
+        "Cage-Free Brown Eggs",
+        "Cage-Free White Eggs",
+        "Cage-Free Liquid Egg Whites",
+        "Cage-Free Eggs",
+        "Cage-Free Organic Eggs",
+        "Free-Range Organic Eggs",
+        "Pasture-Raised Organic Eggs",
+        "Pasture-Raised Regenerative Organic Eggs",
+        "Cage-Free Non-GMO White Eggs",
+        "Cage-Free Non-GMO Brown Eggs",
+        "Cage-Free Non-GMO Liquid Egg Product. Cage-Free Non-GMO Liquid Egg Whites",
+        "Cage-Free Non-GMO Frozen Egg Yolk",
+        "Cage-Free Non-GMO Frozen Sugared Egg Yolk",
+        "Cage-Free Organic Non-GMO Frozen Whole Eggs",
+        "Free-Range Non-GMO Frozen Salted Egg Yolk",
+        "Free-Range Organic Frozen Salted Egg Yolk",
+        "Free-Range Organic Frozen Salted Whole Eggs",
+        "Free-Range Organic Non-GMO Frozen Salted Egg Yolk",
+        "Pasture-Raised Organic Frozen Whole Eggs",
+        "Cage-Free Non-GMO Dried Egg Whites",
+        "Cage-Free Non-GMO Dried Egg Yolk",
+        "Cage-Free Non-GMO Dried Whole Eggs",
+        "Cage-Free Organic Dried Whole Egg",
+        "Cage-Free Organic Salted Dried Whole Egg",
+        "Cage-Free Organic Liquid Whole Egg (Salted 10%)",
+        "Cage-Free Organic Liquid Egg Yolk (Salted 10%)",
+        "Cage-Free Liquid Salted Egg Yolk",
+        "Cage-Free Liquid Salted Whole Egg",
+        "Cage-Free Liquid Sugared Egg Yolk",
+        "Free-Range Liquid Egg Whites",
+        "Free-Range Non-GMO Brown Eggs",
+        "Free Range Humanely Hatched Brown Eggs",
+        "Free-Range Non-GMO Humanely Hatched Brown Eggs",
+        "Free-Range Organic Humanely Hatched Brown Eggs",
+        "Pasture-Raised Brown Soy-Free Eggs",
+        "Pasture-Raised Non-GMO Brown Eggs",
+        "Pasture-Raised Organic Brown Eggs",
+        "Pasture-Raised Heirloom Eggs",
+        "Pasture-Raised Humanely Hatched Brown Eggs",
+        "Pasture-Raised Organic Humanely Hatched Brown Eggs",
+        "Pasture-Raised Hand Gathered Brown Eggs",
+        "Pasture-Raised Heritage Breed Multi-Color Eggs",
+        "Cage-Free Organic Brown Eggs",
+        "Cage-Free 100% Liquid Egg Whites",
+        "Cage-Free Hard Cooked Peeled Eggs",
+        "Free-Range Eggs",
+        "Free-Range Organic Omega Humanely Hatched Eggs",
+        "Cage-Free Hard Cooked Eggs",
+        "Pasture-Raised Regenerative Organic Certified® Eggs"
+      ],
+      "matchTerms": [
+        "Free-Range Brown Eggs",
+        "Free-Range Organic Brown Eggs",
+        "Pasture-Raised Brown Eggs",
+        "Cage-Free Brown Eggs",
+        "Cage-Free White Eggs",
+        "Cage-Free Liquid Egg Whites",
+        "Cage-Free Eggs",
+        "Cage-Free Organic Eggs",
+        "Free-Range Organic Eggs",
+        "Pasture-Raised Organic Eggs",
+        "Pasture-Raised Regenerative Organic Eggs",
+        "Cage-Free Non-GMO White Eggs",
+        "Cage-Free Non-GMO Brown Eggs",
+        "Cage-Free Non-GMO Liquid Egg Product. Cage-Free Non-GMO Liquid Egg Whites",
+        "Cage-Free Non-GMO Frozen Egg Yolk",
+        "Cage-Free Non-GMO Frozen Sugared Egg Yolk",
+        "Cage-Free Organic Non-GMO Frozen Whole Eggs",
+        "Free-Range Non-GMO Frozen Salted Egg Yolk",
+        "Free-Range Organic Frozen Salted Egg Yolk",
+        "Free-Range Organic Frozen Salted Whole Eggs",
+        "Free-Range Organic Non-GMO Frozen Salted Egg Yolk",
+        "Pasture-Raised Organic Frozen Whole Eggs",
+        "Cage-Free Non-GMO Dried Egg Whites",
+        "Cage-Free Non-GMO Dried Egg Yolk",
+        "Cage-Free Non-GMO Dried Whole Eggs",
+        "Cage-Free Organic Dried Whole Egg",
+        "Cage-Free Organic Salted Dried Whole Egg",
+        "Cage-Free Organic Liquid Whole Egg (Salted 10%)",
+        "Cage-Free Organic Liquid Egg Yolk (Salted 10%)",
+        "Cage-Free Liquid Salted Egg Yolk",
+        "Cage-Free Liquid Salted Whole Egg",
+        "Cage-Free Liquid Sugared Egg Yolk",
+        "Free-Range Liquid Egg Whites",
+        "Free-Range Non-GMO Brown Eggs",
+        "Free Range Humanely Hatched Brown Eggs",
+        "Free-Range Non-GMO Humanely Hatched Brown Eggs",
+        "Free-Range Organic Humanely Hatched Brown Eggs",
+        "Pasture-Raised Brown Soy-Free Eggs",
+        "Pasture-Raised Non-GMO Brown Eggs",
+        "Pasture-Raised Organic Brown Eggs",
+        "Pasture-Raised Heirloom Eggs",
+        "Pasture-Raised Humanely Hatched Brown Eggs",
+        "Pasture-Raised Organic Humanely Hatched Brown Eggs",
+        "Pasture-Raised Hand Gathered Brown Eggs",
+        "Pasture-Raised Heritage Breed Multi-Color Eggs",
+        "Cage-Free Organic Brown Eggs",
+        "Cage-Free 100% Liquid Egg Whites",
+        "Cage-Free Hard Cooked Peeled Eggs",
+        "Free-Range Eggs",
+        "Free-Range Organic Omega Humanely Hatched Eggs",
+        "Cage-Free Hard Cooked Eggs",
+        "Pasture-Raised Regenerative Organic Certified® Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Cadia"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs",
+            "Free-Range Organic Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Gelson’s"
+          ],
+          "terms": [
+            "Pasture-Raised Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "GoldHen"
+          ],
+          "terms": [
+            "Cage-Free Brown Eggs",
+            "Free-Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Happy Belly"
+          ],
+          "terms": [
+            "Cage-Free White Eggs",
+            "Cage-Free Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Harris Teeter"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "HEB"
+          ],
+          "terms": [
+            "Cage-Free Liquid Egg Whites"
+          ]
+        },
+        {
+          "brands": [
+            "Kirkland Signature"
+          ],
+          "terms": [
+            "Cage-Free Eggs",
+            "Cage-Free Organic Eggs",
+            "Free-Range Organic Eggs",
+            "Pasture-Raised Organic Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Natural Directions"
+          ],
+          "terms": [
+            "Cage-Free White Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Natural Grocers"
+          ],
+          "terms": [
+            "Pasture-Raised Regenerative Organic Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Nature Fed"
+          ],
+          "terms": [
+            "Cage-Free Non-GMO White Eggs",
+            "Cage-Free Non-GMO Brown Eggs",
+            "Cage-Free Non-GMO Liquid Egg Product. Cage-Free Non-GMO Liquid Egg Whites"
+          ]
+        },
+        {
+          "brands": [
+            "NestFresh"
+          ],
+          "terms": [
+            "Cage-Free Non-GMO Frozen Egg Yolk",
+            "Cage-Free Non-GMO Frozen Sugared Egg Yolk",
+            "Cage-Free Organic Non-GMO Frozen Whole Eggs",
+            "Free-Range Non-GMO Frozen Salted Egg Yolk",
+            "Free-Range Organic Frozen Salted Egg Yolk",
+            "Free-Range Organic Frozen Salted Whole Eggs",
+            "Free-Range Organic Non-GMO Frozen Salted Egg Yolk",
+            "Pasture-Raised Organic Frozen Whole Eggs",
+            "Cage-Free Non-GMO Dried Egg Whites",
+            "Cage-Free Non-GMO Dried Egg Yolk",
+            "Cage-Free Non-GMO Dried Whole Eggs",
+            "Cage-Free Organic Dried Whole Egg",
+            "Cage-Free Organic Salted Dried Whole Egg",
+            "Cage-Free Organic Liquid Whole Egg (Salted 10%)",
+            "Cage-Free Organic Liquid Egg Yolk (Salted 10%)",
+            "Cage-Free Liquid Salted Egg Yolk",
+            "Cage-Free Liquid Salted Whole Egg",
+            "Cage-Free Liquid Sugared Egg Yolk",
+            "Free-Range Liquid Egg Whites",
+            "Free-Range Brown Eggs",
+            "Free-Range Non-GMO Brown Eggs",
+            "Free Range Humanely Hatched Brown Eggs",
+            "Free-Range Non-GMO Humanely Hatched Brown Eggs",
+            "Free-Range Organic Humanely Hatched Brown Eggs",
+            "Pasture-Raised Brown Eggs",
+            "Pasture-Raised Brown Soy-Free Eggs",
+            "Pasture-Raised Non-GMO Brown Eggs",
+            "Pasture-Raised Organic Brown Eggs",
+            "Pasture-Raised Heirloom Eggs",
+            "Pasture-Raised Humanely Hatched Brown Eggs",
+            "Pasture-Raised Organic Humanely Hatched Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "New Barn Organics"
+          ],
+          "terms": [
+            "Pasture-Raised Hand Gathered Brown Eggs",
+            "Pasture-Raised Heritage Breed Multi-Color Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "O Organics"
+          ],
+          "terms": [
+            "Cage-Free Organic Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Open Nature"
+          ],
+          "terms": [
+            "Cage-Free White Eggs",
+            "Cage-Free Brown Eggs",
+            "Cage-Free 100% Liquid Egg Whites"
+          ]
+        },
+        {
+          "brands": [
+            "ShopRite"
+          ],
+          "terms": [
+            "Cage-Free Hard Cooked Peeled Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Simply Nature"
+          ],
+          "terms": [
+            "Cage-Free Organic Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Teggxas"
+          ],
+          "terms": [
+            "Cage-Free Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "The Country Hen"
+          ],
+          "terms": [
+            "Free-Range Eggs",
+            "Free-Range Organic Omega Humanely Hatched Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "The Farmers Hen"
+          ],
+          "terms": [
+            "Cage-Free Hard Cooked Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Waialua Fresh"
+          ],
+          "terms": [
+            "Cage-Free Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Wild Oats"
+          ],
+          "terms": [
+            "Free-Range Organic Eggs",
+            "Pasture-Raised Organic Eggs",
+            "Pasture-Raised Regenerative Organic Certified® Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Cadia: Free-Range Brown Eggs, Free-Range Organic Brown Eggs; Central Market:Pasture-Raised Brown Eggs, Pasture-Raised Organic Brown Eggs, Pasture-Raised Organic Brown Soy Free Eggs: Earth Fare: Cage-Free White Eggs, Cage-Free Omega-3 White Eggs, Cage-Free Brown Eggs, Cage-Free Organic Brown Eggs, Cage-Free Liquid Egg Whites, Pasture Raised Brown Eggs; Gelson’s Pasture-Raised Brown Eggs; GoldHen: Cage-Free Brown Eggs, Free-Range Brown Eggs; Happy Belly: Cage-Free White Eggs, Cage-Free Brown Eggs; Harris Teeter Free-Range Brown Eggs; HEB Cage-Free Liquid Egg Whites; Kirkland Signature Cage-Free Eggs, Cage-Free Organic Eggs, Free-Range Organic Eggs, Pasture-Raised Organic Eggs; Natural Directions Cage-Free White Eggs; Natural Grocers Pasture-Raised Regenerative Organic Eggs; Nature Fed: Cage-Free Non-GMO White Eggs, Cage-Free Non-GMO Brown Eggs, Cage-Free Non-GMO Liquid Egg Product. Cage-Free Non-GMO Liquid Egg Whites; NestFresh: Cage-Free Non-GMO Frozen Egg Yolk, Cage-Free Non-GMO Frozen Sugared Egg Yolk, Cage-Free Organic Non-GMO Frozen Whole Eggs, Free-Range Non-GMO Frozen Salted Egg Yolk, Free-Range Organic Frozen Salted Egg Yolk, Free-Range Organic Frozen Salted Whole Eggs, Free-Range Organic Non-GMO Frozen Salted Egg Yolk, Pasture-Raised Organic Frozen Whole Eggs, Cage-Free Non-GMO Dried Egg Whites, Cage-Free Non-GMO Dried Egg Yolk, Cage-Free Non-GMO Dried Whole Eggs, Cage-Free Organic Dried Whole Egg, Cage-Free Organic Salted Dried Whole Egg, Cage-Free Organic Liquid Whole Egg (Salted 10%), Cage-Free Organic Liquid Egg Yolk (Salted 10%), Cage-Free Liquid Salted Egg Yolk, Cage-Free Liquid Salted Whole Egg, Cage-Free Liquid Sugared Egg Yolk, Free-Range Liquid Egg Whites, Free-Range Brown Eggs, Free-Range Non-GMO Brown Eggs, Free Range Humanely Hatched Brown Eggs, Free-Range Non-GMO Humanely Hatched Brown Eggs, Free-Range Organic Humanely Hatched Brown Eggs, Pasture-Raised Brown Eggs, Pasture-Raised Brown Soy-Free Eggs, Pasture-Raised Non-GMO Brown Eggs, Pasture-Raised Organic Brown Eggs, Pasture-Raised Heirloom Eggs,Pasture-Raised Humanely Hatched Brown Eggs, Pasture-Raised Organic Humanely Hatched Brown Eggs; New Barn Organics Pasture-Raised Hand Gathered Brown Eggs, Pasture-Raised Heritage Breed Multi-Color Eggs; O Organics Cage-Free Organic Brown Eggs; Open Nature: Cage-Free White Eggs, Cage-Free Brown Eggs, Cage-Free 100% Liquid Egg Whites; ShopRite Cage-Free Hard Cooked Peeled Eggs; Simply Nature Cage-Free Organic Brown Eggs; Teggxas Cage-Free Eggs; The Country Hen: Free-Range Eggs, Free-Range Organic Omega Humanely Hatched Eggs; The Farmers Hen Cage-Free Hard Cooked Eggs; Waialua Fresh Cage-Free Eggs; Wild Oats: Free-Range Organic Eggs, Pasture-Raised Organic Eggs, Pasture-Raised Regenerative Organic Certified® Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.hiddenvilla.com"
+      }
+    },
+    {
+      "id": "certified-humane-hillandale-farms-atlantic",
+      "brand": "Hillandale Farms Atlantic",
+      "aliases": [
+        "Hillandale Farms Atlantic",
+        "Heinen's Cagre Free Brown"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Eggs"
+      ],
+      "matchTerms": [
+        "Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Heinen's Cagre Free Brown"
+          ],
+          "terms": [
+            "Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Heinen's Cagre Free Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.hillandalefarms.com/"
+      }
+    },
+    {
+      "id": "certified-humane-hillandale-farms-ohio-llc",
+      "brand": "Hillandale Farms Ohio, LLC",
+      "aliases": [
+        "Hillandale Farms Ohio, LLC",
+        "Loose"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage Free White Eggs",
+        "Nature's Basket Cage Free White Eggs"
+      ],
+      "matchTerms": [
+        "Cage Free White Eggs",
+        "Nature's Basket Cage Free White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Loose"
+          ],
+          "terms": [
+            "Cage Free White Eggs",
+            "Nature's Basket Cage Free White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Loose Cage Free White Eggs, Nature's Basket Cage Free White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.hillandalefarms.com/"
+      }
+    },
+    {
+      "id": "certified-humane-honey-sweetie-acres",
+      "brand": "Honey Sweetie Acres",
+      "aliases": [
+        "Honey Sweetie Acres",
+        "Honey Sweet Acres"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Goat Milk Soaps",
+        "Lotions"
+      ],
+      "matchTerms": [
+        "Goat Milk Soaps",
+        "Lotions"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Honey Sweet Acres"
+          ],
+          "terms": [
+            "Goat Milk Soaps",
+            "Lotions"
+          ]
+        }
+      ],
+      "certifiedProductText": "Honey Sweet Acres: Goat Milk Soaps and Lotions",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.honeysweetieacres.com"
+      }
+    },
+    {
+      "id": "certified-humane-hudson-valley-chicken",
+      "brand": "Hudson Valley Chicken",
+      "aliases": [
+        "Hudson Valley Chicken",
+        "D'Artagnan Green Circle Antibiotic-Free Whole"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Chicken",
+        "Chicken Parts",
+        "D'Artagnan Green Circle Free-Range Antibiotic-Free Whole Chicken"
+      ],
+      "matchTerms": [
+        "Chicken",
+        "Chicken Parts",
+        "D'Artagnan Green Circle Free-Range Antibiotic-Free Whole Chicken"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "D'Artagnan Green Circle Antibiotic-Free Whole"
+          ],
+          "terms": [
+            "Chicken",
+            "Chicken Parts",
+            "D'Artagnan Green Circle Free-Range Antibiotic-Free Whole Chicken"
+          ]
+        }
+      ],
+      "certifiedProductText": "D'Artagnan Green Circle Antibiotic-Free Whole Chicken and Chicken Parts, D'Artagnan Green Circle Free-Range Antibiotic-Free Whole Chicken and Chicken Parts",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://hudsonvalleyfoiegras.com/"
+      }
+    },
+    {
+      "id": "certified-humane-idalou-egg-ranch",
+      "brand": "Idalou Egg Ranch",
+      "aliases": [
+        "Idalou Egg Ranch",
+        "Nest Run"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pasture-Raised",
+        "Free-Range",
+        "Cage-Free Brown Eggs"
+      ],
+      "matchTerms": [
+        "Pasture-Raised",
+        "Free-Range",
+        "Cage-Free Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Nest Run"
+          ],
+          "terms": [
+            "Pasture-Raised",
+            "Free-Range",
+            "Cage-Free Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Nest Run Pasture-Raised, Free-Range & Cage-Free Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-isaac-mishler",
+      "brand": "Isaac Mishler",
+      "aliases": [
+        "Isaac Mishler"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pasture Raised Brown Eggs"
+      ],
+      "matchTerms": [
+        "Pasture Raised Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Isaac Mishler"
+          ],
+          "terms": [
+            "Pasture Raised Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Pasture Raised Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-jackson-mitchell-inc-d-b-a-meyenberg-d-b-a-darey-brands",
+      "brand": "Jackson-Mitchell, Inc. d.b.a Meyenberg / d.b.a. Darey Brands",
+      "aliases": [
+        "Jackson-Mitchell, Inc. d.b.a Meyenberg / d.b.a. Darey Brands",
+        "Meyenberg®",
+        "Meyenberg"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Whole Fat Goat Milk",
+        "Low Fat Goat Milk",
+        "Evaporated Goat Milk",
+        "Whole Dry Goat Milk",
+        "Whole Powdered Goat Milk",
+        "Nonfat Powdered Goat Milk"
+      ],
+      "matchTerms": [
+        "Whole Fat Goat Milk",
+        "Low Fat Goat Milk",
+        "Evaporated Goat Milk",
+        "Whole Dry Goat Milk",
+        "Whole Powdered Goat Milk",
+        "Nonfat Powdered Goat Milk"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Meyenberg®",
+            "Meyenberg"
+          ],
+          "terms": [
+            "Whole Fat Goat Milk",
+            "Low Fat Goat Milk",
+            "Evaporated Goat Milk",
+            "Whole Dry Goat Milk",
+            "Whole Powdered Goat Milk",
+            "Nonfat Powdered Goat Milk"
+          ]
+        }
+      ],
+      "certifiedProductText": "Meyenberg®: Whole Fat Goat Milk, Low Fat Goat Milk, Evaporated Goat Milk, Whole Dry Goat Milk, Whole Powdered Goat Milk, Nonfat Powdered Goat Milk",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.dareybrands.com/usa/en"
+      }
+    },
+    {
+      "id": "certified-humane-jc-organic-farm",
+      "brand": "JC Organic Farm",
+      "aliases": [
+        "JC Organic Farm",
+        "JC"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Organic Farm Free-Range Eggs"
+      ],
+      "matchTerms": [
+        "Organic Farm Free-Range Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "JC"
+          ],
+          "terms": [
+            "Organic Farm Free-Range Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "JC Organic Farm Free-Range Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.jcorganicfarm.com/"
+      }
+    },
+    {
+      "id": "certified-humane-john-f-martin-and-sons",
+      "brand": "John F. Martin & Sons",
+      "aliases": [
+        "John F. Martin & Sons"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Applegate Naturals® Hickory Smoked Natural Sliced Uncured Bacon",
+        "Applegate Naturals® Hickory Smoked Natural Sliced Bacon",
+        "Applegate Naturals® Hickory Smoked No Sugar Uncured Beef Bacon",
+        "Applegate Naturals® Hickory Smoked No Sugar Beef Bacon"
+      ],
+      "matchTerms": [
+        "Applegate Naturals® Hickory Smoked Natural Sliced Uncured Bacon",
+        "Applegate Naturals® Hickory Smoked Natural Sliced Bacon",
+        "Applegate Naturals® Hickory Smoked No Sugar Uncured Beef Bacon",
+        "Applegate Naturals® Hickory Smoked No Sugar Beef Bacon"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "John F. Martin & Sons"
+          ],
+          "terms": [
+            "Applegate Naturals® Hickory Smoked Natural Sliced Uncured Bacon",
+            "Applegate Naturals® Hickory Smoked Natural Sliced Bacon",
+            "Applegate Naturals® Hickory Smoked No Sugar Uncured Beef Bacon",
+            "Applegate Naturals® Hickory Smoked No Sugar Beef Bacon"
+          ]
+        }
+      ],
+      "certifiedProductText": "Applegate Naturals® Hickory Smoked Natural Sliced Uncured Bacon & Applegate Naturals® Hickory Smoked No Sugar Uncured Beef Bacon",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.jfmmeats.com/"
+      }
+    },
+    {
+      "id": "certified-humane-js-west-milling-company",
+      "brand": "JS West Milling Company",
+      "aliases": [
+        "JS West Milling Company",
+        "Raley's"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free Eggs",
+        "Member's Mark Cage Free White Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free Eggs",
+        "Member's Mark Cage Free White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Raley's"
+          ],
+          "terms": [
+            "Cage-Free Eggs",
+            "Member's Mark Cage Free White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Raley's Cage-Free Eggs & Member's Mark Cage Free White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.jswest.com/farming/"
+      }
+    },
+    {
+      "id": "certified-humane-kalmbach-poultry",
+      "brand": "Kalmbach Poultry",
+      "aliases": [
+        "Kalmbach Poultry",
+        "Loose"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free Eggs",
+        "Loose Free Range Eggs",
+        "Loose Seasonally Pasture-Raised Eggs",
+        "Loose Pasture-Raised Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free Eggs",
+        "Loose Free Range Eggs",
+        "Loose Seasonally Pasture-Raised Eggs",
+        "Loose Pasture-Raised Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Loose"
+          ],
+          "terms": [
+            "Cage-Free Eggs",
+            "Loose Free Range Eggs",
+            "Loose Seasonally Pasture-Raised Eggs",
+            "Loose Pasture-Raised Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Loose Cage-Free Eggs, Loose Free Range Eggs, Loose Seasonally Pasture-Raised Eggs, Loose Pasture-Raised Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.kalmbachfeeds.com/about"
+      }
+    },
+    {
+      "id": "certified-humane-karro-food-ltd",
+      "brand": "Karro Food Ltd.",
+      "aliases": [
+        "Karro Food Ltd.",
+        "Fresh"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pork",
+        "Pork Cuts"
+      ],
+      "matchTerms": [
+        "Pork",
+        "Pork Cuts"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Fresh"
+          ],
+          "terms": [
+            "Pork",
+            "Pork Cuts"
+          ]
+        }
+      ],
+      "certifiedProductText": "Fresh Pork and Pork Cuts",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.karro.co.uk/contact-us"
+      }
+    },
+    {
+      "id": "certified-humane-kettle-moraine-egg-ranch-llc",
+      "brand": "Kettle Moraine Egg Ranch, LLC",
+      "aliases": [
+        "Kettle Moraine Egg Ranch, LLC"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free Range White Eggs",
+        "Cage Free White Eggs"
+      ],
+      "matchTerms": [
+        "Free Range White Eggs",
+        "Cage Free White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Kettle Moraine Egg Ranch, LLC"
+          ],
+          "terms": [
+            "Free Range White Eggs",
+            "Cage Free White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Free Range White Eggs & Cage Free White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.kmmfarm.com/"
+      }
+    },
+    {
+      "id": "certified-humane-koch-s-turkey-farm",
+      "brand": "Koch’s Turkey Farm",
+      "aliases": [
+        "Koch’s Turkey Farm",
+        "Koch’s Brand"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Turkeys",
+        "Turkey Parts",
+        "Offal",
+        "& Miller Farms Free-Range Turkey"
+      ],
+      "matchTerms": [
+        "Turkeys",
+        "Turkey Parts",
+        "Offal",
+        "& Miller Farms Free-Range Turkey"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Koch’s Brand"
+          ],
+          "terms": [
+            "Turkeys",
+            "Turkey Parts",
+            "Offal",
+            "& Miller Farms Free-Range Turkey"
+          ]
+        }
+      ],
+      "certifiedProductText": "Koch’s Brand Turkeys, Turkey Parts & Offal, & Miller Farms Free-Range Turkey",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.kochsturkey.com"
+      }
+    },
+    {
+      "id": "certified-humane-kreher-s-farm-fresh-eggs",
+      "brand": "Kreher's Farm Fresh Eggs",
+      "aliases": [
+        "Kreher's Farm Fresh Eggs",
+        "Tops",
+        "Wegmans",
+        "pics",
+        "Kreher Family Farms"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free Range Brown Eggs",
+        "Pasture Raised Brown Eggs",
+        "Free-Range Brown Eggs",
+        "Cage Free Organic Eggs"
+      ],
+      "matchTerms": [
+        "Free Range Brown Eggs",
+        "Pasture Raised Brown Eggs",
+        "Free-Range Brown Eggs",
+        "Cage Free Organic Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Tops"
+          ],
+          "terms": [
+            "Free Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Wegmans"
+          ],
+          "terms": [
+            "Pasture Raised Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "pics"
+          ],
+          "terms": [
+            "Free-Range Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Kreher Family Farms"
+          ],
+          "terms": [
+            "Cage Free Organic Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Tops Free Range Brown Eggs; Wegmans Pasture Raised Brown Eggs; pics Free-Range Brown Eggs; Kreher Family Farms Cage Free Organic Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.krehereggs.com/eggs"
+      }
+    },
+    {
+      "id": "certified-humane-labelle-farms-inc",
+      "brand": "Labelle Farms Inc.",
+      "aliases": [
+        "Labelle Farms Inc.",
+        "Heritage Lane Poultry Co",
+        "Labelle Farms Inc"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Whole Chicken",
+        "Split Chicken Breasts",
+        "Spatchcock Chicken",
+        "Airline Chicken Breasts",
+        "Boneless Skinless Chicken Breasts",
+        "Bone-In Split Chicken Breasts",
+        "Chicken Tenders",
+        "Bone In Chicken Thighs",
+        "Boneless Skinless Chicken Thighs",
+        "Chicken Drumsticks",
+        "Chipped Chicken Wings",
+        "Chicken Hearts",
+        "Chicken Livers",
+        "Chicken Carcass",
+        "& Whole Chicken Legs",
+        "All Natural Whole Young Chicken",
+        "Split Chicken",
+        "Airline Chicken Breast",
+        "Boneless Skinless Breast",
+        "Split Chicken Breast",
+        "Chicken Thigh",
+        "Boneless Skinless Chicken Thigh",
+        "Chicken Drumstick",
+        "Chicken Wing",
+        "Chicken Liver",
+        "& Chicken Leg"
+      ],
+      "matchTerms": [
+        "Whole Chicken",
+        "Split Chicken Breasts",
+        "Spatchcock Chicken",
+        "Airline Chicken Breasts",
+        "Boneless Skinless Chicken Breasts",
+        "Bone-In Split Chicken Breasts",
+        "Chicken Tenders",
+        "Bone In Chicken Thighs",
+        "Boneless Skinless Chicken Thighs",
+        "Chicken Drumsticks",
+        "Chipped Chicken Wings",
+        "Chicken Hearts",
+        "Chicken Livers",
+        "Chicken Carcass",
+        "& Whole Chicken Legs",
+        "All Natural Whole Young Chicken",
+        "Split Chicken",
+        "Airline Chicken Breast",
+        "Boneless Skinless Breast",
+        "Split Chicken Breast",
+        "Chicken Thigh",
+        "Boneless Skinless Chicken Thigh",
+        "Chicken Drumstick",
+        "Chicken Wing",
+        "Chicken Liver",
+        "& Chicken Leg"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Heritage Lane Poultry Co"
+          ],
+          "terms": [
+            "Whole Chicken",
+            "Split Chicken Breasts",
+            "Spatchcock Chicken",
+            "Airline Chicken Breasts",
+            "Boneless Skinless Chicken Breasts",
+            "Bone-In Split Chicken Breasts",
+            "Chicken Tenders",
+            "Bone In Chicken Thighs",
+            "Boneless Skinless Chicken Thighs",
+            "Chicken Drumsticks",
+            "Chipped Chicken Wings",
+            "Chicken Hearts",
+            "Chicken Livers",
+            "Chicken Carcass",
+            "& Whole Chicken Legs"
+          ]
+        },
+        {
+          "brands": [
+            "Labelle Farms Inc"
+          ],
+          "terms": [
+            "All Natural Whole Young Chicken",
+            "Split Chicken",
+            "Spatchcock Chicken",
+            "Airline Chicken Breast",
+            "Boneless Skinless Breast",
+            "Split Chicken Breast",
+            "Chicken Tenders",
+            "Chicken Thigh",
+            "Boneless Skinless Chicken Thigh",
+            "Chicken Drumstick",
+            "Chicken Wing",
+            "Chicken Hearts",
+            "Chicken Liver",
+            "Chicken Carcass",
+            "& Chicken Leg"
+          ]
+        }
+      ],
+      "certifiedProductText": "Heritage Lane Poultry Co: Whole Chicken, Split Chicken Breasts, Spatchcock Chicken, Airline Chicken Breasts, Boneless Skinless Chicken Breasts, Bone-In Split Chicken Breasts, Chicken Tenders, Bone In Chicken Thighs, Boneless Skinless Chicken Thighs, Chicken Drumsticks, Chipped Chicken Wings, Chicken Hearts, Chicken Livers, Chicken Carcass, & Whole Chicken Legs ; ; Labelle Farms Inc: All Natural Whole Young Chicken, Split Chicken, Spatchcock Chicken, Airline Chicken Breast, Boneless Skinless Breast, Split Chicken Breast, Chicken Tenders, Chicken Thigh, Boneless Skinless Chicken Thigh, Chicken Drumstick, Chicken Wing, Chicken Hearts, Chicken Liver, Chicken Carcass, & Chicken Leg",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://labellefarms.com/"
+      }
+    },
+    {
+      "id": "certified-humane-lathem-family-farms-inc",
+      "brand": "Lathem Family Farms Inc.",
+      "aliases": [
+        "Lathem Family Farms Inc.",
+        "Lathem Family Farms",
+        "Kirkland Signature"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cage-Free Organic Brown Eggs",
+        "Organic Cage-Free White",
+        "Brown Eggs"
+      ],
+      "matchTerms": [
+        "Cage-Free Organic Brown Eggs",
+        "Organic Cage-Free White",
+        "Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Lathem Family Farms"
+          ],
+          "terms": [
+            "Cage-Free Organic Brown Eggs"
+          ]
+        },
+        {
+          "brands": [
+            "Kirkland Signature"
+          ],
+          "terms": [
+            "Organic Cage-Free White",
+            "Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Lathem Family Farms: Cage-Free Organic Brown Eggs; Kirkland Signature: Organic Cage-Free White & Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.landrfarmsinc.com"
+      }
+    },
+    {
+      "id": "certified-humane-lehman-eggs-llc",
+      "brand": "Lehman Eggs LLC",
+      "aliases": [
+        "Lehman Eggs LLC",
+        "Nest Run"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Free-Range White Eggs"
+      ],
+      "matchTerms": [
+        "Free-Range White Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Nest Run"
+          ],
+          "terms": [
+            "Free-Range White Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Nest Run Free-Range White Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-leonora-goat-dairy",
+      "brand": "Leonora Goat Dairy",
+      "aliases": [
+        "Leonora Goat Dairy"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Goat milk"
+      ],
+      "matchTerms": [
+        "Goat milk"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Leonora Goat Dairy"
+          ],
+          "terms": [
+            "Goat milk"
+          ]
+        }
+      ],
+      "certifiedProductText": "Goat milk",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-maple-leaf-foods",
+      "brand": "Maple Leaf Foods",
+      "aliases": [
+        "Maple Leaf Foods",
+        "AABF/RWA (Raised Without Antibiotics) Whole"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Chickens",
+        "Chicken Parts for the brands of Maple Leaf Foods",
+        "Loblaws",
+        "Chicken Parts (Unbranded/Bulk)"
+      ],
+      "matchTerms": [
+        "Chickens",
+        "Chicken Parts for the brands of Maple Leaf Foods",
+        "Loblaws",
+        "Chicken Parts (Unbranded/Bulk)"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "AABF/RWA (Raised Without Antibiotics) Whole"
+          ],
+          "terms": [
+            "Chickens",
+            "Chicken Parts for the brands of Maple Leaf Foods",
+            "Loblaws"
+          ]
+        },
+        {
+          "brands": [
+            "AABF/RWA (Raised Without Antibiotics) Whole"
+          ],
+          "terms": [
+            "Chickens",
+            "Chicken Parts (Unbranded/Bulk)"
+          ]
+        }
+      ],
+      "certifiedProductText": "AABF/RWA (Raised Without Antibiotics) Whole Chickens and Chicken Parts for the brands of Maple Leaf Foods & Loblaws ; AABF/RWA (Raised Without Antibiotics) Whole Chickens and Chicken Parts (Unbranded/Bulk)",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.mapleleaffoods.com/"
+      }
+    },
+    {
+      "id": "certified-humane-mb-consultants-ltd-dba-murray-s-chicken",
+      "brand": "MB Consultants, Ltd. DBA Murray’s Chicken",
+      "aliases": [
+        "MB Consultants, Ltd. DBA Murray’s Chicken",
+        "Murray's Whole",
+        "Gobble Boneless Skinless"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Chicken",
+        "Chicken Parts",
+        "Chicken Breast (Skinless",
+        "Skin-on)"
+      ],
+      "matchTerms": [
+        "Chicken",
+        "Chicken Parts",
+        "Chicken Breast (Skinless",
+        "Skin-on)"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Murray's Whole"
+          ],
+          "terms": [
+            "Chicken",
+            "Chicken Parts"
+          ]
+        },
+        {
+          "brands": [
+            "Gobble Boneless Skinless"
+          ],
+          "terms": [
+            "Chicken Breast (Skinless",
+            "Skin-on)"
+          ]
+        }
+      ],
+      "certifiedProductText": "Murray's Whole Chicken and Chicken Parts; Gobble Boneless Skinless Chicken Breast (Skinless, Skin-on)",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "http://www.murrayschicken.com"
+      }
+    },
+    {
+      "id": "certified-humane-mds-farms-inc-phil-mlsna",
+      "brand": "MDS Farms Inc – Phil MLsna",
+      "aliases": [
+        "MDS Farms Inc – Phil MLsna"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pasture-Raised Brown Eggs"
+      ],
+      "matchTerms": [
+        "Pasture-Raised Brown Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "MDS Farms Inc – Phil MLsna"
+          ],
+          "terms": [
+            "Pasture-Raised Brown Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Pasture-Raised Brown Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {}
+    },
+    {
+      "id": "certified-humane-meadowcreek-foods",
+      "brand": "MeadowCreek Foods",
+      "aliases": [
+        "MeadowCreek Foods",
+        "Vital Farms"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Pasture Raised Hard Boiled Eggs",
+        "Vital Farms Pasture Raised Organic Hard Boiled Eggs"
+      ],
+      "matchTerms": [
+        "Pasture Raised Hard Boiled Eggs",
+        "Vital Farms Pasture Raised Organic Hard Boiled Eggs"
+      ],
+      "productRules": [
+        {
+          "brands": [
+            "Vital Farms"
+          ],
+          "terms": [
+            "Pasture Raised Hard Boiled Eggs",
+            "Vital Farms Pasture Raised Organic Hard Boiled Eggs"
+          ]
+        }
+      ],
+      "certifiedProductText": "Vital Farms Pasture Raised Hard Boiled Eggs, Vital Farms Pasture Raised Organic Hard Boiled Eggs",
+      "scopeNote": "Only the products explicitly listed in the Certified Humane directory and carrying its logo are certified; other products from the company may be uncertified.",
+      "sourceUrl": "https://certifiedhumane.org/whos-certified/",
+      "officialProfileUrl": "https://certifiedhumane.org/whos-certified/",
+      "verifiedAt": "2026-08-04",
+      "confidence": 0.86,
+      "companyFacts": {
+        "company_website": "https://www.meadowcreekfoods.com/"
+      }
+    }
+  ]
+}

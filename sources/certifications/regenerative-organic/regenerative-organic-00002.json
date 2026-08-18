@@ -1,0 +1,4373 @@
+{
+  "schemaVersion": 1,
+  "kind": "certification_directory",
+  "capturedAt": "2026-08-05",
+  "source": {
+    "id": "regenerative_organic_product_directory",
+    "certificationName": "Regenerative Organic Certified",
+    "defaultScope": "product",
+    "recordIdPrefix": "regenerative-organic"
+  },
+  "records": [
+    {
+      "id": "regenerative-organic-grandy-organics",
+      "brand": "GF Harvest",
+      "aliases": [
+        "GF Harvest"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Gluten Free Rolled Oats"
+      ],
+      "matchTerms": [
+        "Gluten Free Rolled Oats"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/grandy-organics/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-greener-pastures-chicken",
+      "brand": "Grandy Organics",
+      "aliases": [
+        "Grandy Organics"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Ancient Grain Granola",
+        "Apple Crisp Granola",
+        "Dark Chocolate Sea Salt Granola",
+        "Ginger Hemp Granola",
+        "Gluten Free Classic Granola",
+        "Gluten Free Honey Nut Granola",
+        "Gluten Free Honey Oat Granola",
+        "Honey Peanut Butter Granola",
+        "Peanut Butter Dark Chocolate Granola",
+        "Vanilla Cinnamon Granola"
+      ],
+      "matchTerms": [
+        "Ancient Grain Granola",
+        "Apple Crisp Granola",
+        "Dark Chocolate Sea Salt Granola",
+        "Ginger Hemp Granola",
+        "Gluten Free Classic Granola",
+        "Gluten Free Honey Nut Granola",
+        "Gluten Free Honey Oat Granola",
+        "Honey Peanut Butter Granola",
+        "Peanut Butter Dark Chocolate Granola",
+        "Vanilla Cinnamon Granola"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/greener-pastures-chicken/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.grandyorganics.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-grgich-hills-estate",
+      "brand": "Greener Pastures Chicken",
+      "aliases": [
+        "Greener Pastures Chicken"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Airline Breasts",
+        "Boneless Skin-on Breasts",
+        "Boneless Skin-on Thighs",
+        "Boneless Skinless Chicken Breasts",
+        "Boneless Skinless Thighs",
+        "Chicken Bones",
+        "Chicken Carcass (Shells)",
+        "Chicken Drums",
+        "Chicken Feet",
+        "Chicken Gizzards",
+        "Chicken Hearts",
+        "Chicken Livers",
+        "Chicken Necks",
+        "Chicken Tenders",
+        "Chicken Thighs",
+        "Chicken Trim",
+        "Chicken Trim (Dark Meat)",
+        "Chicken Wing Tips",
+        "Chicken Wings",
+        "Cut Wings",
+        "Deboned Drums",
+        "Ground Chicken",
+        "Ground Chicken (Dark)",
+        "Ground Chicken (Lean)",
+        "Leg Quarters",
+        "Whole Chicken"
+      ],
+      "matchTerms": [
+        "Airline Breasts",
+        "Boneless Skin-on Breasts",
+        "Boneless Skin-on Thighs",
+        "Boneless Skinless Chicken Breasts",
+        "Boneless Skinless Thighs",
+        "Chicken Bones",
+        "Chicken Carcass (Shells)",
+        "Chicken Drums",
+        "Chicken Feet",
+        "Chicken Gizzards",
+        "Chicken Hearts",
+        "Chicken Livers",
+        "Chicken Necks",
+        "Chicken Tenders",
+        "Chicken Thighs",
+        "Chicken Trim",
+        "Chicken Trim (Dark Meat)",
+        "Chicken Wing Tips",
+        "Chicken Wings",
+        "Cut Wings",
+        "Deboned Drums",
+        "Ground Chicken",
+        "Ground Chicken (Dark)",
+        "Ground Chicken (Lean)",
+        "Leg Quarters",
+        "Whole Chicken"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/grgich-hills-estate/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-ground-up",
+      "brand": "Grgich Hills Estate",
+      "aliases": [
+        "Grgich Hills Estate"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "2023 Cabernet Franc",
+        "2023 Cabernet Sauvignon Miljenkos Selection",
+        "2023 Cabernet Sauvignon Morimoto Dream Napa Valley",
+        "2023 Cabernet Sauvignon Napa Valley",
+        "2023 Cabernet Sauvignon Opulence",
+        "2023 Cabernet Sauvignon Yountville Paradise Block",
+        "2023 Chardonnay (Morimoto, Miljenko's Selection, Napa Valley, Opulence, Paris Tasting)",
+        "2023 Chardonnay Napa Valley Paris '76",
+        "2023 Chardonnay Napa Valley Special Selection",
+        "2023 Crljenak Kaštelanski Miljenkos Selection",
+        "2023 Fume Blanc Napa Valley",
+        "2023 Merlot Napa Valley",
+        "2023 Petit Sirah Miljenkos Selection",
+        "2023 Petit Verdot",
+        "2023 Rose Napa Valley",
+        "2023 Sauvignon Blanc Essence",
+        "2023 Sauvignon Blanc Napa Valley",
+        "2023 Zinfandel Napa Valley",
+        "2023 Zinfandel Stara Loza",
+        "2024 Cabernet Sauvignon Morimoto Dream",
+        "2024 Cabernet Sauvignon Napa Valley",
+        "2024 Cabernet Sauvignon Yountville Paradise Block",
+        "2024 Chardonnay Miljenkos Selection",
+        "2024 Chardonnay Morimoto Dream Napa Valley",
+        "2024 Chardonnay Napa Valley",
+        "2024 Chardonnay Napa Valley Paris '76",
+        "2024 Chardonnay Opulence",
+        "2024 Chardonnay Paris Tasting Commemorative",
+        "2024 Fume Blanc Napa Valley",
+        "2024 Merlot Napa Valley",
+        "2024 Miljenko's Selection Cabernet Franc",
+        "2024 Miljenko's Selection Cabernet Sauvignon",
+        "2024 Miljenko's Selection Petit Verdot",
+        "2024 Reisling Miljenko's Selection",
+        "2024 Rose Miljenkos Selection",
+        "2024 Sauvignon Blanc Essence",
+        "2024 Zinfandel Napa Valley",
+        "2024 Zinfandel Napa Valley Stara Loza",
+        "2025 Chardonnay Miljenkos Selection",
+        "2025 Chardonnay Morimoto Dream",
+        "2025 Chardonnay Napa Valley",
+        "2025 Chardonnay Napa Valley Paris '76",
+        "2025 Chardonnay Opulence",
+        "2025 Fume Blanc Napa Valley",
+        "2025 Miljenko's Selection Gewurtztraminer",
+        "2025 Miljenko's Selection Reisling",
+        "2025 Rose Napa Valley",
+        "2025 Sauvignon Blanc Essence",
+        "Olive Oil"
+      ],
+      "matchTerms": [
+        "2023 Cabernet Franc",
+        "2023 Cabernet Sauvignon Miljenkos Selection",
+        "2023 Cabernet Sauvignon Morimoto Dream Napa Valley",
+        "2023 Cabernet Sauvignon Napa Valley",
+        "2023 Cabernet Sauvignon Opulence",
+        "2023 Cabernet Sauvignon Yountville Paradise Block",
+        "2023 Chardonnay (Morimoto, Miljenko's Selection, Napa Valley, Opulence, Paris Tasting)",
+        "2023 Chardonnay Napa Valley Paris '76",
+        "2023 Chardonnay Napa Valley Special Selection",
+        "2023 Crljenak Kaštelanski Miljenkos Selection",
+        "2023 Fume Blanc Napa Valley",
+        "2023 Merlot Napa Valley",
+        "2023 Petit Sirah Miljenkos Selection",
+        "2023 Petit Verdot",
+        "2023 Rose Napa Valley",
+        "2023 Sauvignon Blanc Essence",
+        "2023 Sauvignon Blanc Napa Valley",
+        "2023 Zinfandel Napa Valley",
+        "2023 Zinfandel Stara Loza",
+        "2024 Cabernet Sauvignon Morimoto Dream",
+        "2024 Cabernet Sauvignon Napa Valley",
+        "2024 Cabernet Sauvignon Yountville Paradise Block",
+        "2024 Chardonnay Miljenkos Selection",
+        "2024 Chardonnay Morimoto Dream Napa Valley",
+        "2024 Chardonnay Napa Valley",
+        "2024 Chardonnay Napa Valley Paris '76",
+        "2024 Chardonnay Opulence",
+        "2024 Chardonnay Paris Tasting Commemorative",
+        "2024 Fume Blanc Napa Valley",
+        "2024 Merlot Napa Valley",
+        "2024 Miljenko's Selection Cabernet Franc",
+        "2024 Miljenko's Selection Cabernet Sauvignon",
+        "2024 Miljenko's Selection Petit Verdot",
+        "2024 Reisling Miljenko's Selection",
+        "2024 Rose Miljenkos Selection",
+        "2024 Sauvignon Blanc Essence",
+        "2024 Zinfandel Napa Valley",
+        "2024 Zinfandel Napa Valley Stara Loza",
+        "2025 Chardonnay Miljenkos Selection",
+        "2025 Chardonnay Morimoto Dream",
+        "2025 Chardonnay Napa Valley",
+        "2025 Chardonnay Napa Valley Paris '76",
+        "2025 Chardonnay Opulence",
+        "2025 Fume Blanc Napa Valley",
+        "2025 Miljenko's Selection Gewurtztraminer",
+        "2025 Miljenko's Selection Reisling",
+        "2025 Rose Napa Valley",
+        "2025 Sauvignon Blanc Essence",
+        "Olive Oil"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/ground-up/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.grgich.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-groundwork-coffee",
+      "brand": "Ground Up",
+      "aliases": [
+        "Ground Up"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Malt Powder"
+      ],
+      "matchTerms": [
+        "Malt Powder"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/groundwork-coffee/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.groundupgrain.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-grower-direct-nut-co",
+      "brand": "Groundwork Coffee",
+      "aliases": [
+        "Groundwork Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cold Brew Unsweetened Coffee",
+        "Colombia",
+        "Good Vibrations",
+        "Grow Beautiful",
+        "Guatemala",
+        "Honduras",
+        "Nicaragua",
+        "Peru",
+        "Round Midnight",
+        "Wild Bloom"
+      ],
+      "matchTerms": [
+        "Cold Brew Unsweetened Coffee",
+        "Colombia",
+        "Good Vibrations",
+        "Grow Beautiful",
+        "Guatemala",
+        "Honduras",
+        "Nicaragua",
+        "Peru",
+        "Round Midnight",
+        "Wild Bloom"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/grower-direct-nut-co/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.groundworkcoffee.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-gundlach-bundschu-winery",
+      "brand": "Grower Direct Nut Co.",
+      "aliases": [
+        "Grower Direct Nut Co."
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Walnuts"
+      ],
+      "matchTerms": [
+        "Walnuts"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/gundlach-bundschu-winery/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.growerdirectnut.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-hm",
+      "brand": "Gundlach Bundschu Winery",
+      "aliases": [
+        "Gundlach Bundschu Winery"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "2023 Cabernet Franc",
+        "2023 Chardonnay Heritage",
+        "2023 Chardonnay Sonoma Coast",
+        "2023 Estate Zinfandel",
+        "2023 Gewurztraminer",
+        "2023 Heritage Pinot Noir",
+        "2023 Pinot Noir Laurel & Bay (Echo Echo)",
+        "2023 Pinot Noir Sonoma Coast",
+        "2023 Rancho Agua Caliente Zinfandel",
+        "2023 Rhinefarm Rose of Pinot Noir",
+        "2023 Tempranillo",
+        "2023 Tempranillo Rose",
+        "2024 Cabernet Franc",
+        "2024 Dry Gewurtzraminer",
+        "2024 Estate Zinfandel",
+        "2024 Gundlach Bundschu Sonoma Coast Chardonnay",
+        "2024 Gundlach Bundschu Sonoma Coast Pinot Noir",
+        "2024 Heritage Chardonnay",
+        "2024 Heritage Pinot Noir",
+        "2024 Rancho Agua Caliente Zinfandel",
+        "2024 Rhinefarm Rose of Pinot Noir",
+        "2024 Tempranillo",
+        "2024 Tempranillo Rose",
+        "2025 Dry Gewurztraminer",
+        "2025 Rhinefarm Rose of Pinot Noir",
+        "2025 Tempranillo Rose",
+        "Gundlach Bundschu 2025 Chardonnay",
+        "Gundlach Bundschu 2025 Pinot Noir"
+      ],
+      "matchTerms": [
+        "2023 Cabernet Franc",
+        "2023 Chardonnay Heritage",
+        "2023 Chardonnay Sonoma Coast",
+        "2023 Estate Zinfandel",
+        "2023 Gewurztraminer",
+        "2023 Heritage Pinot Noir",
+        "2023 Pinot Noir Laurel & Bay (Echo Echo)",
+        "2023 Pinot Noir Sonoma Coast",
+        "2023 Rancho Agua Caliente Zinfandel",
+        "2023 Rhinefarm Rose of Pinot Noir",
+        "2023 Tempranillo",
+        "2023 Tempranillo Rose",
+        "2024 Cabernet Franc",
+        "2024 Dry Gewurtzraminer",
+        "2024 Estate Zinfandel",
+        "2024 Gundlach Bundschu Sonoma Coast Chardonnay",
+        "2024 Gundlach Bundschu Sonoma Coast Pinot Noir",
+        "2024 Heritage Chardonnay",
+        "2024 Heritage Pinot Noir",
+        "2024 Rancho Agua Caliente Zinfandel",
+        "2024 Rhinefarm Rose of Pinot Noir",
+        "2024 Tempranillo",
+        "2024 Tempranillo Rose",
+        "2025 Dry Gewurztraminer",
+        "2025 Rhinefarm Rose of Pinot Noir",
+        "2025 Tempranillo Rose",
+        "Gundlach Bundschu 2025 Chardonnay",
+        "Gundlach Bundschu 2025 Pinot Noir"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/hm/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.gunbun.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-hm-kids",
+      "brand": "H&M",
+      "aliases": [
+        "H&M"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Ragnar RIB LS, Women's Basic"
+      ],
+      "matchTerms": [
+        "Ragnar RIB LS, Women's Basic"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/hm-kids/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://hmgroup.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-habitat-aove",
+      "brand": "H&M Kids",
+      "aliases": [
+        "H&M Kids"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Algot 2pcs set",
+        "Algot LS body pointelle rib 3pack",
+        "Algot Mixpack 6pcs set rib",
+        "Grow Rib Jumpsuit",
+        "LS PJ NB W feet 3p"
+      ],
+      "matchTerms": [
+        "Algot 2pcs set",
+        "Algot LS body pointelle rib 3pack",
+        "Algot Mixpack 6pcs set rib",
+        "Grow Rib Jumpsuit",
+        "LS PJ NB W feet 3p"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/habitat-aove/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://hmgroup.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-halter-ranch",
+      "brand": "Habitat AOVE",
+      "aliases": [
+        "Habitat AOVE"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Extra Virgin Olive Oil CAN 3000ml",
+        "Extra Virgin Olive Oil CAN 500ml",
+        "Extra Virgin Olive Oil Cristal bottle 500 ml"
+      ],
+      "matchTerms": [
+        "Extra Virgin Olive Oil CAN 3000ml",
+        "Extra Virgin Olive Oil CAN 500ml",
+        "Extra Virgin Olive Oil Cristal bottle 500 ml"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/halter-ranch/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-harmless-harvest",
+      "brand": "Halter Ranch",
+      "aliases": [
+        "Halter Ranch"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "2024 Grenache Blanc",
+        "2024 Viognier",
+        "2025 Grenache",
+        "2025 Picpoul Blanc",
+        "2025 Rosé",
+        "2025 Sauvignon Blanc"
+      ],
+      "matchTerms": [
+        "2024 Grenache Blanc",
+        "2024 Viognier",
+        "2025 Grenache",
+        "2025 Picpoul Blanc",
+        "2025 Rosé",
+        "2025 Sauvignon Blanc"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/harmless-harvest/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://halterranch.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-healthy-food-ingredients",
+      "brand": "Harmless Harvest",
+      "aliases": [
+        "Harmless Harvest"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Chocolate Peppermint Smoothie",
+        "CocoNog Smoothie",
+        "Coconut Smoothie",
+        "Coconut Smoothie-Pumpkin Spice",
+        "Coconut Water",
+        "Coconut Water with Aloe",
+        "Coconut Water with Pulp",
+        "Sparkling Coconut Water"
+      ],
+      "matchTerms": [
+        "Chocolate Peppermint Smoothie",
+        "CocoNog Smoothie",
+        "Coconut Smoothie",
+        "Coconut Smoothie-Pumpkin Spice",
+        "Coconut Water",
+        "Coconut Water with Aloe",
+        "Coconut Water with Pulp",
+        "Sparkling Coconut Water"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/healthy-food-ingredients/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.harmlessharvest.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-healthy-oilseeds-llc",
+      "brand": "Healthy Food Ingredients",
+      "aliases": [
+        "Healthy Food Ingredients"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "All Purpose Flour",
+        "Bread Flour",
+        "Durum Flour (Pasta Flour)"
+      ],
+      "matchTerms": [
+        "All Purpose Flour",
+        "Bread Flour",
+        "Durum Flour (Pasta Flour)"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/healthy-oilseeds-llc/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-heirloom-coffee-roasters",
+      "brand": "Healthy Oilseeds LLC",
+      "aliases": [
+        "Healthy Oilseeds LLC"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Flaxseed",
+        "Flaxseed Cake",
+        "Flaxseed Oil",
+        "Hempseed",
+        "Hempseed Cake",
+        "Hempseed Oil",
+        "Hempseed Protein Powder",
+        "Milled Flaxseed"
+      ],
+      "matchTerms": [
+        "Flaxseed",
+        "Flaxseed Cake",
+        "Flaxseed Oil",
+        "Hempseed",
+        "Hempseed Cake",
+        "Hempseed Oil",
+        "Hempseed Protein Powder",
+        "Milled Flaxseed"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/heirloom-coffee-roasters/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.healthyoilseeds.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-herb-artizan",
+      "brand": "Heirloom Coffee Roasters",
+      "aliases": [
+        "Heirloom Coffee Roasters"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Bedrock Blend",
+        "Colombia Planadas",
+        "Day Lark Blend",
+        "Fire Poppy Blend",
+        "Goldenrod Blend",
+        "Guatemala Cielo Alto",
+        "Honduras De La Paz",
+        "Nicaragua Cooperativa Sacacli",
+        "Pacayal",
+        "Sugar Phoenix Blend"
+      ],
+      "matchTerms": [
+        "Bedrock Blend",
+        "Colombia Planadas",
+        "Day Lark Blend",
+        "Fire Poppy Blend",
+        "Goldenrod Blend",
+        "Guatemala Cielo Alto",
+        "Honduras De La Paz",
+        "Nicaragua Cooperativa Sacacli",
+        "Pacayal",
+        "Sugar Phoenix Blend"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/herb-artizan/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://heirloomcoffeeroasters.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-herb-pharm",
+      "brand": "Herb Artizan",
+      "aliases": [
+        "Herb Artizan"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Ashwagandha Powder/ TBC/ Coarse cut",
+        "Chamomile Powder/ TBC/ Coarse cut",
+        "Fenugreek powder/ TBC/ Coarse cut",
+        "Ginger/ TBC/ Coarse cut",
+        "Holy basil powder/ TBC/ Coarse cut/ Extract",
+        "Lemongrass/ Powder/ TBC/ Coarse cut",
+        "Moringa powder/ TBC/ Coarse cut",
+        "Peppermint/ TBC/ Coarse cut",
+        "Rose/ TBC/ Coarse cut",
+        "Stevia powder/ TBC/ Coarse cut",
+        "Turmeric Powder/ TBC/ Coarse cut"
+      ],
+      "matchTerms": [
+        "Ashwagandha Powder/ TBC/ Coarse cut",
+        "Chamomile Powder/ TBC/ Coarse cut",
+        "Fenugreek powder/ TBC/ Coarse cut",
+        "Ginger/ TBC/ Coarse cut",
+        "Holy basil powder/ TBC/ Coarse cut/ Extract",
+        "Lemongrass/ Powder/ TBC/ Coarse cut",
+        "Moringa powder/ TBC/ Coarse cut",
+        "Peppermint/ TBC/ Coarse cut",
+        "Rose/ TBC/ Coarse cut",
+        "Stevia powder/ TBC/ Coarse cut",
+        "Turmeric Powder/ TBC/ Coarse cut"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/herb-pharm/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-hessnatur",
+      "brand": "Herb Pharm",
+      "aliases": [
+        "Herb Pharm"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Artichoke Liquid Extract Herbal Supplement",
+        "Chamomile Liquid Extract Herbal Supplement",
+        "Cleavers Liquid Extract Herbal Supplement",
+        "Corn Silk Liquid Extract Herbal Supplement",
+        "Echinacea Liquid Extract Herbal Supplement",
+        "Lavender Liquid Extract Herbal Supplement",
+        "Rosemary Liquid Extract Herbal Supplement",
+        "Spilanthes Liquid Extract Herbal Supplement",
+        "Wormwood Liquid Extract Herbal Supplement"
+      ],
+      "matchTerms": [
+        "Artichoke Liquid Extract Herbal Supplement",
+        "Chamomile Liquid Extract Herbal Supplement",
+        "Cleavers Liquid Extract Herbal Supplement",
+        "Corn Silk Liquid Extract Herbal Supplement",
+        "Echinacea Liquid Extract Herbal Supplement",
+        "Lavender Liquid Extract Herbal Supplement",
+        "Rosemary Liquid Extract Herbal Supplement",
+        "Spilanthes Liquid Extract Herbal Supplement",
+        "Wormwood Liquid Extract Herbal Supplement"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/hessnatur/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.herb-pharm.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-hewitt-foods",
+      "brand": "hessnatur",
+      "aliases": [
+        "hessnatur"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Men's T-Shirt",
+        "Women's T-Shirt",
+        "Women's T-Shirt V-neck"
+      ],
+      "matchTerms": [
+        "Men's T-Shirt",
+        "Women's T-Shirt",
+        "Women's T-Shirt V-neck"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/hewitt-foods/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.hessnatur.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-hibernia-misiones-s-a",
+      "brand": "Hewitt Foods",
+      "aliases": [
+        "Hewitt Foods"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Beef Cuts",
+        "Beef Offal",
+        "Beef Primals",
+        "Beef Trim",
+        "Lamb Cuts",
+        "Lamb Offal",
+        "Lamb Primals",
+        "Lamb Trim"
+      ],
+      "matchTerms": [
+        "Beef Cuts",
+        "Beef Offal",
+        "Beef Primals",
+        "Beef Trim",
+        "Lamb Cuts",
+        "Lamb Offal",
+        "Lamb Primals",
+        "Lamb Trim"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/hibernia-misiones-s-a/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.hewittfoods.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-homegrown-organic-farms",
+      "brand": "Hibernia Misiones S.A.",
+      "aliases": [
+        "Hibernia Misiones S.A."
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Sugar"
+      ],
+      "matchTerms": [
+        "Sugar"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/homegrown-organic-farms/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-hoptonic",
+      "brand": "Homegrown Organic Farms",
+      "aliases": [
+        "Homegrown Organic Farms"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Apricots",
+        "Blueberries",
+        "Nectarines",
+        "Peaches",
+        "Persimons",
+        "Plums",
+        "Pluots"
+      ],
+      "matchTerms": [
+        "Apricots",
+        "Blueberries",
+        "Nectarines",
+        "Peaches",
+        "Persimons",
+        "Plums",
+        "Pluots"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/hoptonic/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.hgofarms.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-immortelle",
+      "brand": "Hoptonic",
+      "aliases": [
+        "Hoptonic"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Sparkling Chamomile with Lavender Tea",
+        "Sparkling Citrus Jasmine Tea",
+        "Sparkling Earl Grey Black Tea",
+        "Sparkling Jasmine Green Tea",
+        "Sparkling Mint Lavander Tea",
+        "Sparkling White Orchid Tea",
+        "Sparkling White Peach"
+      ],
+      "matchTerms": [
+        "Sparkling Chamomile with Lavender Tea",
+        "Sparkling Citrus Jasmine Tea",
+        "Sparkling Earl Grey Black Tea",
+        "Sparkling Jasmine Green Tea",
+        "Sparkling Mint Lavander Tea",
+        "Sparkling White Orchid Tea",
+        "Sparkling White Peach"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/immortelle/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.hoptonictea.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-independence-coffee-co",
+      "brand": "Immortelle",
+      "aliases": [
+        "Immortelle"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Ashwagandha Dry roots",
+        "Ashwagandha TBC",
+        "Asparagus (Dried-Whole)",
+        "Basmati Paddy-PB1",
+        "Basmati Paddy-Pusa 1121",
+        "Basmati Paddy-Type 3",
+        "Basmati Rice- PB1",
+        "Basmati Rice- Pusa 1121",
+        "Basmati Rice- Type 3",
+        "Black Gram",
+        "Brown Rice",
+        "Brown Rice Paddy",
+        "Chamomile",
+        "Chamomile Dry Flower",
+        "Chamomile Oil",
+        "Chamomile Powder",
+        "Chamomile TBC",
+        "Chamomile Tea /Tulsi Chamomile Tea",
+        "chana Dal / Chana Dal (Gram Split)",
+        "Chia Seed",
+        "Coriander Powder",
+        "Coriander Seed",
+        "Corn Flour",
+        "Cornflower Petals Dry",
+        "Cornflower TBC",
+        "Davana/Artemesia pellens Oil",
+        "Dementholised Oil -DMO",
+        "Fennel seed oil",
+        "Fennel/Saunf",
+        "Ginger TBC",
+        "Ginger Tea",
+        "Ginger whole Dried",
+        "Gram/Chana",
+        "Green Gram Whole/Moong Sabut",
+        "Green Tea",
+        "Hibiscus tea /Rose Hibiscus Tulsi Tea",
+        "Indian basil",
+        "Indian Basil/Ocimum Basillicum Crude Oil",
+        "Indian Basil/Ocimum Basillicum Dry Leaves",
+        "Krishna Tulsi Crude Oil",
+        "Krishna Tulsi Dry Leaves",
+        "Krishna Tulsi Powder",
+        "Krishna Tulsi Seed",
+        "Krishna Tulsi TBC",
+        "Lemon Tea / Lemon Mint Herbal Tea",
+        "Lemon/Vana Tulsi Seed",
+        "Lemon/Vana Tulsi TBC",
+        "Lemon/VanaTulsi Dry Leaves",
+        "Lemongrass Dry",
+        "Lemongrass Oil",
+        "Linseed/Alsi",
+        "Maize",
+        "Masala Tea with Spices / Tulsi Masala Tea",
+        "Mentha Arvensis Powder",
+        "Mentha Arvensis TBC",
+        "Mentha Arvensis Crude Oil",
+        "Mentha Arvensis Distilled Oil",
+        "Mentha Arvensis Dry Leaves",
+        "Mentha Citrata Crude Oil",
+        "Mentha Piperita Crude Oil",
+        "Mentha Piperita Distilled Oil",
+        "Mentha Piperita Dry Leaves",
+        "Mentha Piperita Powder",
+        "Mentha Piperita TBC",
+        "Menthol Crystal",
+        "Menthol Flakes",
+        "Mint Tea/ Mingle Mint Herbal Tea",
+        "Mix Dal / Panchratan Dal or Panchmel Dal",
+        "Moong Dal-Split with shell/ Green gram split",
+        "Multigrain Flour",
+        "Mustard",
+        "Mustard Oil",
+        "Mustard- Oil Cake",
+        "Non Basmati Paddy-Sarbati/Paddy-Sarbati",
+        "Non Basmati Rice- Sarbati",
+        "Paddy traditional basmati",
+        "Paddy-Sona Masuri",
+        "Panch Tulsi Herbal Tea",
+        "Peanut/Groundnut",
+        "Peppermint Oil (Mentha Piperita Oil)",
+        "Rama Tulsi Dry Leaves",
+        "Rama Tulsi Powder",
+        "Rama Tulsi Seed",
+        "Rama Tulsi TBC",
+        "Red Kidney beans/Rajma",
+        "Red Lentil",
+        "Rice Flour",
+        "Rice traditional basmati",
+        "Rice-Sona Masuri",
+        "Sorghum",
+        "Sorghum flour",
+        "Spearmint Crude Oil",
+        "Spearmint Dry Leaves",
+        "Spearmint Powder",
+        "Spearmint TBC",
+        "Split Lentil",
+        "Turmeric Powder",
+        "Turmeric oil",
+        "Turmeric TBC",
+        "Urad Dal Black Split / Urad Dal Split Black"
+      ],
+      "matchTerms": [
+        "Ashwagandha Dry roots",
+        "Ashwagandha TBC",
+        "Asparagus (Dried-Whole)",
+        "Basmati Paddy-PB1",
+        "Basmati Paddy-Pusa 1121",
+        "Basmati Paddy-Type 3",
+        "Basmati Rice- PB1",
+        "Basmati Rice- Pusa 1121",
+        "Basmati Rice- Type 3",
+        "Black Gram",
+        "Brown Rice",
+        "Brown Rice Paddy",
+        "Chamomile",
+        "Chamomile Dry Flower",
+        "Chamomile Oil",
+        "Chamomile Powder",
+        "Chamomile TBC",
+        "Chamomile Tea /Tulsi Chamomile Tea",
+        "chana Dal / Chana Dal (Gram Split)",
+        "Chia Seed",
+        "Coriander Powder",
+        "Coriander Seed",
+        "Corn Flour",
+        "Cornflower Petals Dry",
+        "Cornflower TBC",
+        "Davana/Artemesia pellens Oil",
+        "Dementholised Oil -DMO",
+        "Fennel seed oil",
+        "Fennel/Saunf",
+        "Ginger TBC",
+        "Ginger Tea",
+        "Ginger whole Dried",
+        "Gram/Chana",
+        "Green Gram Whole/Moong Sabut",
+        "Green Tea",
+        "Hibiscus tea /Rose Hibiscus Tulsi Tea",
+        "Indian basil",
+        "Indian Basil/Ocimum Basillicum Crude Oil",
+        "Indian Basil/Ocimum Basillicum Dry Leaves",
+        "Krishna Tulsi Crude Oil",
+        "Krishna Tulsi Dry Leaves",
+        "Krishna Tulsi Powder",
+        "Krishna Tulsi Seed",
+        "Krishna Tulsi TBC",
+        "Lemon Tea / Lemon Mint Herbal Tea",
+        "Lemon/Vana Tulsi Seed",
+        "Lemon/Vana Tulsi TBC",
+        "Lemon/VanaTulsi Dry Leaves",
+        "Lemongrass Dry",
+        "Lemongrass Oil",
+        "Linseed/Alsi",
+        "Maize",
+        "Masala Tea with Spices / Tulsi Masala Tea",
+        "Mentha Arvensis Powder",
+        "Mentha Arvensis TBC",
+        "Mentha Arvensis Crude Oil",
+        "Mentha Arvensis Distilled Oil",
+        "Mentha Arvensis Dry Leaves",
+        "Mentha Citrata Crude Oil",
+        "Mentha Piperita Crude Oil",
+        "Mentha Piperita Distilled Oil",
+        "Mentha Piperita Dry Leaves",
+        "Mentha Piperita Powder",
+        "Mentha Piperita TBC",
+        "Menthol Crystal",
+        "Menthol Flakes",
+        "Mint Tea/ Mingle Mint Herbal Tea",
+        "Mix Dal / Panchratan Dal or Panchmel Dal",
+        "Moong Dal-Split with shell/ Green gram split",
+        "Multigrain Flour",
+        "Mustard",
+        "Mustard Oil",
+        "Mustard- Oil Cake",
+        "Non Basmati Paddy-Sarbati/Paddy-Sarbati",
+        "Non Basmati Rice- Sarbati",
+        "Paddy traditional basmati",
+        "Paddy-Sona Masuri",
+        "Panch Tulsi Herbal Tea",
+        "Peanut/Groundnut",
+        "Peppermint Oil (Mentha Piperita Oil)",
+        "Rama Tulsi Dry Leaves",
+        "Rama Tulsi Powder",
+        "Rama Tulsi Seed",
+        "Rama Tulsi TBC",
+        "Red Kidney beans/Rajma",
+        "Red Lentil",
+        "Rice Flour",
+        "Rice traditional basmati",
+        "Rice-Sona Masuri",
+        "Sorghum",
+        "Sorghum flour",
+        "Spearmint Crude Oil",
+        "Spearmint Dry Leaves",
+        "Spearmint Powder",
+        "Spearmint TBC",
+        "Split Lentil",
+        "Turmeric Powder",
+        "Turmeric oil",
+        "Turmeric TBC",
+        "Urad Dal Black Split / Urad Dal Split Black"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/independence-coffee-co/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.creationbiotech.co.in"
+      }
+    },
+    {
+      "id": "regenerative-organic-inkwell-wines-vineyard-and-inkwell-wines",
+      "brand": "Independence Coffee Co.",
+      "aliases": [
+        "Independence Coffee Co."
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Nicaragua (Dark Roast) Whole Bean"
+      ],
+      "matchTerms": [
+        "Nicaragua (Dark Roast) Whole Bean"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/inkwell-wines-vineyard-and-inkwell-wines/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://independenceoffee.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-international-harvest",
+      "brand": "Inkwell Wines Vineyard and Inkwell Wines",
+      "aliases": [
+        "Inkwell Wines Vineyard and Inkwell Wines"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "2024 Black and Blue Fortified Zinfandel",
+        "2024 Blonde on Blonde Viognier",
+        "2024 Bush Doctor Zinfandel",
+        "2024 Dark Star Fortified Zinfandel",
+        "2024 Deeper Well Shiraz",
+        "2024 High Violet No Added Sulphites Grenache / Mataro",
+        "2024 Infidels Primitivo",
+        "2024 Natural Law No Added Sulphites Shiraz",
+        "2024 One Love Cabernet Sauvignon / Shiraz",
+        "2024 Perfect Day Shiraz",
+        "2024 Piece of My Heart Grenache",
+        "2024 Pink Cashmere Mataro Rose",
+        "2024 Pressure Drop Cabernet Sauvignon",
+        "2024 Road to Joy Shiraz / Primitivo",
+        "2024 Sweet Jane Fortified Viognier",
+        "2024 Sweet Thing Fortified Viognier",
+        "2024 Tangerine Viognier",
+        "2024 Yellow Grillo"
+      ],
+      "matchTerms": [
+        "2024 Black and Blue Fortified Zinfandel",
+        "2024 Blonde on Blonde Viognier",
+        "2024 Bush Doctor Zinfandel",
+        "2024 Dark Star Fortified Zinfandel",
+        "2024 Deeper Well Shiraz",
+        "2024 High Violet No Added Sulphites Grenache / Mataro",
+        "2024 Infidels Primitivo",
+        "2024 Natural Law No Added Sulphites Shiraz",
+        "2024 One Love Cabernet Sauvignon / Shiraz",
+        "2024 Perfect Day Shiraz",
+        "2024 Piece of My Heart Grenache",
+        "2024 Pink Cashmere Mataro Rose",
+        "2024 Pressure Drop Cabernet Sauvignon",
+        "2024 Road to Joy Shiraz / Primitivo",
+        "2024 Sweet Jane Fortified Viognier",
+        "2024 Sweet Thing Fortified Viognier",
+        "2024 Tangerine Viognier",
+        "2024 Yellow Grillo"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/international-harvest/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.inkwellwines.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-jims-organic-coffee",
+      "brand": "International Harvest",
+      "aliases": [
+        "International Harvest"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Coconut Roasted Sweetened Chips",
+        "Coconut Shredded",
+        "Coconut Smile",
+        "Dried Banana",
+        "Dried Mango",
+        "Dried Papaya",
+        "Raw Cashews"
+      ],
+      "matchTerms": [
+        "Coconut Roasted Sweetened Chips",
+        "Coconut Shredded",
+        "Coconut Smile",
+        "Dried Banana",
+        "Dried Mango",
+        "Dried Papaya",
+        "Raw Cashews"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/jims-organic-coffee/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://internationalharvest.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-joint-agri-products-ceylon-pvtltd",
+      "brand": "Jim’s Organic Coffee",
+      "aliases": [
+        "Jim’s Organic Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Roasted Coffee"
+      ],
+      "matchTerms": [
+        "Roasted Coffee"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/joint-agri-products-ceylon-pvtltd/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-jonive-wine",
+      "brand": "Joint Agri Products Ceylon (Pvt)Ltd",
+      "aliases": [
+        "Joint Agri Products Ceylon (Pvt)Ltd"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Black Pepper",
+        "Black Pepper Coarse",
+        "Black Pepper Fine Cut",
+        "Black Pepper Granulated",
+        "Black Pepper Powder",
+        "Black Pepper TBC",
+        "Cardamom",
+        "Cardamom Coarse Cut",
+        "Cardamom Fine Cut",
+        "Cardamom powder",
+        "Cardamom Seed",
+        "Cardamom Seed Powder",
+        "Cardamom TBC",
+        "Cinnamon",
+        "Cinnamon Bark Oil",
+        "Cinnamon C/S",
+        "Cinnamon Chips",
+        "Cinnamon Coarse Cut",
+        "Cinnamon Fine Cut",
+        "Cinnamon Powder",
+        "Cinnamon Quilling",
+        "Cinnamon Sticks Quills",
+        "Cinnamon TBC",
+        "Clove",
+        "Clove Coarse Cut",
+        "Clove Fine Cut",
+        "Clove Powder",
+        "Clove TBC",
+        "Curry Leaf Powder",
+        "Curry Leaves",
+        "Curry Leaves Coarse Cut",
+        "Curry Leaves Fine Cut",
+        "Curry Leaves TBC",
+        "Dehydrated Green Pepper",
+        "Ginger",
+        "Ginger Coarse Cut",
+        "Ginger Fine Cut",
+        "Ginger Powder",
+        "Ginger Slices",
+        "Ginger TBC",
+        "Lemongrass C/S",
+        "Lemongrass Coarse Cut",
+        "Lemongrass Fine Cut",
+        "Lemongrass Powder",
+        "Lemongrass TBC",
+        "Mace",
+        "Mace Coarse Cut",
+        "Mace Fine Cut",
+        "Mace Powder",
+        "Mace TBC",
+        "Mix Pepper",
+        "Moringa Coarse Cut",
+        "Moringa Fine Cut",
+        "Moringa Leaf Powder",
+        "Moringa Leaves",
+        "Moringa TBC",
+        "Nutmeg",
+        "Nutmeg Broken",
+        "Nutmeg C/S",
+        "Nutmeg Coarse Cut",
+        "Nutmeg Fine Cut",
+        "Nutmeg Oil",
+        "Nutmeg Powder (with shell)",
+        "Nutmeg Powder (without shell)",
+        "Nutmeg Shell",
+        "Nutmeg TBC",
+        "Nutmeg Without Shell",
+        "Spice Blend",
+        "Turmeric",
+        "Turmeric Coarse Cut",
+        "Turmeric Fine Cut",
+        "Turmeric Powder",
+        "Turmeric TBC",
+        "Vanilla",
+        "Vanilla Coarse Cut",
+        "Vanilla Fine Cut",
+        "Vanilla Powder",
+        "Vanilla TBC",
+        "White Pepper",
+        "White Pepper Powder",
+        "White Pepper TBC"
+      ],
+      "matchTerms": [
+        "Black Pepper",
+        "Black Pepper Coarse",
+        "Black Pepper Fine Cut",
+        "Black Pepper Granulated",
+        "Black Pepper Powder",
+        "Black Pepper TBC",
+        "Cardamom",
+        "Cardamom Coarse Cut",
+        "Cardamom Fine Cut",
+        "Cardamom powder",
+        "Cardamom Seed",
+        "Cardamom Seed Powder",
+        "Cardamom TBC",
+        "Cinnamon",
+        "Cinnamon Bark Oil",
+        "Cinnamon C/S",
+        "Cinnamon Chips",
+        "Cinnamon Coarse Cut",
+        "Cinnamon Fine Cut",
+        "Cinnamon Powder",
+        "Cinnamon Quilling",
+        "Cinnamon Sticks Quills",
+        "Cinnamon TBC",
+        "Clove",
+        "Clove Coarse Cut",
+        "Clove Fine Cut",
+        "Clove Powder",
+        "Clove TBC",
+        "Curry Leaf Powder",
+        "Curry Leaves",
+        "Curry Leaves Coarse Cut",
+        "Curry Leaves Fine Cut",
+        "Curry Leaves TBC",
+        "Dehydrated Green Pepper",
+        "Ginger",
+        "Ginger Coarse Cut",
+        "Ginger Fine Cut",
+        "Ginger Powder",
+        "Ginger Slices",
+        "Ginger TBC",
+        "Lemongrass C/S",
+        "Lemongrass Coarse Cut",
+        "Lemongrass Fine Cut",
+        "Lemongrass Powder",
+        "Lemongrass TBC",
+        "Mace",
+        "Mace Coarse Cut",
+        "Mace Fine Cut",
+        "Mace Powder",
+        "Mace TBC",
+        "Mix Pepper",
+        "Moringa Coarse Cut",
+        "Moringa Fine Cut",
+        "Moringa Leaf Powder",
+        "Moringa Leaves",
+        "Moringa TBC",
+        "Nutmeg",
+        "Nutmeg Broken",
+        "Nutmeg C/S",
+        "Nutmeg Coarse Cut",
+        "Nutmeg Fine Cut",
+        "Nutmeg Oil",
+        "Nutmeg Powder (with shell)",
+        "Nutmeg Powder (without shell)",
+        "Nutmeg Shell",
+        "Nutmeg TBC",
+        "Nutmeg Without Shell",
+        "Spice Blend",
+        "Turmeric",
+        "Turmeric Coarse Cut",
+        "Turmeric Fine Cut",
+        "Turmeric Powder",
+        "Turmeric TBC",
+        "Vanilla",
+        "Vanilla Coarse Cut",
+        "Vanilla Fine Cut",
+        "Vanilla Powder",
+        "Vanilla TBC",
+        "White Pepper",
+        "White Pepper Powder",
+        "White Pepper TBC"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/jonive-wine/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.japc.lk/"
+      }
+    },
+    {
+      "id": "regenerative-organic-jovial",
+      "brand": "Jonive Wine",
+      "aliases": [
+        "Jonive Wine"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Wine"
+      ],
+      "matchTerms": [
+        "Wine"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/jovial/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-kul-chocolate",
+      "brand": "Jovial",
+      "aliases": [
+        "Jovial"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Brown Rice Bucatini",
+        "Brown Rice Capellini",
+        "Brown Rice Caserecce",
+        "Brown Rice Elbows",
+        "Brown Rice Farfalle",
+        "Brown Rice Fettuccine",
+        "Brown Rice Fusilli",
+        "Brown Rice Lasagna",
+        "Brown Rice Malfada",
+        "Brown Rice Manicotti",
+        "Brown Rice Orzo",
+        "Brown Rice Penne Rigate",
+        "Brown Rice Shells",
+        "Brown Rice Spaghetti",
+        "Brown Rice Stelline",
+        "Einkorn All Purpose Flour",
+        "Einkorn Caserecce",
+        "Einkorn Flour All Purpose",
+        "Einkorn Fusilli",
+        "Einkorn Pancake Mix",
+        "Einkorn Penne Rigate",
+        "Einkorn Spaghetti",
+        "Einkorn Wheat Berries",
+        "Whole Wheat Einkorn Flour"
+      ],
+      "matchTerms": [
+        "Brown Rice Bucatini",
+        "Brown Rice Capellini",
+        "Brown Rice Caserecce",
+        "Brown Rice Elbows",
+        "Brown Rice Farfalle",
+        "Brown Rice Fettuccine",
+        "Brown Rice Fusilli",
+        "Brown Rice Lasagna",
+        "Brown Rice Malfada",
+        "Brown Rice Manicotti",
+        "Brown Rice Orzo",
+        "Brown Rice Penne Rigate",
+        "Brown Rice Shells",
+        "Brown Rice Spaghetti",
+        "Brown Rice Stelline",
+        "Einkorn All Purpose Flour",
+        "Einkorn Caserecce",
+        "Einkorn Flour All Purpose",
+        "Einkorn Fusilli",
+        "Einkorn Pancake Mix",
+        "Einkorn Penne Rigate",
+        "Einkorn Spaghetti",
+        "Einkorn Wheat Berries",
+        "Whole Wheat Einkorn Flour"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/kul-chocolate/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.jovialfoods.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-kesar-commercial-pvt-ltd",
+      "brand": "K’UL Chocolate",
+      "aliases": [
+        "K’UL Chocolate"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Burnt Maple Crunch",
+        "Chocolate Chips (55% Pezzo/Mezeo)",
+        "Dark Chocolate Bar - Himalayan Sea Salt",
+        "Espresso & Cacao Nibs",
+        "Peppermint Crunch Bar",
+        "Pezzo 100% Baking Chocolate",
+        "Pezzo 65% Baking Chocolate",
+        "Pure Dark",
+        "Sea Salt Almond",
+        "Toasted Coconut",
+        "Wild Ginger and Cayenne"
+      ],
+      "matchTerms": [
+        "Burnt Maple Crunch",
+        "Chocolate Chips (55% Pezzo/Mezeo)",
+        "Dark Chocolate Bar - Himalayan Sea Salt",
+        "Espresso & Cacao Nibs",
+        "Peppermint Crunch Bar",
+        "Pezzo 100% Baking Chocolate",
+        "Pezzo 65% Baking Chocolate",
+        "Pure Dark",
+        "Sea Salt Almond",
+        "Toasted Coconut",
+        "Wild Ginger and Cayenne"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/kesar-commercial-pvt-ltd/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-kfm-foods",
+      "brand": "Kesar Commercial Pvt Ltd",
+      "aliases": [
+        "Kesar Commercial Pvt Ltd"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Tea"
+      ],
+      "matchTerms": [
+        "Tea"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/kfm-foods/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.teapromoters.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-knowledge-cotton-apparel",
+      "brand": "KFM Foods",
+      "aliases": [
+        "KFM Foods"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "70% Coconut Sugar Sweetened Dark Chocolate"
+      ],
+      "matchTerms": [
+        "70% Coconut Sugar Sweetened Dark Chocolate"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/knowledge-cotton-apparel/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-known-supply",
+      "brand": "Knowledge Cotton Apparel",
+      "aliases": [
+        "Knowledge Cotton Apparel"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "AGNAR basic t-shirt-1010113",
+        "Bags",
+        "BO long sleeve henley-1120022",
+        "Boxy short sleeve structured knitted shirt-1080055",
+        "Bubble knit cardigan-1080076",
+        "Cotton cable crew neck vest-2100009",
+        "Cotton cable crew neck-2080063",
+        "Cotton micro bubble cardigan-2080070",
+        "Cotton micro bubble crew neck knit-2080069",
+        "Cotton micro bubble stripe crew neck-2080072",
+        "Cotton stripe structure crew neck-2080064",
+        "Crew mountain cotton knit-1080089",
+        "Jacquard crew neck knit-1080081",
+        "LOKE badge tee-1010605",
+        "Long Sleeve Henley",
+        "Loose fit sweat owl chill camp print-1030084",
+        "Mountain jacquard cotton crew neck-2080075",
+        "Polo",
+        "Racer rib top-2010025",
+        "Regular big owl front print t-shirt-1010059",
+        "Regular Bubble Knit Crew Neck Tee",
+        "Regular fit chill camp back print t-shirt-1010116",
+        "Regular fit colorful trademark print t-shirt-1010120",
+        "Regular fit mountain t-shirt-1010117",
+        "Regular fit mountain t-shirt-3010015",
+        "Regular fit owl trip chest print t-shirt-1010119",
+        "Regular fit owl trip chest print t-shirt-3010016",
+        "Regular fit owl trip print t-shirt-1010118",
+        "Regular fitted back print tee-2010053",
+        "Regular owl chest embroidery t-shirt-1010038",
+        "Regular trademark chest print t-shirt-10575",
+        "Rib high neck long sleeved-100076",
+        "Rib high neck short sleeved-2010034",
+        "Rib Scoop neck long sleeved-2010016",
+        "Rib strap top-2010015",
+        "Rib t-shirt-2010014",
+        "Round Neck Full Sleeve T-shirt",
+        "Round Neck Tee",
+        "Shirts",
+        "Striped racer rib top-2010017",
+        "Striped rib t-shirt-2010019",
+        "T-shirts",
+        "VAGN regular bubble knit crew neck-1080067",
+        "VIGGO badge long sleeve-1120012",
+        "Woven Trousers"
+      ],
+      "matchTerms": [
+        "AGNAR basic t-shirt-1010113",
+        "Bags",
+        "BO long sleeve henley-1120022",
+        "Boxy short sleeve structured knitted shirt-1080055",
+        "Bubble knit cardigan-1080076",
+        "Cotton cable crew neck vest-2100009",
+        "Cotton cable crew neck-2080063",
+        "Cotton micro bubble cardigan-2080070",
+        "Cotton micro bubble crew neck knit-2080069",
+        "Cotton micro bubble stripe crew neck-2080072",
+        "Cotton stripe structure crew neck-2080064",
+        "Crew mountain cotton knit-1080089",
+        "Jacquard crew neck knit-1080081",
+        "LOKE badge tee-1010605",
+        "Long Sleeve Henley",
+        "Loose fit sweat owl chill camp print-1030084",
+        "Mountain jacquard cotton crew neck-2080075",
+        "Polo",
+        "Racer rib top-2010025",
+        "Regular big owl front print t-shirt-1010059",
+        "Regular Bubble Knit Crew Neck Tee",
+        "Regular fit chill camp back print t-shirt-1010116",
+        "Regular fit colorful trademark print t-shirt-1010120",
+        "Regular fit mountain t-shirt-1010117",
+        "Regular fit mountain t-shirt-3010015",
+        "Regular fit owl trip chest print t-shirt-1010119",
+        "Regular fit owl trip chest print t-shirt-3010016",
+        "Regular fit owl trip print t-shirt-1010118",
+        "Regular fitted back print tee-2010053",
+        "Regular owl chest embroidery t-shirt-1010038",
+        "Regular trademark chest print t-shirt-10575",
+        "Rib high neck long sleeved-100076",
+        "Rib high neck short sleeved-2010034",
+        "Rib Scoop neck long sleeved-2010016",
+        "Rib strap top-2010015",
+        "Rib t-shirt-2010014",
+        "Round Neck Full Sleeve T-shirt",
+        "Round Neck Tee",
+        "Shirts",
+        "Striped racer rib top-2010017",
+        "Striped rib t-shirt-2010019",
+        "T-shirts",
+        "VAGN regular bubble knit crew neck-1080067",
+        "VIGGO badge long sleeve-1120012",
+        "Woven Trousers"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/known-supply/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://knowledgecottonapparel.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-kokora",
+      "brand": "Known Supply",
+      "aliases": [
+        "Known Supply"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Hoodie",
+        "Tee"
+      ],
+      "matchTerms": [
+        "Hoodie",
+        "Tee"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/kokora/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.knownsupply.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-la-almendrehesa",
+      "brand": "Kokora",
+      "aliases": [
+        "Kokora"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "5 Mushroom Wellness",
+        "7 Mushroom Mocha",
+        "Adapt & Thrive",
+        "Cordyceps Energy",
+        "Golden Milk Bliss",
+        "Immune Power",
+        "Lion's Mane Memory",
+        "Regenerative Adrenal Support",
+        "Regenerative Ashwagandha",
+        "Regenerative Bacopa",
+        "Regenerative Energy",
+        "Regenerative Ginger",
+        "Regenerative Holy Basil",
+        "Regenerative Passionflower",
+        "Regenerative Sleep",
+        "Regenerative Stress Support",
+        "Regenerative Turmeric",
+        "Reishi Vitality",
+        "Roasted Kokora Lift",
+        "Turkey Tail Immune"
+      ],
+      "matchTerms": [
+        "5 Mushroom Wellness",
+        "7 Mushroom Mocha",
+        "Adapt & Thrive",
+        "Cordyceps Energy",
+        "Golden Milk Bliss",
+        "Immune Power",
+        "Lion's Mane Memory",
+        "Regenerative Adrenal Support",
+        "Regenerative Ashwagandha",
+        "Regenerative Bacopa",
+        "Regenerative Energy",
+        "Regenerative Ginger",
+        "Regenerative Holy Basil",
+        "Regenerative Passionflower",
+        "Regenerative Sleep",
+        "Regenerative Stress Support",
+        "Regenerative Turmeric",
+        "Reishi Vitality",
+        "Roasted Kokora Lift",
+        "Turkey Tail Immune"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/la-almendrehesa/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://kokoralife.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-la-gerencia",
+      "brand": "La Almendrehesa",
+      "aliases": [
+        "La Almendrehesa"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Blanched almond",
+        "Natural Almond",
+        "Partially defatted blanched almond flour",
+        "Roasted almond with salt",
+        "Roasted almond with salt and aromatic herbs",
+        "Unsalted roasted almond"
+      ],
+      "matchTerms": [
+        "Blanched almond",
+        "Natural Almond",
+        "Partially defatted blanched almond flour",
+        "Roasted almond with salt",
+        "Roasted almond with salt and aromatic herbs",
+        "Unsalted roasted almond"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/la-gerencia/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-la-terre",
+      "brand": "La Gerencia",
+      "aliases": [
+        "La Gerencia"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Tequila La Gerencia"
+      ],
+      "matchTerms": [
+        "Tequila La Gerencia"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/la-terre/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://edulag.com/company/"
+      }
+    },
+    {
+      "id": "regenerative-organic-la-tourangelle",
+      "brand": "La Terre",
+      "aliases": [
+        "La Terre"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Crystal Sugar",
+        "Demerara Sugar"
+      ],
+      "matchTerms": [
+        "Crystal Sugar",
+        "Demerara Sugar"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/la-tourangelle/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://jalles.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-lanna-valley",
+      "brand": "La Tourangelle",
+      "aliases": [
+        "La Tourangelle"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Flaxseed Oil",
+        "Non-Stick Cooking Spray",
+        "Sunflower oil"
+      ],
+      "matchTerms": [
+        "Flaxseed Oil",
+        "Non-Stick Cooking Spray",
+        "Sunflower oil"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/lanna-valley/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.latourangelle.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-latbio",
+      "brand": "Lanna Valley",
+      "aliases": [
+        "Lanna Valley"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Broken Jasmine Rice",
+        "Jasmine Brown Rice",
+        "Jasmine Rice Bran",
+        "Jasmine White Rice",
+        "Quick Cook Rice",
+        "Stabilized Jasmine Rice Bran",
+        "Thai Hom Mali Brown Rice",
+        "Thai Hom Mali White Rice",
+        "Thai Long Grain Brown Rice",
+        "Thai Long Grain White Rice"
+      ],
+      "matchTerms": [
+        "Broken Jasmine Rice",
+        "Jasmine Brown Rice",
+        "Jasmine Rice Bran",
+        "Jasmine White Rice",
+        "Quick Cook Rice",
+        "Stabilized Jasmine Rice Bran",
+        "Thai Hom Mali Brown Rice",
+        "Thai Hom Mali White Rice",
+        "Thai Long Grain Brown Rice",
+        "Thai Long Grain White Rice"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/latbio/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.urmatt.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-laurel-bay",
+      "brand": "LatBio",
+      "aliases": [
+        "LatBio"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Banana",
+        "Banana Crunchies",
+        "Banana Flakes",
+        "Banana Powder",
+        "Banana Puree"
+      ],
+      "matchTerms": [
+        "Banana",
+        "Banana Crunchies",
+        "Banana Flakes",
+        "Banana Powder",
+        "Banana Puree"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/laurel-bay/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.latbio.com.ec"
+      }
+    },
+    {
+      "id": "regenerative-organic-lil-bucks",
+      "brand": "Laurel & Bay",
+      "aliases": [
+        "Laurel & Bay"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "2023 Pinot Noir"
+      ],
+      "matchTerms": [
+        "2023 Pinot Noir"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/lil-bucks/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.gunbun.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-linea-caffe",
+      "brand": "Lil Bucks",
+      "aliases": [
+        "Lil Bucks"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Sprouted Buckwheat Crunch Cacao",
+        "Sprouted Buckwheat Crunch Cinnamon",
+        "Sprouted Buckwheat Crunch Orginal"
+      ],
+      "matchTerms": [
+        "Sprouted Buckwheat Crunch Cacao",
+        "Sprouted Buckwheat Crunch Cinnamon",
+        "Sprouted Buckwheat Crunch Orginal"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/linea-caffe/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.lovelilbucks.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-living-roots",
+      "brand": "Linea Caffe",
+      "aliases": [
+        "Linea Caffe"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Brazil Camocim Reserve: Biodynamic Espresso",
+        "Camocim Biodynamic",
+        "Camocim Natural"
+      ],
+      "matchTerms": [
+        "Brazil Camocim Reserve: Biodynamic Espresso",
+        "Camocim Biodynamic",
+        "Camocim Natural"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/living-roots/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://lineacaffe.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-lofbergs",
+      "brand": "Living Roots",
+      "aliases": [
+        "Living Roots"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cotton Shirt"
+      ],
+      "matchTerms": [
+        "Cotton Shirt"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/lofbergs/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-loomstate",
+      "brand": "Löfbergs",
+      "aliases": [
+        "Löfbergs"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Honduras Whole Coffee Beans"
+      ],
+      "matchTerms": [
+        "Honduras Whole Coffee Beans"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/loomstate/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-lotus-foods",
+      "brand": "Loomstate",
+      "aliases": [
+        "Loomstate"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Womens Cotton Pique Polo"
+      ],
+      "matchTerms": [
+        "Womens Cotton Pique Polo"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/lotus-foods/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://loomstate.org"
+      }
+    },
+    {
+      "id": "regenerative-organic-lumen",
+      "brand": "Lotus Foods",
+      "aliases": [
+        "Lotus Foods"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Brown Basmati Rice",
+        "White Baby Basmati Rice (Kalijira)",
+        "White Basmati Rice"
+      ],
+      "matchTerms": [
+        "Brown Basmati Rice",
+        "White Baby Basmati Rice (Kalijira)",
+        "White Basmati Rice"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/lumen/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://lotusfoods.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-luna-koshihikari",
+      "brand": "Lumen",
+      "aliases": [
+        "Lumen"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Fiber + Ginger Shot",
+        "Immune Support Shot"
+      ],
+      "matchTerms": [
+        "Fiber + Ginger Shot",
+        "Immune Support Shot"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/luna-koshihikari/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-lundberg-family-farms",
+      "brand": "LUNA KOSHIHIKARI",
+      "aliases": [
+        "LUNA KOSHIHIKARI"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "White Rice"
+      ],
+      "matchTerms": [
+        "White Rice"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/lundberg-family-farms/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-made-in-nature",
+      "brand": "Lundberg Family Farms",
+      "aliases": [
+        "Lundberg Family Farms"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Alfredo Risotto",
+        "Black Pearl Rice",
+        "Brown Basmati Rice",
+        "Brown Jasmine Rice",
+        "Chicken & Herb Rice",
+        "Creamy Parmesan Risotto",
+        "Garlic & Basil Rice",
+        "Long Grain Brown Rice",
+        "Long Grain White Rice",
+        "Mushroom Risotto",
+        "Original Rice Pilaf",
+        "Ready to Heat - Coconut Rice",
+        "Ready to Heat - White Jasmine Rice",
+        "Ready to Heat- Brown Jasmine Rice",
+        "Ready to Heat- Brown Rice and Quinoa",
+        "Ready to Heat- Cilantro and Lime Rice",
+        "Ready to Heat- Spanish Rice",
+        "Red Jasmine Rice",
+        "Rice Cake Minis - Sea Salt",
+        "Rice Cake Minis- Sesame Seaweed",
+        "Rice Cake Minis- Ginger Seaweed",
+        "Rice Cake Minis, Apple Pie",
+        "Rice Cake Minis, Birthday Cake",
+        "Rice Cake Minis, Buffalo Ranch",
+        "Rice Cake Minis, Fiery Hot",
+        "Rice Cake Minis, Ginger Snap",
+        "Rice Cake Minis, Salted Caramel",
+        "Rice Cake Thins - Black Pepper",
+        "Rice Cake Thins Salt Free",
+        "Rice Cake Thins- Basil & Thyme",
+        "Rice Cake Thins- Lightly Salted",
+        "Rice Cake Thins, Fine Herb",
+        "Rice Cake Thins, Red Rice & Quinoa",
+        "Rice Cake Thins, Salt Free",
+        "Rice Cake Thins, Sea Salt",
+        "Rice Cakes - Honey Nut",
+        "Rice Cakes - Salt Free",
+        "Rice Cakes Minis - White Cheddar",
+        "Rice Cakes- Cinnamon Toast",
+        "Rice Cakes- Lightly Salted",
+        "Rice Cakes- Salted Caramel",
+        "Rice Cakes- Sea Salt",
+        "Rice Cakes, Tamari Seaweed",
+        "Rice Cakes, Wild Rice",
+        "Short Grain Brown Rice",
+        "Spanish Rice",
+        "Sushi Rice",
+        "Turmeric & Ginger Rice",
+        "White Arborio Rice",
+        "White Basmati Rice",
+        "White Jasmine Rice",
+        "Wild Rice",
+        "Wild Rice Blend",
+        "Yellow Rice"
+      ],
+      "matchTerms": [
+        "Alfredo Risotto",
+        "Black Pearl Rice",
+        "Brown Basmati Rice",
+        "Brown Jasmine Rice",
+        "Chicken & Herb Rice",
+        "Creamy Parmesan Risotto",
+        "Garlic & Basil Rice",
+        "Long Grain Brown Rice",
+        "Long Grain White Rice",
+        "Mushroom Risotto",
+        "Original Rice Pilaf",
+        "Ready to Heat - Coconut Rice",
+        "Ready to Heat - White Jasmine Rice",
+        "Ready to Heat- Brown Jasmine Rice",
+        "Ready to Heat- Brown Rice and Quinoa",
+        "Ready to Heat- Cilantro and Lime Rice",
+        "Ready to Heat- Spanish Rice",
+        "Red Jasmine Rice",
+        "Rice Cake Minis - Sea Salt",
+        "Rice Cake Minis- Sesame Seaweed",
+        "Rice Cake Minis- Ginger Seaweed",
+        "Rice Cake Minis, Apple Pie",
+        "Rice Cake Minis, Birthday Cake",
+        "Rice Cake Minis, Buffalo Ranch",
+        "Rice Cake Minis, Fiery Hot",
+        "Rice Cake Minis, Ginger Snap",
+        "Rice Cake Minis, Salted Caramel",
+        "Rice Cake Thins - Black Pepper",
+        "Rice Cake Thins Salt Free",
+        "Rice Cake Thins- Basil & Thyme",
+        "Rice Cake Thins- Lightly Salted",
+        "Rice Cake Thins, Fine Herb",
+        "Rice Cake Thins, Red Rice & Quinoa",
+        "Rice Cake Thins, Salt Free",
+        "Rice Cake Thins, Sea Salt",
+        "Rice Cakes - Honey Nut",
+        "Rice Cakes - Salt Free",
+        "Rice Cakes Minis - White Cheddar",
+        "Rice Cakes- Cinnamon Toast",
+        "Rice Cakes- Lightly Salted",
+        "Rice Cakes- Salted Caramel",
+        "Rice Cakes- Sea Salt",
+        "Rice Cakes, Tamari Seaweed",
+        "Rice Cakes, Wild Rice",
+        "Short Grain Brown Rice",
+        "Spanish Rice",
+        "Sushi Rice",
+        "Turmeric & Ginger Rice",
+        "White Arborio Rice",
+        "White Basmati Rice",
+        "White Jasmine Rice",
+        "Wild Rice",
+        "Wild Rice Blend",
+        "Yellow Rice"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/made-in-nature/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.lundberg.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-maggies-organics",
+      "brand": "Made in Nature",
+      "aliases": [
+        "Made in Nature"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Apricots",
+        "Dates",
+        "Dried Figs",
+        "Fruit & Oat Bars Blueberry",
+        "Fruit & Oat Bars Original",
+        "Fruit & Oat Bars Raspberry",
+        "Fruit & Oat Bars Strawberry",
+        "Smyrna Figs"
+      ],
+      "matchTerms": [
+        "Apricots",
+        "Dates",
+        "Dried Figs",
+        "Fruit & Oat Bars Blueberry",
+        "Fruit & Oat Bars Original",
+        "Fruit & Oat Bars Raspberry",
+        "Fruit & Oat Bars Strawberry",
+        "Smyrna Figs"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/maggies-organics/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.madeinnature.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-magic-chocolate",
+      "brand": "Maggie’s Organics",
+      "aliases": [
+        "Maggie’s Organics"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "3/4 Sleeve Tee",
+        "Camisole",
+        "Cardigan Sweater",
+        "Chunky Beanie",
+        "Classic Crew Neck Tee",
+        "Classic Crew Sweater",
+        "Classic Crew Sweatshirt",
+        "Classic Hoodie",
+        "Classic Lined Cami",
+        "Classic Longsleeve Tee",
+        "Classic Slouch Tee",
+        "Classic Sweatpant",
+        "Classic Tank",
+        "Crew Sweatshirt (Reversible Fleece Crew)",
+        "Cropped Flare Pant",
+        "Cropped Sweatpant",
+        "Fisherman Beanie",
+        "Fleece Jogger",
+        "Fleece Sweatshort",
+        "French Tuck Tee",
+        "Funnel Neck Top",
+        "Gaucho Pant",
+        "Hi-Low Dress",
+        "Hooded Cardigan",
+        "Kaftan Dress",
+        "Kimono",
+        "Layering Tee",
+        "Lounge Pant",
+        "Lounge Short",
+        "Maxi Skirt",
+        "Overalls",
+        "Oversized Pocket Scarf",
+        "Quilted Vest",
+        "Sleeveless Tee",
+        "Surplus Pants",
+        "Surplus Skirt",
+        "Sweater Vest",
+        "Tanguis Cotton Surplus Pants",
+        "Tanguis Cotton Surplus Skirt",
+        "V-Neck Sweater",
+        "Wide Leg Pant",
+        "Workware Shirt",
+        "Workwear Dress"
+      ],
+      "matchTerms": [
+        "3/4 Sleeve Tee",
+        "Camisole",
+        "Cardigan Sweater",
+        "Chunky Beanie",
+        "Classic Crew Neck Tee",
+        "Classic Crew Sweater",
+        "Classic Crew Sweatshirt",
+        "Classic Hoodie",
+        "Classic Lined Cami",
+        "Classic Longsleeve Tee",
+        "Classic Slouch Tee",
+        "Classic Sweatpant",
+        "Classic Tank",
+        "Crew Sweatshirt (Reversible Fleece Crew)",
+        "Cropped Flare Pant",
+        "Cropped Sweatpant",
+        "Fisherman Beanie",
+        "Fleece Jogger",
+        "Fleece Sweatshort",
+        "French Tuck Tee",
+        "Funnel Neck Top",
+        "Gaucho Pant",
+        "Hi-Low Dress",
+        "Hooded Cardigan",
+        "Kaftan Dress",
+        "Kimono",
+        "Layering Tee",
+        "Lounge Pant",
+        "Lounge Short",
+        "Maxi Skirt",
+        "Overalls",
+        "Oversized Pocket Scarf",
+        "Quilted Vest",
+        "Sleeveless Tee",
+        "Surplus Pants",
+        "Surplus Skirt",
+        "Sweater Vest",
+        "Tanguis Cotton Surplus Pants",
+        "Tanguis Cotton Surplus Skirt",
+        "V-Neck Sweater",
+        "Wide Leg Pant",
+        "Workware Shirt",
+        "Workwear Dress"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/magic-chocolate/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://maggiesorganics.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-magrille",
+      "brand": "Magic Chocolate",
+      "aliases": [
+        "Magic Chocolate"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Dark Chocolate - Almond Butter",
+        "Dark Chocolate - Coconut Praline",
+        "Dark Chocolate - Hazelnut Butter",
+        "Dark Chocolate - Peppermint Cream",
+        "Dark Chocolate - Whole Almond",
+        "Dark Chocolate - Whole Hazelnut",
+        "Hazelnut Crunch Truffle Bars, Dark Chocolate",
+        "Oat Milk - Creamy Mocha Latte Chocolate",
+        "Oat Milk - Crunchy Hazelnut Butter Chocolate",
+        "Oat Milk - Golden Milk Chai Chocolate",
+        "Salted Dark Chocolate"
+      ],
+      "matchTerms": [
+        "Dark Chocolate - Almond Butter",
+        "Dark Chocolate - Coconut Praline",
+        "Dark Chocolate - Hazelnut Butter",
+        "Dark Chocolate - Peppermint Cream",
+        "Dark Chocolate - Whole Almond",
+        "Dark Chocolate - Whole Hazelnut",
+        "Hazelnut Crunch Truffle Bars, Dark Chocolate",
+        "Oat Milk - Creamy Mocha Latte Chocolate",
+        "Oat Milk - Crunchy Hazelnut Butter Chocolate",
+        "Oat Milk - Golden Milk Chai Chocolate",
+        "Salted Dark Chocolate"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/magrille/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.magicchocolate.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-manitoba-harvest-hemp-foods",
+      "brand": "Magrille",
+      "aliases": [
+        "Magrille"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Extra Virgin Olive Oil"
+      ],
+      "matchTerms": [
+        "Extra Virgin Olive Oil"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/manitoba-harvest-hemp-foods/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://magrille.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-maral-overseas-limited",
+      "brand": "Manitoba Harvest Hemp Foods",
+      "aliases": [
+        "Manitoba Harvest Hemp Foods"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Hemp Hearts",
+        "Hemp+Energy Smoothie Booster Powder Blend",
+        "Hemp+Immunity Smoothie Booster Powder Blend",
+        "Hemp+Mood Smoothie Booster Powder Blend",
+        "Superfood Smoothie Booster Glowing Greens Drink Mix",
+        "Superfood Smoothie Booster Radiant Reds Drink Mix",
+        "Whole Flaxseed"
+      ],
+      "matchTerms": [
+        "Hemp Hearts",
+        "Hemp+Energy Smoothie Booster Powder Blend",
+        "Hemp+Immunity Smoothie Booster Powder Blend",
+        "Hemp+Mood Smoothie Booster Powder Blend",
+        "Superfood Smoothie Booster Glowing Greens Drink Mix",
+        "Superfood Smoothie Booster Radiant Reds Drink Mix",
+        "Whole Flaxseed"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/maral-overseas-limited/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://manitobaharvest.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-marc-opolo",
+      "brand": "Maral Overseas Limited",
+      "aliases": [
+        "Maral Overseas Limited"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cotton Fabric",
+        "Cotton Garments",
+        "Cotton Yarn"
+      ],
+      "matchTerms": [
+        "Cotton Fabric",
+        "Cotton Garments",
+        "Cotton Yarn"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/marc-opolo/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.maraloverseas.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-mariannes",
+      "brand": "Marc O’Polo",
+      "aliases": [
+        "Marc O’Polo"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Jersey Pants",
+        "Sweat Jacket",
+        "Sweat Shirt",
+        "Sweat Short",
+        "Sweatjacket Longsleeve",
+        "Sweatshirt Longsleeve",
+        "T-Shirt",
+        "T-Shirt Shortsleeve"
+      ],
+      "matchTerms": [
+        "Jersey Pants",
+        "Sweat Jacket",
+        "Sweat Shirt",
+        "Sweat Short",
+        "Sweatjacket Longsleeve",
+        "Sweatshirt Longsleeve",
+        "T-Shirt",
+        "T-Shirt Shortsleeve"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/mariannes/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://company.marc-o-polo.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-maritas-denim",
+      "brand": "Marianne’s",
+      "aliases": [
+        "Marianne’s"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Avocado Oil"
+      ],
+      "matchTerms": [
+        "Avocado Oil"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/maritas-denim/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.adamsgrp.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-matcha-rebellion-tea-rebellion",
+      "brand": "Maritas Denim",
+      "aliases": [
+        "Maritas Denim"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Denim Fabric",
+        "Woven Fabric"
+      ],
+      "matchTerms": [
+        "Denim Fabric",
+        "Woven Fabric"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/matcha-rebellion-tea-rebellion/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://maritasdenim.com/tr/"
+      }
+    },
+    {
+      "id": "regenerative-organic-mirabeau",
+      "brand": "Matcha Rebellion | Tea Rebellion",
+      "aliases": [
+        "Matcha Rebellion | Tea Rebellion"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Black Matcha"
+      ],
+      "matchTerms": [
+        "Black Matcha"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/mirabeau/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-molino-de-vita-srl",
+      "brand": "Mirabeau",
+      "aliases": [
+        "Mirabeau"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "La Reserve"
+      ],
+      "matchTerms": [
+        "La Reserve"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/molino-de-vita-srl/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-monfefo",
+      "brand": "Molino De Vita srl",
+      "aliases": [
+        "Molino De Vita srl"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Durum Wheat Semolina",
+        "Whole Durum Wheat Semolina"
+      ],
+      "matchTerms": [
+        "Durum Wheat Semolina",
+        "Whole Durum Wheat Semolina"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/monfefo/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-mountain-rose-herbs",
+      "brand": "Monfefo",
+      "aliases": [
+        "Monfefo"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Ginger Shot",
+        "Turmeric Shot"
+      ],
+      "matchTerms": [
+        "Ginger Shot",
+        "Turmeric Shot"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/mountain-rose-herbs/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-mr-espresso",
+      "brand": "Mountain Rose Herbs",
+      "aliases": [
+        "Mountain Rose Herbs"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Angelica Extract",
+        "Artichoke Extract",
+        "Artichoke Leaf",
+        "Ashwagandha Extract",
+        "Ashwagandha Root",
+        "Ashwagandha Root Powder",
+        "Astragalus Extract",
+        "Bee Balm",
+        "Blessed Thistle Extract",
+        "Blue Vervain Extract",
+        "Calendula Extract",
+        "Calendula Flowers",
+        "Catnip Extract",
+        "Cayenne Pepper Extract",
+        "Chamomile Extract",
+        "Chamomile Flowers",
+        "Cilantro Extract",
+        "Comfrey Leaf",
+        "Comfrey Root",
+        "Comfrey Root Extract",
+        "Cornsilk Extract",
+        "Dandelion Root Extract",
+        "Echinacea Root Extract",
+        "Elecampane Extract",
+        "Feverfew Extract",
+        "Garlic Extract",
+        "Kapoor Tulsi",
+        "Linden Extract",
+        "Lobelia Extract",
+        "Marshmallow Root Extract",
+        "Medium Roast Yaupon Tea",
+        "Mullein Extract",
+        "Netlle Roos Extract",
+        "Oregano Extract",
+        "Oregon Sunshine Tea",
+        "Plantain Extract",
+        "Rosemary Extract",
+        "Sage Extract",
+        "Sage Leaf",
+        "Skullcap Extract",
+        "Thyme Extract",
+        "Valerian Extract",
+        "Vitex Extract",
+        "Yarrow",
+        "Yellow Dock Extract"
+      ],
+      "matchTerms": [
+        "Angelica Extract",
+        "Artichoke Extract",
+        "Artichoke Leaf",
+        "Ashwagandha Extract",
+        "Ashwagandha Root",
+        "Ashwagandha Root Powder",
+        "Astragalus Extract",
+        "Bee Balm",
+        "Blessed Thistle Extract",
+        "Blue Vervain Extract",
+        "Calendula Extract",
+        "Calendula Flowers",
+        "Catnip Extract",
+        "Cayenne Pepper Extract",
+        "Chamomile Extract",
+        "Chamomile Flowers",
+        "Cilantro Extract",
+        "Comfrey Leaf",
+        "Comfrey Root",
+        "Comfrey Root Extract",
+        "Cornsilk Extract",
+        "Dandelion Root Extract",
+        "Echinacea Root Extract",
+        "Elecampane Extract",
+        "Feverfew Extract",
+        "Garlic Extract",
+        "Kapoor Tulsi",
+        "Linden Extract",
+        "Lobelia Extract",
+        "Marshmallow Root Extract",
+        "Medium Roast Yaupon Tea",
+        "Mullein Extract",
+        "Netlle Roos Extract",
+        "Oregano Extract",
+        "Oregon Sunshine Tea",
+        "Plantain Extract",
+        "Rosemary Extract",
+        "Sage Extract",
+        "Sage Leaf",
+        "Skullcap Extract",
+        "Thyme Extract",
+        "Valerian Extract",
+        "Vitex Extract",
+        "Yarrow",
+        "Yellow Dock Extract"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/mr-espresso/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://mountainroseherbs.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-native",
+      "brand": "Mr. Espresso",
+      "aliases": [
+        "Mr. Espresso"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Colombia Asaprofucal",
+        "Dark Roast Colombia",
+        "Light Roast Colombia"
+      ],
+      "matchTerms": [
+        "Colombia Asaprofucal",
+        "Dark Roast Colombia",
+        "Light Roast Colombia"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/native/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "http://www.mrespresso.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-natura",
+      "brand": "Native",
+      "aliases": [
+        "Native"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Alcohol Retificated Neutral",
+        "Cane sugar",
+        "Cane Sugar",
+        "Cane Sugar (Açúcar) [XHP, HP, LP, DEMERARA/DARK, NHP, NLP]"
+      ],
+      "matchTerms": [
+        "Alcohol Retificated Neutral",
+        "Cane sugar",
+        "Cane Sugar",
+        "Cane Sugar (Açúcar) [XHP, HP, LP, DEMERARA/DARK, NHP, NLP]"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/natura/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.nativealimentos.com.br"
+      }
+    },
+    {
+      "id": "regenerative-organic-natural-grocers",
+      "brand": "Natura",
+      "aliases": [
+        "Natura"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "2023 Natura Pinot Noir",
+        "2024 Natura Pinot Noir",
+        "2025 Natura Pinot Noir",
+        "2025 Natura Sauvignon Blanc"
+      ],
+      "matchTerms": [
+        "2023 Natura Pinot Noir",
+        "2024 Natura Pinot Noir",
+        "2025 Natura Pinot Noir",
+        "2025 Natura Sauvignon Blanc"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/natural-grocers/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.emiliana.cl"
+      }
+    },
+    {
+      "id": "regenerative-organic-nature-pearls-pvt-ltd",
+      "brand": "Natural Grocers",
+      "aliases": [
+        "Natural Grocers"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Brown Shell Eggs",
+        "Eggs"
+      ],
+      "matchTerms": [
+        "Brown Shell Eggs",
+        "Eggs"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/nature-pearls-pvt-ltd/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-natures-path",
+      "brand": "Nature Pearls Pvt. Ltd.",
+      "aliases": [
+        "Nature Pearls Pvt. Ltd."
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Brown Basmati Rice",
+        "White Basmati Rice",
+        "White Basmati Rice P-1121"
+      ],
+      "matchTerms": [
+        "Brown Basmati Rice",
+        "White Basmati Rice",
+        "White Basmati Rice P-1121"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/natures-path/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-navitas-organics",
+      "brand": "Nature’s Path",
+      "aliases": [
+        "Nature’s Path"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Berries and Cream Oatmeal",
+        "Dark Chocolate and Cocoa Oatmeal"
+      ],
+      "matchTerms": [
+        "Berries and Cream Oatmeal",
+        "Dark Chocolate and Cocoa Oatmeal"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/navitas-organics/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://naturespath.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-neal-family-vineyards",
+      "brand": "Navitas Organics",
+      "aliases": [
+        "Navitas Organics"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cacao Powder"
+      ],
+      "matchTerms": [
+        "Cacao Powder"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/neal-family-vineyards/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://navitasorganics.com/pages/superfoods-with-purpose"
+      }
+    },
+    {
+      "id": "regenerative-organic-oatman-farms",
+      "brand": "Neal Family Vineyards",
+      "aliases": [
+        "Neal Family Vineyards"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "2022 Howell Mountain Cabernet Sauvignon",
+        "2022 Howell Mountain Legend Cabernet Sauvignon",
+        "2022 Rutherford Dust Zinfandel",
+        "2023 Howell Mountain Cabernet Sauvignon",
+        "2023 Rutherford Dust Albarino",
+        "2023 Rutherford Dust Cabernet Sauvignon",
+        "2023 Rutherford Dust Cabernet Sauvignon Legend",
+        "2023 Rutherford Dust Vermentino",
+        "2024 Howell Mountain Cabernet Sauvignon",
+        "2024 Howell Mountain Legend Cabernet Sauvignon",
+        "2024 Rutherford Cabernet Sauvignon Legend",
+        "2024 Rutherford Dust Assyrtiko",
+        "2024 Rutherford Dust Cabernet Sauvignon",
+        "2024 Rutherford Dust Fiano",
+        "2024 Rutherford Dust Sauvignon Blanc",
+        "2024 Rutherford Dust Zinfandel",
+        "2025 Chaix Sauvignon Blanc",
+        "2025 Rutherford Dust Albarino",
+        "2025 Rutherford Dust Assyrtiko",
+        "2025 Rutherford Dust Fiano",
+        "2025 Rutherford Dust Sauvignon Blanc",
+        "2025 Rutherford Dust Vermentino",
+        "2025 Rutherford Dust White Wine Blend"
+      ],
+      "matchTerms": [
+        "2022 Howell Mountain Cabernet Sauvignon",
+        "2022 Howell Mountain Legend Cabernet Sauvignon",
+        "2022 Rutherford Dust Zinfandel",
+        "2023 Howell Mountain Cabernet Sauvignon",
+        "2023 Rutherford Dust Albarino",
+        "2023 Rutherford Dust Cabernet Sauvignon",
+        "2023 Rutherford Dust Cabernet Sauvignon Legend",
+        "2023 Rutherford Dust Vermentino",
+        "2024 Howell Mountain Cabernet Sauvignon",
+        "2024 Howell Mountain Legend Cabernet Sauvignon",
+        "2024 Rutherford Cabernet Sauvignon Legend",
+        "2024 Rutherford Dust Assyrtiko",
+        "2024 Rutherford Dust Cabernet Sauvignon",
+        "2024 Rutherford Dust Fiano",
+        "2024 Rutherford Dust Sauvignon Blanc",
+        "2024 Rutherford Dust Zinfandel",
+        "2025 Chaix Sauvignon Blanc",
+        "2025 Rutherford Dust Albarino",
+        "2025 Rutherford Dust Assyrtiko",
+        "2025 Rutherford Dust Fiano",
+        "2025 Rutherford Dust Sauvignon Blanc",
+        "2025 Rutherford Dust Vermentino",
+        "2025 Rutherford Dust White Wine Blend"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/oatman-farms/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.jacknealandson.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-olam-international-limited",
+      "brand": "Oatman Farms",
+      "aliases": [
+        "Oatman Farms"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Blue Beard Durum/White Sonora T55 Flour",
+        "Blue Beard Durum/White Sonora T65 Flour",
+        "Blue Beard Durum/White Sonora T85 Flour",
+        "Blue Beard Durum/White Sonora Whole Grain Flour",
+        "Mesquite Flour",
+        "Mesquite Pods",
+        "Red Fife/White Sonora Blend Wheat Berries",
+        "Red Fife/White Sonora Blend T65 Wheat Flour",
+        "Red Fife/White Sonora Blend T85 Wheat Flour",
+        "Red Fife/White Sonora Blend Whole Grain Flour",
+        "Skagit 1109 T55 Flour",
+        "Skagit 1109 T65 Flour",
+        "Skagit 1109 T85 Flour",
+        "Skagit 1109 Wheat Berries",
+        "Skagit 1109 Whole Grain Flour",
+        "White Sonora and Mesquite Flour Buttermilk Pancake and Waffle Mix",
+        "White Sonora Classic Buttermilk Pancake and Waffle Mix",
+        "White Sonora T55 Wheat Flour",
+        "White Sonora T65 Wheat Flour",
+        "White Sonora T85 Wheat Flour",
+        "White Sonora Wheat Berries",
+        "White Sonora Wheat Bran",
+        "White Sonora Whole Grain Flour"
+      ],
+      "matchTerms": [
+        "Blue Beard Durum/White Sonora T55 Flour",
+        "Blue Beard Durum/White Sonora T65 Flour",
+        "Blue Beard Durum/White Sonora T85 Flour",
+        "Blue Beard Durum/White Sonora Whole Grain Flour",
+        "Mesquite Flour",
+        "Mesquite Pods",
+        "Red Fife/White Sonora Blend Wheat Berries",
+        "Red Fife/White Sonora Blend T65 Wheat Flour",
+        "Red Fife/White Sonora Blend T85 Wheat Flour",
+        "Red Fife/White Sonora Blend Whole Grain Flour",
+        "Skagit 1109 T55 Flour",
+        "Skagit 1109 T65 Flour",
+        "Skagit 1109 T85 Flour",
+        "Skagit 1109 Wheat Berries",
+        "Skagit 1109 Whole Grain Flour",
+        "White Sonora and Mesquite Flour Buttermilk Pancake and Waffle Mix",
+        "White Sonora Classic Buttermilk Pancake and Waffle Mix",
+        "White Sonora T55 Wheat Flour",
+        "White Sonora T65 Wheat Flour",
+        "White Sonora T85 Wheat Flour",
+        "White Sonora Wheat Berries",
+        "White Sonora Wheat Bran",
+        "White Sonora Whole Grain Flour"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/olam-international-limited/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.oatmanfarms.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-old-dog-ranch",
+      "brand": "Olam International Limited",
+      "aliases": [
+        "Olam International Limited"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Green Coffee Beans"
+      ],
+      "matchTerms": [
+        "Green Coffee Beans"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/old-dog-ranch/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.ofi.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-one-village-coffee",
+      "brand": "Old Dog Ranch",
+      "aliases": [
+        "Old Dog Ranch"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Just Walnut Butter",
+        "Maple Walnuts",
+        "Raw Walnuts",
+        "Toasted Walnuts"
+      ],
+      "matchTerms": [
+        "Just Walnut Butter",
+        "Maple Walnuts",
+        "Raw Walnuts",
+        "Toasted Walnuts"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/one-village-coffee/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.olddogranch.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-oregons-wild-harvest",
+      "brand": "One Village Coffee",
+      "aliases": [
+        "One Village Coffee"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Colombia Light Roast",
+        "Legend Dark Roast"
+      ],
+      "matchTerms": [
+        "Colombia Light Roast",
+        "Legend Dark Roast"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/oregons-wild-harvest/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.onevillagecoffee.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-organic-india",
+      "brand": "Oregon’s Wild Harvest",
+      "aliases": [
+        "Oregon’s Wild Harvest"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Astragalus Reishi Capsule",
+        "Cordyceps Capsule",
+        "Lion's Mane Capsule",
+        "Lion's Mane Plus Capsule",
+        "Mushroom Blend Capsule",
+        "Reishi Capsule",
+        "Turkey Tail Capsule"
+      ],
+      "matchTerms": [
+        "Astragalus Reishi Capsule",
+        "Cordyceps Capsule",
+        "Lion's Mane Capsule",
+        "Lion's Mane Plus Capsule",
+        "Mushroom Blend Capsule",
+        "Reishi Capsule",
+        "Turkey Tail Capsule"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/organic-india/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://oregonswildharvest.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-organic-mountain",
+      "brand": "Organic India",
+      "aliases": [
+        "Organic India"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Ashwagandha Capsules",
+        "Bacopa Capsules",
+        "Deep Sleep Tea",
+        "Neem Capsules",
+        "Passionfruit Hibiscus Tea",
+        "Purely Assam Black Tea",
+        "Purley Chamomile Tea",
+        "Throat Care Tea",
+        "Tulsi Capsules",
+        "Tulsi Original Tea",
+        "Tulsi Sleep Tea"
+      ],
+      "matchTerms": [
+        "Ashwagandha Capsules",
+        "Bacopa Capsules",
+        "Deep Sleep Tea",
+        "Neem Capsules",
+        "Passionfruit Hibiscus Tea",
+        "Purely Assam Black Tea",
+        "Purley Chamomile Tea",
+        "Throat Care Tea",
+        "Tulsi Capsules",
+        "Tulsi Original Tea",
+        "Tulsi Sleep Tea"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/organic-mountain/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://organicindiausa.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-origin",
+      "brand": "Organic Mountain",
+      "aliases": [
+        "Organic Mountain"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Shortening 36"
+      ],
+      "matchTerms": [
+        "Shortening 36"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/origin/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-pacific-botanicals",
+      "brand": "Origin",
+      "aliases": [
+        "Origin"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "2% Milk",
+        "A2 Chile Jack Block",
+        "A2 Classic Jack Block",
+        "A2 Gouda Block",
+        "A2 Medium Raw Cheddar Block",
+        "A2 Mild Raw Cheddar Block",
+        "A2 Mozzarella Block",
+        "A2 Sharp Raw Cheddar Block",
+        "A2 Smoked Cheddar Block",
+        "A2 Smoked Gouda Block",
+        "Ancestral Grind with Beef Heart and Liver",
+        "Brie",
+        "Camembert",
+        "Chocolate Milk",
+        "Ground Beef 85/15",
+        "Ground Beef 90/10",
+        "Ground Beef 92/8",
+        "Half & Half",
+        "Heavy Cream",
+        "Skim Milk",
+        "Whole Milk"
+      ],
+      "matchTerms": [
+        "2% Milk",
+        "A2 Chile Jack Block",
+        "A2 Classic Jack Block",
+        "A2 Gouda Block",
+        "A2 Medium Raw Cheddar Block",
+        "A2 Mild Raw Cheddar Block",
+        "A2 Mozzarella Block",
+        "A2 Sharp Raw Cheddar Block",
+        "A2 Smoked Cheddar Block",
+        "A2 Smoked Gouda Block",
+        "Ancestral Grind with Beef Heart and Liver",
+        "Brie",
+        "Camembert",
+        "Chocolate Milk",
+        "Ground Beef 85/15",
+        "Ground Beef 90/10",
+        "Ground Beef 92/8",
+        "Half & Half",
+        "Heavy Cream",
+        "Skim Milk",
+        "Whole Milk"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/pacific-botanicals/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.originmilk.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-pacific-foods",
+      "brand": "Pacific Botanicals",
+      "aliases": [
+        "Pacific Botanicals"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "American Skullcap",
+        "Angelica",
+        "Artichoke",
+        "Ashwagandha",
+        "Ashwagandha Root Fresh",
+        "Astragalus",
+        "Bacopa",
+        "Beet",
+        "Blessed Thistle",
+        "Blue Vervain",
+        "Borage",
+        "Burdock",
+        "Calendula",
+        "California Poppy",
+        "Celandine",
+        "Chamomile",
+        "Chickweed",
+        "Corn",
+        "Dandelion Root Roasted",
+        "Echinacea",
+        "Eclipta",
+        "Elderberries",
+        "Elecampane",
+        "Feverfew",
+        "Ginger",
+        "Ginko Biloba",
+        "Goldenrod",
+        "Gotu Kola",
+        "Grindelia",
+        "Horehound",
+        "Horsechestnut",
+        "Hyssop",
+        "Iris",
+        "Lavender",
+        "Lemon Balm",
+        "Linden",
+        "Lobelia",
+        "Marshmallow",
+        "Motherwort",
+        "Mullein",
+        "Nettle",
+        "Oats",
+        "Oregano",
+        "Parsley Root",
+        "Passion Flower",
+        "Plantain",
+        "Poke",
+        "Red Clover",
+        "Rosemary",
+        "Sage",
+        "Shepard's Purse",
+        "Skullcap",
+        "Spilanthes",
+        "St. John's Wort",
+        "Thyme",
+        "Tulsi",
+        "Turmeric",
+        "Valerian",
+        "Valerian Root Fresh",
+        "Vitex",
+        "Wormwood",
+        "Yarrow",
+        "Yaupon",
+        "Yellow Dock"
+      ],
+      "matchTerms": [
+        "American Skullcap",
+        "Angelica",
+        "Artichoke",
+        "Ashwagandha",
+        "Ashwagandha Root Fresh",
+        "Astragalus",
+        "Bacopa",
+        "Beet",
+        "Blessed Thistle",
+        "Blue Vervain",
+        "Borage",
+        "Burdock",
+        "Calendula",
+        "California Poppy",
+        "Celandine",
+        "Chamomile",
+        "Chickweed",
+        "Corn",
+        "Dandelion Root Roasted",
+        "Echinacea",
+        "Eclipta",
+        "Elderberries",
+        "Elecampane",
+        "Feverfew",
+        "Ginger",
+        "Ginko Biloba",
+        "Goldenrod",
+        "Gotu Kola",
+        "Grindelia",
+        "Horehound",
+        "Horsechestnut",
+        "Hyssop",
+        "Iris",
+        "Lavender",
+        "Lemon Balm",
+        "Linden",
+        "Lobelia",
+        "Marshmallow",
+        "Motherwort",
+        "Mullein",
+        "Nettle",
+        "Oats",
+        "Oregano",
+        "Parsley Root",
+        "Passion Flower",
+        "Plantain",
+        "Poke",
+        "Red Clover",
+        "Rosemary",
+        "Sage",
+        "Shepard's Purse",
+        "Skullcap",
+        "Spilanthes",
+        "St. John's Wort",
+        "Thyme",
+        "Tulsi",
+        "Turmeric",
+        "Valerian",
+        "Valerian Root Fresh",
+        "Vitex",
+        "Wormwood",
+        "Yarrow",
+        "Yaupon",
+        "Yellow Dock"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/pacific-foods/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.pacificbotanicals.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-paesanol",
+      "brand": "Pacific Foods",
+      "aliases": [
+        "Pacific Foods"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Condensed Tomato Soup",
+        "Creamy Tomato Soup",
+        "Low Sodium Creamy Tomato Soup",
+        "Spicy Garden Tomato Soup"
+      ],
+      "matchTerms": [
+        "Condensed Tomato Soup",
+        "Creamy Tomato Soup",
+        "Low Sodium Creamy Tomato Soup",
+        "Spicy Garden Tomato Soup"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/paesanol/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.pacificfoods.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-patagonia",
+      "brand": "Paesanol",
+      "aliases": [
+        "Paesanol"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Extra Virgin Olive Oil"
+      ],
+      "matchTerms": [
+        "Extra Virgin Olive Oil"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/patagonia/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {}
+    },
+    {
+      "id": "regenerative-organic-patagonia-provisions-2",
+      "brand": "Patagonia",
+      "aliases": [
+        "Patagonia"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Baby Dancing Dawn T-Shirt",
+        "Baby Fitz Roy Flurries T-Shirt",
+        "Baby Fitz Roy Skies T-Shirt",
+        "Baby Graphic T-Shirt",
+        "Baby Long-Sleeved Fitz Roy Flurries T-Shirt",
+        "Baby Long-Sleeved Graphic T-Shirt",
+        "Baby Ringer T-Shirt",
+        "Baby Sunset Fun T-Shirt - Haleiwa",
+        "Baby Sunset Fun T-Shirt - Honolulu",
+        "Daily Crewneck Sweatshirt",
+        "Daily Hoody Sweatshirt",
+        "Kids' '73 Skyline T-Shirt",
+        "Kids' Graphic T-Shirt",
+        "Kids' Island Logo T-Shirt - Hawaii",
+        "Kids' Long-Sleeved Graphic T-Shirt",
+        "Kids' Long-Sleeved P-6 Logo T-Shirt",
+        "Kids' Long-Sleeved Skyline Stencil T-Shirt",
+        "Kids' P-6 Logo T-Shirt",
+        "Kids' Pocket T-Shirt",
+        "Kids' Skyline Stencil T-Shirt",
+        "Men's Daily Quilted Jacket",
+        "Men's Daily Snap-T® Pullover",
+        "Men's Daily Sweatpants",
+        "Men's Daily Sweatshorts",
+        "Men's Heritage Stand Up® Shorts - 5\"",
+        "Men's Heritage Stand Up® Shorts - 7\"",
+        "Men's Long-Sleeved Daily Henley",
+        "Men's Point Reyes Canvas Gi Pants",
+        "Men's Point Reyes Canvas Jacket",
+        "Men's Point Reyes Canvas Shirt",
+        "Men's Straight Fit Jeans - Regular",
+        "Men's Straight Fit Jeans - Short",
+        "Men's Venga Rock Pants - Regular",
+        "Men's Venga Rock Pants - Short",
+        "Men's Venga Rock Shorts",
+        "Range Earflap Cap",
+        "Women's Caliza Rock Pants - Regular",
+        "Women's Caliza Rock Pants - Short",
+        "Women's Cotton Essential Hoody",
+        "Women's Cotton Essential Pants",
+        "Women's Cotton Essential Shorts",
+        "Women's Cotton Essential Top",
+        "Women's Cotton Tank",
+        "Women's Cotton Tee",
+        "Women's Daily Snap-T® Pullover",
+        "Women's Long-Sleeved Cotton Tee",
+        "Women's Point Reyes Canvas Coat",
+        "Women's Point Reyes Canvas Overalls",
+        "Women's Point Reyes Canvas Skirt",
+        "Women's Point Reyes Canvas Wide-Leg Pants"
+      ],
+      "matchTerms": [
+        "Baby Dancing Dawn T-Shirt",
+        "Baby Fitz Roy Flurries T-Shirt",
+        "Baby Fitz Roy Skies T-Shirt",
+        "Baby Graphic T-Shirt",
+        "Baby Long-Sleeved Fitz Roy Flurries T-Shirt",
+        "Baby Long-Sleeved Graphic T-Shirt",
+        "Baby Ringer T-Shirt",
+        "Baby Sunset Fun T-Shirt - Haleiwa",
+        "Baby Sunset Fun T-Shirt - Honolulu",
+        "Daily Crewneck Sweatshirt",
+        "Daily Hoody Sweatshirt",
+        "Kids' '73 Skyline T-Shirt",
+        "Kids' Graphic T-Shirt",
+        "Kids' Island Logo T-Shirt - Hawaii",
+        "Kids' Long-Sleeved Graphic T-Shirt",
+        "Kids' Long-Sleeved P-6 Logo T-Shirt",
+        "Kids' Long-Sleeved Skyline Stencil T-Shirt",
+        "Kids' P-6 Logo T-Shirt",
+        "Kids' Pocket T-Shirt",
+        "Kids' Skyline Stencil T-Shirt",
+        "Men's Daily Quilted Jacket",
+        "Men's Daily Snap-T® Pullover",
+        "Men's Daily Sweatpants",
+        "Men's Daily Sweatshorts",
+        "Men's Heritage Stand Up® Shorts - 5\"",
+        "Men's Heritage Stand Up® Shorts - 7\"",
+        "Men's Long-Sleeved Daily Henley",
+        "Men's Point Reyes Canvas Gi Pants",
+        "Men's Point Reyes Canvas Jacket",
+        "Men's Point Reyes Canvas Shirt",
+        "Men's Straight Fit Jeans - Regular",
+        "Men's Straight Fit Jeans - Short",
+        "Men's Venga Rock Pants - Regular",
+        "Men's Venga Rock Pants - Short",
+        "Men's Venga Rock Shorts",
+        "Range Earflap Cap",
+        "Women's Caliza Rock Pants - Regular",
+        "Women's Caliza Rock Pants - Short",
+        "Women's Cotton Essential Hoody",
+        "Women's Cotton Essential Pants",
+        "Women's Cotton Essential Shorts",
+        "Women's Cotton Essential Top",
+        "Women's Cotton Tank",
+        "Women's Cotton Tee",
+        "Women's Daily Snap-T® Pullover",
+        "Women's Long-Sleeved Cotton Tee",
+        "Women's Point Reyes Canvas Coat",
+        "Women's Point Reyes Canvas Overalls",
+        "Women's Point Reyes Canvas Skirt",
+        "Women's Point Reyes Canvas Wide-Leg Pants"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/patagonia-provisions-2/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.patagonia.com/home"
+      }
+    },
+    {
+      "id": "regenerative-organic-patagonia-provisions-japan",
+      "brand": "Patagonia Provisions",
+      "aliases": [
+        "Patagonia Provisions"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Chile Mango",
+        "Fusilli",
+        "IPA X Aslan Brewing Company",
+        "IPA X Deschutes Brewery",
+        "Kernza Lager X Allagash Brewing Co.",
+        "Kernza Lager X Arizona Wilderness Brewing Co.",
+        "Kernza Lager X Aslan Brewing Co.",
+        "Kernza Lager X Bang Brewing",
+        "Kernza Lager X Deschutes Brewery",
+        "Kernza Lager X Hopworks Urban Brewery",
+        "Kernza Lager X Maui Brewing Co.",
+        "Kernza Lager X Odell Brewing Co.",
+        "Kernza Lager X Rhinegeist Brewery",
+        "Kernza Lager X Russian River Brewing Company",
+        "Kernza Lager X Sierra Neveda Brewing",
+        "Kernza Lager X Topa Topa",
+        "Multiseed Cracker",
+        "Non-Alcoholic Kernza Golden Brew",
+        "Penne",
+        "Rosemary Garlic Crackers",
+        "Shells",
+        "Sourdough Sea Salt Crackers",
+        "Toasted Cheeze (Vegan Cheddar Cheeze) Crackers"
+      ],
+      "matchTerms": [
+        "Chile Mango",
+        "Fusilli",
+        "IPA X Aslan Brewing Company",
+        "IPA X Deschutes Brewery",
+        "Kernza Lager X Allagash Brewing Co.",
+        "Kernza Lager X Arizona Wilderness Brewing Co.",
+        "Kernza Lager X Aslan Brewing Co.",
+        "Kernza Lager X Bang Brewing",
+        "Kernza Lager X Deschutes Brewery",
+        "Kernza Lager X Hopworks Urban Brewery",
+        "Kernza Lager X Maui Brewing Co.",
+        "Kernza Lager X Odell Brewing Co.",
+        "Kernza Lager X Rhinegeist Brewery",
+        "Kernza Lager X Russian River Brewing Company",
+        "Kernza Lager X Sierra Neveda Brewing",
+        "Kernza Lager X Topa Topa",
+        "Multiseed Cracker",
+        "Non-Alcoholic Kernza Golden Brew",
+        "Penne",
+        "Rosemary Garlic Crackers",
+        "Shells",
+        "Sourdough Sea Salt Crackers",
+        "Toasted Cheeze (Vegan Cheddar Cheeze) Crackers"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/patagonia-provisions-japan/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.patagoniaprovisions.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-peak-state",
+      "brand": "Patagonia Provisions Japan",
+      "aliases": [
+        "Patagonia Provisions Japan"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Yamamori 2025"
+      ],
+      "matchTerms": [
+        "Yamamori 2025"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/peak-state/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.patagonia.jp/home/"
+      }
+    },
+    {
+      "id": "regenerative-organic-permanent-agriculture",
+      "brand": "Peak State",
+      "aliases": [
+        "Peak State"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Immunity Boost Medium Roast",
+        "Stress Less Dark Roast"
+      ],
+      "matchTerms": [
+        "Immunity Boost Medium Roast",
+        "Stress Less Dark Roast"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/permanent-agriculture/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://peakstatecoffee.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-persea",
+      "brand": "Permanent Agriculture",
+      "aliases": [
+        "Permanent Agriculture"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Blueberries",
+        "Zucchini"
+      ],
+      "matchTerms": [
+        "Blueberries",
+        "Zucchini"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/persea/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.permanent.ag/"
+      }
+    },
+    {
+      "id": "regenerative-organic-peter-paul-philippine-corporation",
+      "brand": "Persea",
+      "aliases": [
+        "Persea"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Olive Oil"
+      ],
+      "matchTerms": [
+        "Olive Oil"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/peter-paul-philippine-corporation/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.perseaitalia.it/"
+      }
+    },
+    {
+      "id": "regenerative-organic-philosopher-foods",
+      "brand": "Peter Paul Philippine Corporation",
+      "aliases": [
+        "Peter Paul Philippine Corporation"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Coconut Butter Concentrate or Creamed Coconut Concentrate",
+        "Coconut Butter or Creamed Coconut",
+        "Coconut Flour/Coconut Fiber",
+        "Desiccated Coconut (extra fine, macaroon, medium, mill run, shred, flake, chip, thick chip, thick long chip, thin slice, thick slice, niblet, rice cut)",
+        "RBD Coconut Oil",
+        "Toasted Sweetened Coconut Butter or Creamed Coconut",
+        "Toasted Sweetened Desiccated Coconut",
+        "Toasted Unsweetened Coconut Butter or Creamed Coconut",
+        "Toasted Unsweetened Desiccated Coconut",
+        "Virgin Coconut Oil"
+      ],
+      "matchTerms": [
+        "Coconut Butter Concentrate or Creamed Coconut Concentrate",
+        "Coconut Butter or Creamed Coconut",
+        "Coconut Flour/Coconut Fiber",
+        "Desiccated Coconut (extra fine, macaroon, medium, mill run, shred, flake, chip, thick chip, thick long chip, thin slice, thick slice, niblet, rice cut)",
+        "RBD Coconut Oil",
+        "Toasted Sweetened Coconut Butter or Creamed Coconut",
+        "Toasted Sweetened Desiccated Coconut",
+        "Toasted Unsweetened Coconut Butter or Creamed Coconut",
+        "Toasted Unsweetened Desiccated Coconut",
+        "Virgin Coconut Oil"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/philosopher-foods/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.peterpaul.com.ph"
+      }
+    },
+    {
+      "id": "regenerative-organic-prana",
+      "brand": "Philosopher Foods",
+      "aliases": [
+        "Philosopher Foods"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Creamy Alchemy Sprouted Almond Butter",
+        "Creamy Raw Almond Butter",
+        "Crunchy Alchemy Sprouted Almond Butter",
+        "Gut Nuts - Fermented Almonds",
+        "Naked Creamy Sprouted Almond Butter",
+        "Naked Crunchy Sprouted Almond Butter"
+      ],
+      "matchTerms": [
+        "Creamy Alchemy Sprouted Almond Butter",
+        "Creamy Raw Almond Butter",
+        "Crunchy Alchemy Sprouted Almond Butter",
+        "Gut Nuts - Fermented Almonds",
+        "Naked Creamy Sprouted Almond Butter",
+        "Naked Crunchy Sprouted Almond Butter"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/prana/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://philosopherfoods.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-pronatec-ag",
+      "brand": "prAna",
+      "aliases": [
+        "prAna"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Contendr Rib Crew",
+        "Everyday Awake SS Tee",
+        "Everyday Craft SS Tee",
+        "Everyday Crop Tank",
+        "Everyday Crop Tee",
+        "Everyday Graphic Crop Tee",
+        "Everyday Graphic LS Tee",
+        "Everyday Graphic Oversized Tee",
+        "Everyday Long Sleeve Tee",
+        "Everyday LS Tee",
+        "Everyday Offering SS Tee",
+        "Everyday Peaks SS Tee",
+        "Everyday Practioners SS Tee",
+        "Everyday Racerback Tank",
+        "Everyday Selection SS Tee",
+        "Everyday Sessions SS Tee",
+        "Everyday Short Sleeve Tee",
+        "Everyday Signals SS Tee",
+        "Everyday Slogan SS Tee",
+        "Everyday SS Tee",
+        "Everyday Stacks SS Tee",
+        "Everyday Storybook SS Tee",
+        "Everyday Tank",
+        "Everyday Tripper SS Tee",
+        "Everyday Vintage-Washed LS Tee",
+        "Everyday Vintage-Washed SS Tee",
+        "Everyday Vintage-Washed Tank",
+        "Everyday VW Graphic Crop tee",
+        "Everyday VW Graphic Tank",
+        "Everyday Wandering SS Tee",
+        "Forest Hill Hoodie",
+        "Forest Hill Sweater",
+        "Men's Sweaters - North Loop Hooded Sweater",
+        "Men's Sweaters - North Loop Sweater",
+        "Men's Sweaters - Ronnie Crew II",
+        "Men's Sweaters - Ronnie Crew ll",
+        "Men's Sweaters - Ronnie Henley II",
+        "Men's Sweaters - Ronnie Henley ll",
+        "Milani Maxi Dress",
+        "Milani Polo",
+        "Milani V-Neck",
+        "Outdoor Optimist Tee",
+        "Paxton Striped SS Tee",
+        "Women's Sweaters - Milani Crew Neck",
+        "Women's Sweaters - Milani Henley",
+        "Women's Sweaters - Milani V-Neck Dress",
+        "Women's Sweaters- Milani Crew Neck",
+        "Women's Sweaters- Milani V-Neck Dress"
+      ],
+      "matchTerms": [
+        "Contendr Rib Crew",
+        "Everyday Awake SS Tee",
+        "Everyday Craft SS Tee",
+        "Everyday Crop Tank",
+        "Everyday Crop Tee",
+        "Everyday Graphic Crop Tee",
+        "Everyday Graphic LS Tee",
+        "Everyday Graphic Oversized Tee",
+        "Everyday Long Sleeve Tee",
+        "Everyday LS Tee",
+        "Everyday Offering SS Tee",
+        "Everyday Peaks SS Tee",
+        "Everyday Practioners SS Tee",
+        "Everyday Racerback Tank",
+        "Everyday Selection SS Tee",
+        "Everyday Sessions SS Tee",
+        "Everyday Short Sleeve Tee",
+        "Everyday Signals SS Tee",
+        "Everyday Slogan SS Tee",
+        "Everyday SS Tee",
+        "Everyday Stacks SS Tee",
+        "Everyday Storybook SS Tee",
+        "Everyday Tank",
+        "Everyday Tripper SS Tee",
+        "Everyday Vintage-Washed LS Tee",
+        "Everyday Vintage-Washed SS Tee",
+        "Everyday Vintage-Washed Tank",
+        "Everyday VW Graphic Crop tee",
+        "Everyday VW Graphic Tank",
+        "Everyday Wandering SS Tee",
+        "Forest Hill Hoodie",
+        "Forest Hill Sweater",
+        "Men's Sweaters - North Loop Hooded Sweater",
+        "Men's Sweaters - North Loop Sweater",
+        "Men's Sweaters - Ronnie Crew II",
+        "Men's Sweaters - Ronnie Crew ll",
+        "Men's Sweaters - Ronnie Henley II",
+        "Men's Sweaters - Ronnie Henley ll",
+        "Milani Maxi Dress",
+        "Milani Polo",
+        "Milani V-Neck",
+        "Outdoor Optimist Tee",
+        "Paxton Striped SS Tee",
+        "Women's Sweaters - Milani Crew Neck",
+        "Women's Sweaters - Milani Henley",
+        "Women's Sweaters - Milani V-Neck Dress",
+        "Women's Sweaters- Milani Crew Neck",
+        "Women's Sweaters- Milani V-Neck Dress"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/pronatec-ag/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.prana.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-purely-elizabeth",
+      "brand": "Pronatec AG",
+      "aliases": [
+        "Pronatec AG"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Cacoa Nibs",
+        "Cocoa Butter",
+        "Cocoa Liquor",
+        "Cocoa Powder",
+        "Raw Cane Sugar"
+      ],
+      "matchTerms": [
+        "Cacoa Nibs",
+        "Cocoa Butter",
+        "Cocoa Liquor",
+        "Cocoa Powder",
+        "Raw Cane Sugar"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/purely-elizabeth/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.pronatec.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-qualita-do-brasil",
+      "brand": "Purely Elizabeth",
+      "aliases": [
+        "Purely Elizabeth"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Granola Ancient Grain - Original",
+        "Granola Vanilla Nut Butter"
+      ],
+      "matchTerms": [
+        "Granola Ancient Grain - Original",
+        "Granola Vanilla Nut Butter"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/qualita-do-brasil/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://purelyelizabeth.com"
+      }
+    },
+    {
+      "id": "regenerative-organic-radici",
+      "brand": "Qualitá do Brasil",
+      "aliases": [
+        "Qualitá do Brasil"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Erva-mate | Yerba Mate"
+      ],
+      "matchTerms": [
+        "Erva-mate | Yerba Mate"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/radici/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://qualitabrasil.com/"
+      }
+    },
+    {
+      "id": "regenerative-organic-recoup",
+      "brand": "RADICI",
+      "aliases": [
+        "RADICI"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Extra Virgin Olive Oil",
+        "Fusilli",
+        "Maccheroncini",
+        "Penne Rigate",
+        "Spaghetti",
+        "Strozza Preti",
+        "Tubetti Rigati"
+      ],
+      "matchTerms": [
+        "Extra Virgin Olive Oil",
+        "Fusilli",
+        "Maccheroncini",
+        "Penne Rigate",
+        "Spaghetti",
+        "Strozza Preti",
+        "Tubetti Rigati"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/recoup/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.radici.se"
+      }
+    },
+    {
+      "id": "regenerative-organic-red-river-foods",
+      "brand": "Recoup",
+      "aliases": [
+        "Recoup"
+      ],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": [
+        "Lemon, Lime + Ginger",
+        "Pineapple, Passion Fruit + Ginger",
+        "Watermelon, Blood Orange + Ginger"
+      ],
+      "matchTerms": [
+        "Lemon, Lime + Ginger",
+        "Pineapple, Passion Fruit + Ginger",
+        "Watermelon, Blood Orange + Ginger"
+      ],
+      "certificationName": "Regenerative Organic Certified",
+      "scopeNote": "Only products explicitly listed in the Regenerative Organic Alliance directory are in scope; other products from the brand are not implied to be certified.",
+      "sourceUrl": "https://regenorganic.org/product-directory/",
+      "officialProfileUrl": "https://regenorganic.org/roc_brands_products/red-river-foods/",
+      "verifiedAt": "2026-08-05",
+      "confidence": 0.93,
+      "companyFacts": {
+        "company_website": "https://www.recoupwellness.com"
+      }
+    }
+  ]
+}

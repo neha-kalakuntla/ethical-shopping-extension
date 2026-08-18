@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "kind": "certification_directory",
+  "capturedAt": "2026-08-03",
+  "source": {
+    "id": "b_lab_find_a_b_corp",
+    "label": "B Lab Find a B Corp",
+    "issuer": "B Lab",
+    "sourceType": "official_directory",
+    "certificationName": "Certified B Corporation",
+    "defaultScope": "company",
+    "homepageUrl": "https://www.bcorporation.net/en-us/find-a-b-corp/",
+    "dimensions": ["labor", "environment", "transparency"],
+    "defaultConfidence": 0.92,
+    "refreshIntervalHours": 168,
+    "accessMethod": "reviewed_official_directory_snapshot",
+    "attribution": "B Lab Global",
+    "gradingEligible": true,
+    "recordIdPrefix": "bcorp"
+  },
+  "records": [
+    {
+      "brand": "Patagonia",
+      "aliases": ["Patagonia", "Patagonia Inc", "Patagonia, Inc.", "Patagonia Provisions"],
+      "status": "listed active",
+      "scopeNote": "Company-level certification; it does not certify every individual product.",
+      "confidence": 0.92,
+      "certifiedSince": "December 2011",
+      "score": 166.0,
+      "sourceUrl": "https://www.bcorporation.net/en-us/find-a-b-corp/company/patagonia-inc/",
+      "officialProfileUrl": "https://www.bcorporation.net/en-us/find-a-b-corp/company/patagonia-inc/",
+      "verifiedAt": "2026-08-03"
+    },
+    {
+      "brand": "Seventh Generation",
+      "aliases": ["Seventh Generation", "SeventhGeneration"],
+      "status": "listed active",
+      "scopeNote": "Company-level certification; it does not certify every individual product.",
+      "confidence": 0.92,
+      "certifiedSince": "May 2007",
+      "score": 100.6,
+      "sourceUrl": "https://www.bcorporation.net/en-us/find-a-b-corp/company/seventh-generation/",
+      "officialProfileUrl": "https://www.bcorporation.net/en-us/find-a-b-corp/company/seventh-generation/",
+      "verifiedAt": "2026-08-03"
+    },
+    {
+      "brand": "Grove Collaborative",
+      "aliases": ["Grove Collaborative", "Grove Co.", "Grove Co", "Grove Collaborative Inc"],
+      "status": "listed active",
+      "scopeNote": "Company-level certification; it does not certify every individual product.",
+      "confidence": 0.92,
+      "certifiedSince": "June 2014",
+      "score": 100.9,
+      "sourceUrl": "https://www.bcorporation.net/find-a-b-corp/company/grove-collaborative/",
+      "officialProfileUrl": "https://www.bcorporation.net/find-a-b-corp/company/grove-collaborative/",
+      "verifiedAt": "2026-08-03"
+    }
+  ]
+}

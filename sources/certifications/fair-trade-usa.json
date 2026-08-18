@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "certification_directory",
+  "capturedAt": "2026-08-03",
+  "source": {
+    "id": "fair_trade_usa_product_guides",
+    "certificationName": "Fair Trade Certified",
+    "defaultScope": "product",
+    "recordIdPrefix": "fair-trade-usa"
+  },
+  "records": [
+    {
+      "brand": "Numi Organic Tea",
+      "aliases": ["Numi", "Numi Organic Tea"],
+      "status": "listed certified",
+      "scope": "product",
+      "productNames": ["Citrus Green Iced Tea"],
+      "matchTerms": ["Citrus Green Iced Tea"],
+      "availableIn": ["United States"],
+      "scopeNote": "The Fair Trade USA guide identifies this specific Numi tea product; the evidence does not apply to every Numi product.",
+      "sourceUrl": "https://www.fairtradecertified.org/blog/fair-trade-tea-a-shoppers-guide-to-ethical-sipping/",
+      "verifiedAt": "2026-08-03",
+      "confidence": 0.86
+    }
+  ]
+}
