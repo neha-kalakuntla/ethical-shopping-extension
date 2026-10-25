@@ -59,8 +59,42 @@
 .eg-popover .eg-section li.eg-grade-row strong { font-size: 12px; }
 .eg-popover .eg-section li.eg-grade-row em { margin-left: auto; color: #65726b; font-style: normal; text-align: right; }
 .eg-popover .eg-section li.eg-coverage-row { color: #65726b; background: #fff; border: 1px solid #d9e2dc; font-size: 11px; text-align: center; }
-.eg-sources, .eg-facts { margin-top: 10px; padding-top: 9px; border-top: 1px solid #d9e2dc; }
-.eg-sources summary, .eg-facts summary { color: #65726b; font-size: 11px; font-weight: 900; text-transform: uppercase; cursor: pointer; }
+.eg-calculation, .eg-sources, .eg-facts { margin-top: 10px; padding-top: 9px; border-top: 1px solid #d9e2dc; }
+.eg-calculation summary, .eg-sources summary, .eg-facts summary { color: #65726b; font-size: 11px; font-weight: 900; text-transform: uppercase; cursor: pointer; }
+.eg-calculation-list { display: grid; gap: 5px; margin-top: 8px; }
+.eg-calculation-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 8px; padding: 7px 8px; background: #f8faf8; border: 1px solid #e6eee8; border-radius: 8px; }
+.eg-calculation-row strong, .eg-calculation-row small { display: block; }
+.eg-calculation-row strong { font-size: 11px; }
+.eg-calculation-row small { margin-top: 2px; color: #65726b; font-size: 10px; }
+.eg-calculation-row > b { color: #28523d; font-size: 11px; }
+.eg-calculation-adjustments { display: grid; gap: 4px; margin-top: 7px; }
+.eg-calculation-adjustment { display: flex; justify-content: space-between; gap: 8px; color: #65726b; font-size: 10px; }
+.eg-calculation-adjustment b { color: #425249; }
+.eg-calculation p { margin: 7px 0 0; color: #65726b; font-size: 10px; line-height: 1.4; }
+.eg-calculation > small { display: block; margin-top: 4px; color: #819088; font-size: 9px; }
+.eg-environmental-estimate { margin-top: 10px; padding: 9px; border: 1px solid #cfe3d5; border-radius: 9px; background: #f4faf5; }
+.eg-environmental-estimate > strong { display: block; color: #28523d; font-size: 10px; text-transform: uppercase; }
+.eg-environmental-estimate > p { margin: 5px 0 0; color: #1d4431; font-size: 12px; font-weight: 900; }
+.eg-environmental-estimate > div { display: flex; justify-content: space-between; gap: 8px; margin-top: 6px; font-size: 11px; }
+.eg-environmental-estimate > div span { color: #52645a; text-align: right; }
+.eg-environmental-estimate > div span small { margin-top: 1px; color: #7a877f; font-size: 8px; font-weight: 600; }
+.eg-environmental-estimate small { display: block; margin-top: 5px; font-size: 9px; line-height: 1.35; }
+.eg-environmental-estimate small { color: #65726b; }
+.eg-environmental-estimate > div a { color: #28523d; font-size: 11px; font-weight: 800; }
+.eg-environmental-estimate .eg-environmental-compare { display: block; margin-top: 9px; padding-top: 8px; border-top: 1px solid #d7e7dc; }
+.eg-environmental-compare label { display: grid; gap: 4px; color: #52645a; font-size: 9px; font-weight: 800; text-transform: uppercase; }
+.eg-environmental-compare select { width: 100%; padding: 6px; border: 1px solid #c8d8cd; border-radius: 6px; background: #fff; color: #24372c; font-size: 10px; }
+.eg-environmental-comparison-output { display: grid; gap: 4px; margin-top: 6px; }
+.eg-environmental-comparison-output > p { margin: 0 0 2px; color: #28523d; font-size: 10px; font-weight: 800; }
+.eg-environmental-comparison-output > div { display: flex; justify-content: space-between; gap: 8px; padding: 5px 0; border-bottom: 1px solid #e1ebe4; font-size: 10px; }
+.eg-environmental-comparison-output > div span { text-align: right; }
+.eg-environmental-comparison-output > div span strong, .eg-environmental-comparison-output > div span small { display: block; }
+.eg-environmental-comparison-output > div span small { margin-top: 1px; }
+.eg-environmental-provenance { display: grid !important; justify-content: stretch !important; gap: 4px !important; margin-top: 8px !important; padding-top: 7px; border-top: 1px solid #d7e7dc; color: #52645a; }
+.eg-environmental-provenance > b { color: #28523d; font-size: 9px; text-transform: uppercase; }
+.eg-environmental-provenance > div { display: grid; gap: 2px; }
+.eg-environmental-provenance > div a { color: #28523d; font-size: 9px; font-weight: 800; }
+.eg-environmental-provenance > div span, .eg-environmental-provenance > small { margin: 0; color: #65726b; font-size: 8px; line-height: 1.35; }
 .eg-source-list { display: grid; gap: 6px; margin-top: 8px; }
 .eg-source-row { display: grid; grid-template-columns: 88px minmax(0, 1fr); gap: 8px; padding: 7px 8px; background: #f8faf8; border: 1px solid #e6eee8; border-radius: 8px; font-size: 11px; line-height: 1.35; }
 .eg-source-row div { min-width: 0; }

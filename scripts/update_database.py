@@ -8,6 +8,7 @@ import hashlib
 import json
 import re
 import sqlite3
+import statistics
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -64,6 +65,7 @@ def initialize(db: sqlite3.Connection) -> None:
     db.execute("INSERT OR IGNORE INTO schema_migrations(version, applied_at) VALUES (2, ?)", (now(),))
     db.execute("INSERT OR IGNORE INTO schema_migrations(version, applied_at) VALUES (3, ?)", (now(),))
     db.execute("INSERT OR IGNORE INTO schema_migrations(version, applied_at) VALUES (4, ?)", (now(),))
+    db.execute("INSERT OR IGNORE INTO schema_migrations(version, applied_at) VALUES (5, ?)", (now(),))
     db.commit()
 
 
@@ -97,6 +99,23 @@ def validate_snapshot(snapshot: dict, path: Path) -> None:
         for record in snapshot.get("records", []):
             if not str(record.get("code", "")).isdigit():
                 raise ValueError(f"{path}: food product requires a numeric barcode")
+        return
+    if snapshot.get("kind") == "environmental_measurements":
+        allowed_scopes = {"exact_product", "product_variant", "category_estimate", "ingredient_estimate"}
+        for index, record in enumerate(snapshot.get("records", [])):
+            missing = [field for field in ("productName", "metric", "value", "unit", "functionalUnit", "measurementScope", "lifecycleBoundary", "methodology", "sourceUrl") if record.get(field) in (None, "")]
+            if missing:
+                raise ValueError(f"{path}: environmental record {index} missing {', '.join(missing)}")
+            if record["measurementScope"] not in allowed_scopes:
+                raise ValueError(f"{path}: environmental record {index} has unsupported measurementScope {record['measurementScope']}")
+            try:
+                value = float(record["value"])
+                lower = float(record["lowerBound"]) if record.get("lowerBound") is not None else None
+                upper = float(record["upperBound"]) if record.get("upperBound") is not None else None
+            except (TypeError, ValueError) as error:
+                raise ValueError(f"{path}: environmental record {index} has a non-numeric value or bound") from error
+            if lower is not None and lower > value or upper is not None and upper < value:
+                raise ValueError(f"{path}: environmental record {index} bounds do not contain the value")
         return
     for index, record in enumerate(snapshot.get("records", [])):
         missing = [field for field in ("brand", "status", "sourceUrl") if not record.get(field)]
@@ -287,6 +306,63 @@ def ingest_food_snapshot(db, path):
     return seen, changed
 
 
+def ingest_environmental_snapshot(db, path):
+    raw = path.read_text()
+    snapshot = json.loads(raw)
+    source = source_metadata(snapshot["source"])
+    run_id, next_refresh = upsert_source(db, source, snapshot["capturedAt"])
+    seen = changed = 0
+    for record in snapshot.get("records", []):
+        seen += 1
+        gtin = re.sub(r"\D", "", str(record.get("gtin", "")))
+        entity_id = record.get("entityId") or (f"gtin:{gtin}" if gtin else f"product:{slug(record.get('brand', 'unknown'))}:{slug(record['productName'])}")
+        record_raw = json.dumps(record, sort_keys=True, separators=(",", ":"), ensure_ascii=False)
+        digest = hashlib.sha256(record_raw.encode()).hexdigest()
+        external_id = record.get("externalId") or f"{entity_id}:{slug(record['metric'])}:{digest[:12]}"
+        before = db.total_changes
+        db.execute("""INSERT OR IGNORE INTO source_documents(source_id,external_id,source_url,captured_at,content_hash,raw_content)
+            VALUES(?,?,?,?,?,?)""", (source["id"], external_id, record["sourceUrl"], snapshot["capturedAt"], digest, record_raw))
+        doc_id = db.execute("SELECT id FROM source_documents WHERE source_id=? AND external_id=? AND content_hash=?", (source["id"], external_id, digest)).fetchone()["id"]
+        stamp = now()
+        db.execute("""INSERT INTO entities(id,entity_type,canonical_name,created_at,updated_at) VALUES(?,?,?,?,?)
+            ON CONFLICT(id) DO UPDATE SET canonical_name=excluded.canonical_name,updated_at=excluded.updated_at""",
+            (entity_id, "product", record["productName"], stamp, stamp))
+        if gtin:
+            db.execute("INSERT OR REPLACE INTO entity_identifiers(entity_id,scheme,value,source_document_id) VALUES(?,?,?,?)", (entity_id, "gtin", gtin, doc_id))
+        for alias in dict.fromkeys([record["productName"], record.get("brand")]):
+            if alias:
+                db.execute("INSERT OR REPLACE INTO entity_aliases(entity_id,alias,normalized_alias,source_document_id) VALUES(?,?,?,?)", (entity_id, alias, normalized(alias), doc_id))
+        scope = record["measurementScope"]
+        confidence = float(record.get("confidence", source.get("defaultConfidence", 0.5)))
+        grade_eligible = bool(source.get("gradingEligible", False) and record.get("gradingEligible", True) and scope in {"exact_product", "product_variant"})
+        db.execute("""INSERT OR IGNORE INTO environmental_measurements(entity_id,metric,value,unit,functional_unit,measurement_scope,
+            lifecycle_boundary,geography,methodology,lower_bound,upper_bound,confidence,grade_eligible,valid_from,valid_until,
+            source_document_id,observed_at) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
+            (entity_id, record["metric"], float(record["value"]), record["unit"], record["functionalUnit"], scope,
+             record["lifecycleBoundary"], record.get("geography"), record["methodology"], record.get("lowerBound"), record.get("upperBound"),
+             confidence, int(grade_eligible), record.get("validFrom"), record.get("validUntil"), doc_id, record.get("observedAt", snapshot["capturedAt"])))
+        chunk = " ".join(filter(None, [
+            record["productName"],
+            f"Environmental metric: {record['metric']} {record['value']} {record['unit']} per {record['functionalUnit']}.",
+            f"Measurement scope: {scope}.",
+            f"Lifecycle boundary: {record['lifecycleBoundary']}.",
+            f"Geography: {record.get('geography')}." if record.get("geography") else "",
+            f"Methodology: {record['methodology']}.",
+        ]))
+        chunk_hash = hashlib.sha256(chunk.encode()).hexdigest()
+        db.execute("""INSERT OR IGNORE INTO knowledge_chunks(entity_id,source_document_id,chunk_index,content,metadata_json,content_hash)
+            VALUES(?,?,?,?,?,?)""", (entity_id, doc_id, 0, chunk, json.dumps({
+                "kind": "environmental_measurement", "metric": record["metric"], "measurement_scope": scope,
+                "grade_eligible": grade_eligible, "source_url": record["sourceUrl"],
+            }, sort_keys=True), chunk_hash))
+        changed += int(db.total_changes > before)
+    finished = now()
+    db.execute("UPDATE ingestion_runs SET finished_at=?,status='succeeded',records_seen=?,records_changed=? WHERE id=?", (finished, seen, changed, run_id))
+    db.execute("UPDATE sources SET last_success_at=?,next_refresh_at=? WHERE id=?", (finished, next_refresh, source["id"]))
+    db.commit()
+    return seen, changed
+
+
 def export_cache(db: sqlite3.Connection, path: Path) -> int:
     rows = db.execute("""SELECT e.id,e.canonical_name,a.alias,c.*,s.id AS certification_source_id FROM entities e
         LEFT JOIN entity_aliases a ON a.entity_id=e.id JOIN certifications c ON c.entity_id=e.id
@@ -330,6 +406,57 @@ def export_products(db, path):
             item["facts"][row["predicate"]] = json.loads(row["value_json"])
     path.write_text(json.dumps({"schemaVersion": 1, "updatedAt": now()[:10], "products": list(products.values())}, indent=2, ensure_ascii=False) + "\n")
     return len(products)
+
+
+def export_environmental_index(db, path):
+    rows = db.execute("""SELECT e.canonical_name,m.metric,m.value,m.unit,m.functional_unit,m.measurement_scope,
+        m.lifecycle_boundary,m.geography,m.confidence,m.grade_eligible,d.source_url,d.source_id
+        FROM environmental_measurements m JOIN entities e ON e.id=m.entity_id
+        JOIN source_documents d ON d.id=m.source_document_id
+        ORDER BY e.canonical_name,m.metric,m.value""").fetchall()
+    records = [[
+        row["canonical_name"], row["metric"], row["value"], row["unit"], row["functional_unit"],
+        row["measurement_scope"], row["lifecycle_boundary"], row["geography"], row["confidence"],
+        int(row["grade_eligible"]), row["source_url"], row["source_id"]
+    ] for row in rows]
+    source_ids = sorted({row["source_id"] for row in rows})
+    providers = {}
+    if source_ids:
+        placeholders = ",".join("?" for _ in source_ids)
+        source_rows = db.execute(f"""SELECT id,label,issuer,homepage_url,license_url,attribution
+            FROM sources WHERE id IN ({placeholders}) ORDER BY id""", source_ids).fetchall()
+        providers = {
+            row["id"]: {
+                "label": row["label"], "issuer": row["issuer"], "homepageUrl": row["homepage_url"],
+                "licenseUrl": row["license_url"], "attribution": row["attribution"],
+            }
+            for row in source_rows
+        }
+    metric_values = {}
+    for row in rows:
+        metric_values.setdefault(row["metric"], []).append(float(row["value"]))
+    benchmarks = {
+        metric: {
+            "median": statistics.median(values),
+            "minimum": min(values),
+            "maximum": max(values),
+            "categoryCount": len(values),
+            "functionalUnit": next(row["functional_unit"] for row in rows if row["metric"] == metric),
+            "unit": next(row["unit"] for row in rows if row["metric"] == metric),
+        }
+        for metric, values in metric_values.items()
+    }
+    payload = {
+        "schemaVersion": 1,
+        "updatedAt": now()[:10],
+        "description": "Informational environmental measurements. Category estimates are not product measurements and do not affect grades.",
+        "fields": ["category", "metric", "value", "unit", "functionalUnit", "measurementScope", "lifecycleBoundary", "geography", "confidence", "gradeEligible", "sourceUrl", "sourceId"],
+        "providers": providers,
+        "benchmarks": benchmarks,
+        "records": records,
+    }
+    path.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n")
+    return len(records)
 
 
 def export_lookup_index(db, path):
@@ -398,21 +525,22 @@ def main() -> None:
             for path in sorted(args.sources.rglob("*.json")):
                 snapshot = json.loads(path.read_text())
                 validate_snapshot(snapshot, path)
-                if snapshot.get("kind") != "open_food_facts_product":
+                if snapshot.get("kind") not in {"open_food_facts_product", "environmental_measurements"}:
                     source = source_metadata(snapshot["source"])
                     ids = imported_ids.setdefault(source["id"], set())
                     for record in snapshot.get("records", []):
                         entity_id = record.get("id") or f"{source.get('recordIdPrefix', source['id'])}-{slug(record['brand'])}"
                         ids.add(f"{entity_id}:{slug(record.get('certificationName', source['certificationName']))}")
-                handler = ingest_food_snapshot if snapshot.get("kind") == "open_food_facts_product" else ingest_snapshot
+                handler = ingest_food_snapshot if snapshot.get("kind") == "open_food_facts_product" else ingest_environmental_snapshot if snapshot.get("kind") == "environmental_measurements" else ingest_snapshot
                 a, b = handler(db, path); total += a; changed += b
             reconcile_certifications(db, imported_ids)
             exported = export_cache(db, args.cache)
             export_lookup_index(db, args.cache.with_name("certification-index.json"))
             products = export_products(db, args.cache.with_name("products.json"))
-            print(f"updated database: {total} records read, {changed} processed, {exported} certifications and {products} products exported")
+            environmental = export_environmental_index(db, args.cache.with_name("environmental-index.json"))
+            print(f"updated database: {total} records read, {changed} processed, {exported} certifications, {products} products, and {environmental} environmental measurements exported")
         elif args.command == "stats":
-            for table in ("sources", "source_documents", "entities", "certifications", "facts", "product_claims", "knowledge_chunks"):
+            for table in ("sources", "source_documents", "entities", "certifications", "facts", "environmental_measurements", "product_claims", "knowledge_chunks"):
                 print(f"{table}: {db.execute(f'SELECT count(*) FROM {table}').fetchone()[0]}")
 
 

@@ -3,6 +3,15 @@
 
   const STORAGE_KEY = "ethicalGradeProfile";
   const EVIDENCE_SCHEMA_VERSION = 1;
+  const GRADING_MODEL_VERSION = 1;
+  const GRADE_BANDS = [
+    [97, "A+"], [93, "A"], [90, "A-"], [87, "B+"], [83, "B"], [80, "B-"],
+    [77, "C+"], [73, "C"], [70, "C-"], [67, "D+"], [63, "D"], [60, "D-"]
+  ];
+  const DEALBREAKER_EFFECTS = { warningPenalty: 4, capMaximum: 76, avoidScore: 0 };
+  const ENVIRONMENT_PROCESSING_TERMS = new Set(["bar", "biscuit", "biscuits", "bread", "cake", "candy", "cereal", "chips", "cookie", "cookies", "flavor", "flavored", "flavour", "flavoured", "jam", "juice", "meal", "mix", "pie", "pizza", "powder", "sauce", "smoothie", "snack", "soup", "spread", "supplement", "syrup", "treat", "treats"]);
+  const ENVIRONMENT_SIMPLE_MODIFIERS = new Set(["conventional", "fresh", "frozen", "natural", "organic", "raw", "whole", "large", "medium", "small", "red", "green", "yellow", "bunch"]);
+  const ENVIRONMENT_VARIETY_CATEGORIES = new Set(["Apples", "Bananas", "Berries & Grapes", "Brassicas", "Citrus Fruit", "Onions & Leeks", "Other Fruit", "Other Vegetables", "Peas", "Potatoes", "Root Vegetables", "Tomatoes"]);
   const CATEGORY_DEFINITIONS = [
     ["labor", "Labor and human rights", "Worker treatment, pay, safety, forced or child labor risk"],
     ["animals", "Animal welfare", "Animal products, animal testing, treatment, and cruelty-free signals"],
@@ -21,6 +30,142 @@
     ["blocked_terms", "Blocked brands or terms", "Flags comma-separated words you don't want to support.", "cap"],
     ["max_price", "Above-average price", "Flags products priced above the average for their product category.", "warning"]
   ];
+
+  function environmentalNormalize(value) {
+    return String(value || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim().replace(/\s+/g, " ");
+  }
+  function environmentalSingular(word) {
+    if (word.endsWith("ies") && word.length > 4) return `${word.slice(0, -3)}y`;
+    if (word.endsWith("oes") && word.length > 4) return word.slice(0, -2);
+    if (word.endsWith("s") && !word.endsWith("ss") && word.length > 3) return word.slice(0, -1);
+    return word;
+  }
+  function environmentalAliases(names) {
+    names = [...new Set(names)];
+    const baseCounts = {};
+    names.forEach((name) => {
+      const base = environmentalNormalize(String(name).replace(/\([^)]*\)/g, ""));
+      baseCounts[base] = (baseCounts[base] || 0) + 1;
+    });
+    return names.map((name) => {
+      const canonical = environmentalNormalize(name);
+      const base = environmentalNormalize(String(name).replace(/\([^)]*\)/g, ""));
+      const values = new Set([canonical]);
+      if (base && baseCounts[base] === 1 && !base.startsWith("other ")) values.add(base);
+      if (base.includes(" and ") && !base.startsWith("other ")) base.split(" and ").filter(Boolean).forEach((part) => values.add(part.trim()));
+      [...values].forEach((value) => values.add(value.split(" ").map(environmentalSingular).join(" ")));
+      return { name, values };
+    });
+  }
+  function expandEnvironmentalRecord(record, fields) {
+    if (!Array.isArray(record)) return record;
+    return Object.fromEntries((fields || []).map((field, index) => [field, record[index]]));
+  }
+  function matchEnvironmentalCategory(product, database) {
+    const fields = database && database.fields;
+    const records = database && Array.isArray(database.records) ? database.records.map((record) => expandEnvironmentalRecord(record, fields)) : [];
+    if (!records.length) return null;
+    const aliases = environmentalAliases(records.map((record) => record.category));
+    const structured = String(product && product.category || "").split(/[>\/]/).map(environmentalNormalize).filter(Boolean);
+    const structuredMatches = aliases.filter((item) => structured.some((category) => item.values.has(category)));
+    let matchedName = "";
+    let matchEvidence = "";
+    let matchConfidence = 0;
+    if (structuredMatches.length === 1) {
+      matchedName = structuredMatches[0].name;
+      matchEvidence = "structured product category";
+      matchConfidence = 0.92;
+    } else if (structuredMatches.length > 1) {
+      return null;
+    } else {
+      let title = environmentalNormalize(product && product.title);
+      title = title.replace(/\b\d+(?:\.\d+)?\s*(?:oz|ounce|ounces|g|kg|lb|lbs|pound|pounds|count|ct)\b/g, " ").replace(/\s+/g, " ").trim();
+      const tokens = title.split(" ").filter(Boolean);
+      if (!tokens.length || tokens.some((token) => ENVIRONMENT_PROCESSING_TERMS.has(token))) return null;
+      const candidate = tokens.filter((token) => !ENVIRONMENT_SIMPLE_MODIFIERS.has(token) && !/^\d+$/.test(token)).join(" ");
+      let titleMatches = aliases.filter((item) => item.values.has(candidate));
+      // Fresh produce commonly prefixes a cultivar (for example, Honeycrisp
+      // Apple). Permit one cultivar token only for reviewed produce categories.
+      if (!titleMatches.length) titleMatches = aliases.filter((item) => ENVIRONMENT_VARIETY_CATEGORIES.has(item.name)
+        && [...item.values].some((alias) => candidate.endsWith(` ${alias}`) && candidate.split(" ").length === alias.split(" ").length + 1));
+      if (titleMatches.length !== 1) return null;
+      matchedName = titleMatches[0].name;
+      matchEvidence = "simple product title";
+      matchConfidence = 0.88;
+    }
+    const measurements = records.filter((record) => record.category === matchedName);
+    if (!measurements.length) return null;
+    const contextualMeasurements = measurements.map((measurement) => {
+      const benchmark = database.benchmarks && database.benchmarks[measurement.metric];
+      const median = Number(benchmark && benchmark.median);
+      const value = Number(measurement.value);
+      let medianComparison = null;
+      if (Number.isFinite(value) && Number.isFinite(median) && median > 0) {
+        const percentDifference = Math.round(Math.abs(value - median) / median * 100);
+        medianComparison = {
+          direction: percentDifference <= 2 ? "similar" : value < median ? "below" : "above",
+          percentDifference,
+          median,
+          categoryCount: Number(benchmark.categoryCount) || null,
+          label: "included food-category median"
+        };
+      }
+      return { ...measurement, medianComparison };
+    });
+    return {
+      category: matchedName,
+      matchEvidence,
+      matchConfidence,
+      measurements: contextualMeasurements,
+      measurementScope: "category_estimate",
+      informationalOnly: true,
+      gradeEligible: false
+    };
+  }
+  function environmentalCategoryNames(database) {
+    const fields = database && database.fields;
+    const records = database && Array.isArray(database.records) ? database.records : [];
+    return [...new Set(records.map((record) => expandEnvironmentalRecord(record, fields).category).filter(Boolean))].sort((a, b) => a.localeCompare(b));
+  }
+  function compareEnvironmentalCategories(leftCategory, rightCategory, database) {
+    const fields = database && database.fields;
+    const records = database && Array.isArray(database.records) ? database.records.map((record) => expandEnvironmentalRecord(record, fields)) : [];
+    const left = records.filter((record) => record.category === leftCategory);
+    const right = records.filter((record) => record.category === rightCategory);
+    if (!left.length || !right.length || leftCategory === rightCategory) return null;
+    const comparisons = [];
+    left.forEach((leftMeasurement) => {
+      const rightMeasurement = right.find((candidate) => candidate.metric === leftMeasurement.metric
+        && candidate.unit === leftMeasurement.unit
+        && candidate.functionalUnit === leftMeasurement.functionalUnit
+        && candidate.lifecycleBoundary === leftMeasurement.lifecycleBoundary);
+      if (!rightMeasurement) return;
+      const leftValue = Number(leftMeasurement.value);
+      const rightValue = Number(rightMeasurement.value);
+      if (!Number.isFinite(leftValue) || !Number.isFinite(rightValue)) return;
+      const difference = leftValue - rightValue;
+      const percentDifference = rightValue === 0 ? null : Math.round(Math.abs(difference) / rightValue * 100);
+      comparisons.push({
+        metric: leftMeasurement.metric,
+        unit: leftMeasurement.unit,
+        functionalUnit: leftMeasurement.functionalUnit,
+        lifecycleBoundary: leftMeasurement.lifecycleBoundary,
+        leftValue,
+        rightValue,
+        direction: difference === 0 ? "same" : difference < 0 ? "lower" : "higher",
+        percentDifference,
+        sourceUrl: leftMeasurement.sourceUrl || rightMeasurement.sourceUrl || ""
+      });
+    });
+    if (!comparisons.length) return null;
+    return {
+      leftCategory,
+      rightCategory,
+      comparisons,
+      informationalOnly: true,
+      gradeEligible: false
+    };
+  }
   const PRESETS = [
     { id: "balanced", label: "Balanced", summary: "A practical mix of environment, labor, animal welfare, health, and price.", strictness: "balanced", missingDataPenalty: "medium", weights: { environment: 25, labor: 20, animals: 20, health: 20, price: 15 }, dealbreakers: {} },
     { id: "ethical", label: "Ethical shopper", summary: "Centers labor, animal welfare, environment, and trustworthy certifications.", strictness: "strict", missingDataPenalty: "strong", weights: { labor: 35, animals: 25, environment: 25, transparency: 15 }, dealbreakers: { animal_testing: "warning" } },
@@ -939,7 +1084,11 @@
   }
   function termHit(product, terms) {
     for (const field of sourceFields(product)) {
-      const match = terms.find((term) => field.lower.includes(term));
+      const normalizedField = ` ${field.lower.replace(/[^a-z0-9]+/g, " ").trim().replace(/\s+/g, " ")} `;
+      const match = terms.find((term) => {
+        const normalizedTerm = String(term || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim().replace(/\s+/g, " ");
+        return normalizedTerm && normalizedField.includes(` ${normalizedTerm} `);
+      });
       if (match) return { match, source: field.source };
     }
     return null;
@@ -1044,7 +1193,7 @@
       const verifiedBetter = fieldMatch(product, /(certified humane|humane farm animal care|animal welfare approved|certified grassfed by agw|vegan trademark|vegan society|peta animal test-free(?: and vegan)?|peta[- ]approved vegan|aquaculture stewardship council|asc[- ]certified)/, ["verified certifications"]);
       const productFit = fieldMatch(product, /(vegan|plant-based|plant based)/, ["ingredients", "product bullets", "title", "page text"]);
       const better = verifiedBetter || productFit;
-      const concern = fieldMatch(product, /(leather|wool|silk|milk|dairy|egg|beef|pork|chicken|fish|honey|gelatin)/, ["ingredients", "allergens", "title", "product bullets", "category", "page text"]);
+      const concern = fieldMatch(product, /\b(leather|wool|silk|milk|dairy|egg|beef|pork|chicken|fish|honey|gelatin)\b/, ["ingredients", "allergens", "title", "product bullets", "category", "page text"]);
       const testingConcern = adverseListing(product, "animal_testing");
       if (better) add("positive", "Clearer animal welfare fit", 18, better.source, better.match);
       const verifiedFiber = fieldMatch(product, /(responsible (?:wool|down|mohair|alpaca) standard|r(?:w|d|m|a)s[- ]certified|zq merino|zq[- ]certified)/, ["verified certifications"]);
@@ -1092,19 +1241,8 @@
   }
 
   function scoreToGrade(score) {
-    if (score >= 97) return "A+";
-    if (score >= 93) return "A";
-    if (score >= 90) return "A-";
-    if (score >= 87) return "B+";
-    if (score >= 83) return "B";
-    if (score >= 80) return "B-";
-    if (score >= 77) return "C+";
-    if (score >= 73) return "C";
-    if (score >= 70) return "C-";
-    if (score >= 67) return "D+";
-    if (score >= 63) return "D";
-    if (score >= 60) return "D-";
-    return "F";
+    const band = GRADE_BANDS.find(([minimum]) => score >= minimum);
+    return band ? band[1] : "F";
   }
   function toneForGrade(grade) {
     if (grade === "N/A") return "neutral";
@@ -1134,12 +1272,23 @@
     const coverage = clamp(Math.round((availableWeight / totalWeight) * 100), 0, 100);
     const minimumCoverage = minimumCoverageFor(profile.missingDataPenalty);
     const strict = strictnessAdjustment(profile.strictness);
-    let score = availableWeight ? availableResults.reduce((sum, item) => sum + item.score * (item.weight / availableWeight), 0) + strict - warningCount * 4 : null;
-    if (score !== null && capCount) score = Math.min(score, 76);
+    const contributions = availableResults.map((item) => ({
+      id: item.id,
+      label: item.label,
+      score: item.score,
+      configuredWeight: item.weight,
+      normalizedWeight: availableWeight ? item.weight / availableWeight : 0,
+      points: availableWeight ? item.score * (item.weight / availableWeight) : 0
+    }));
+    const weightedEvidenceScore = availableWeight ? contributions.reduce((sum, item) => sum + item.points, 0) : null;
+    const warningPenalty = warningCount * DEALBREAKER_EFFECTS.warningPenalty;
+    let score = weightedEvidenceScore === null ? null : weightedEvidenceScore + strict - warningPenalty;
+    if (score !== null && capCount) score = Math.min(score, DEALBREAKER_EFFECTS.capMaximum);
     if (score !== null) score = clamp(Math.round(score), 0, 100);
+    const scoreBeforeCoverage = score;
     let grade = score !== null && coverage >= minimumCoverage ? scoreToGrade(score) : "N/A";
     if (grade === "N/A") score = null;
-    if (avoidCount) { grade = "Avoid"; score = 0; }
+    if (avoidCount) { grade = "Avoid"; score = DEALBREAKER_EFFECTS.avoidScore; }
     const evidenceConfidences = sourceEvidence.filter((item) => item.searchable).map((item) => Number(item.confidence)).filter(Number.isFinite);
     const averageEvidenceConfidence = evidenceConfidences.length ? evidenceConfidences.reduce((sum, value) => sum + value, 0) / evidenceConfidences.length : 0;
     const confidenceScore = clamp(Math.round(coverage * 0.7 + averageEvidenceConfidence * 100 * 0.3 - violations.length * 3), 5, 98);
@@ -1153,12 +1302,32 @@
     };
     const positives = evidence.positive.slice(0, 3).map(displayEvidence);
     const negatives = evidence.watch.concat(evidence.missing).slice(0, 4).map(displayEvidence);
-    return { grade, score, tone: toneForGrade(grade), confidence, confidenceScore, coverage, minimumCoverage, status, provisional: status === "provisional", positives: positives.length ? positives : ["No sourced positive evidence yet"], negatives: negatives.length ? negatives : ["No sourced concerns found"], evidence, sourceEvidence, categoryResults, violations };
+    const calculation = {
+      modelVersion: GRADING_MODEL_VERSION,
+      totalConfiguredWeight: totalWeight,
+      availableWeight,
+      coverage,
+      minimumCoverage,
+      contributions,
+      weightedEvidenceScore,
+      strictnessAdjustment: strict,
+      warningPenalty,
+      capApplied: capCount > 0,
+      capMaximum: capCount ? DEALBREAKER_EFFECTS.capMaximum : null,
+      avoidApplied: avoidCount > 0,
+      scoreBeforeCoverage,
+      finalScore: score,
+      finalGrade: grade
+    };
+    return { grade, score, tone: toneForGrade(grade), confidence, confidenceScore, coverage, minimumCoverage, status, provisional: status === "provisional", positives: positives.length ? positives : ["No sourced positive evidence yet"], negatives: negatives.length ? negatives : ["No sourced concerns found"], evidence, sourceEvidence, categoryResults, violations, calculation };
   }
 
   root.EthicalGrade = {
     STORAGE_KEY,
     EVIDENCE_SCHEMA_VERSION,
+    GRADING_MODEL_VERSION,
+    GRADE_BANDS: clone(GRADE_BANDS),
+    DEALBREAKER_EFFECTS: clone(DEALBREAKER_EFFECTS),
     FACT_PROVIDERS: providerMetadata(),
     PRESETS: clone(PRESETS),
     SAMPLE_PRODUCTS: clone(SAMPLE_PRODUCTS),
@@ -1176,6 +1345,9 @@
     productFromOpenFoodFacts,
     extractAmazonFoodFacts,
     extractPageClaims,
+    matchEnvironmentalCategory,
+    environmentalCategoryNames,
+    compareEnvironmentalCategories,
     oekoLabelNumbersFromText,
     oekoCertificationFromHtml,
     veganSocietyCertificationFromHtml,
@@ -1187,6 +1359,7 @@
     energyStarModelCandidates,
     energyStarCertificationFromPayload,
     gradeProduct,
+    scoreToGrade,
     toneForGrade
   };
 })(typeof globalThis !== "undefined" ? globalThis : window);

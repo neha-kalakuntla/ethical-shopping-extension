@@ -855,6 +855,36 @@
       "defaultConfidence": 0.91,
       "gradingEligible": false,
       "automationStatus": "registered_product_label_verification_pending"
+    },
+    {
+      "id": "owid_poore_nemecek_food_impacts",
+      "label": "OWID Environmental Impacts of Food per Kilogram",
+      "issuer": "Our World in Data; source study by Poore and Nemecek",
+      "sourceType": "research_dataset_representation",
+      "dimensions": ["environment"],
+      "accessMethod": "public_csv",
+      "homepageUrl": "https://ourworldindata.org/grapher/ghg-per-kg-poore",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Poore and Nemecek (2018), processed by Our World in Data",
+      "refreshIntervalHours": 8760,
+      "defaultConfidence": 0.8,
+      "gradingEligible": false,
+      "automationStatus": "active_category_estimates_informational_only"
+    },
+    {
+      "id": "environmental_measurement_manual_research",
+      "label": "Reviewed Environmental Measurement Research",
+      "issuer": "Ethical Grade research workflow",
+      "sourceType": "reviewed_environmental_measurement",
+      "dimensions": ["environment"],
+      "accessMethod": "manual_review_with_primary_source_url",
+      "homepageUrl": null,
+      "licenseUrl": null,
+      "attribution": "Original measurement source retained per record",
+      "refreshIntervalHours": 8760,
+      "defaultConfidence": 0.7,
+      "gradingEligible": false,
+      "automationStatus": "schema_ready_no_production_records"
     }
   ]
 }

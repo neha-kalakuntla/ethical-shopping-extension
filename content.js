@@ -1,12 +1,14 @@
 (function contentScript() {
   "use strict";
 
-  const { STORAGE_KEY, mergeProfile, gradeProduct, findCertificationMatches, resolveProductByIdentifiers, attachFoodProduct } = EthicalGrade;
+  const { STORAGE_KEY, mergeProfile, gradeProduct, findCertificationMatches, resolveProductByIdentifiers, attachFoodProduct, matchEnvironmentalCategory, environmentalCategoryNames, compareEnvironmentalCategories } = EthicalGrade;
   let profile = null;
   let certificationDatabase = null;
   let certificationDatabaseLoaded = false;
   let productDatabase = null;
   let productDatabaseLoaded = false;
+  let environmentalDatabase = null;
+  let environmentalDatabaseLoaded = false;
   const liveLookupState = Object.create(null);
   const liveOekoCertifications = Object.create(null);
   const liveVeganSocietyCertifications = Object.create(null);
@@ -53,6 +55,21 @@
     productDatabase = { products: [] };
     productDatabaseLoaded = true;
     return Promise.resolve(productDatabase);
+  }
+  function loadEnvironmentalDatabase() {
+    if (environmentalDatabaseLoaded) return Promise.resolve(environmentalDatabase);
+    return fetch(chrome.runtime.getURL("data/environmental-index.json"))
+      .then((response) => response.ok ? response.json() : null)
+      .then((data) => {
+        environmentalDatabase = data && Array.isArray(data.records) ? data : null;
+        environmentalDatabaseLoaded = true;
+        return environmentalDatabase;
+      })
+      .catch(() => {
+        environmentalDatabase = null;
+        environmentalDatabaseLoaded = true;
+        return null;
+      });
   }
   function cleanText(value) { return String(value || "").replace(/\s+/g, " ").trim(); }
   function extractAsin(value) {
@@ -471,6 +488,7 @@
     if (pageType === "detail") persistPageClaims(product);
     const resolution = typeof resolveProductByIdentifiers === "function" ? resolveProductByIdentifiers(identifiers, productDatabase) : null;
     product.identityResolution = resolution;
+    product.environmentalEstimate = typeof matchEnvironmentalCategory === "function" ? matchEnvironmentalCategory(product, environmentalDatabase) : null;
     if (pageType === "detail" && resolution && resolution.status === "not_found") requestLiveFoodProduct(identifiers);
     return typeof attachFoodProduct === "function" ? attachFoodProduct(product, resolution) : product;
   }
@@ -544,6 +562,82 @@
     const visibleRows = isSearchCard ? rows.filter(([label, value]) => ["ASIN", "Page", "Title", "Price", "Card text"].includes(label) || hasFact(value)) : rows;
     return visibleRows.map(([label, value]) => `<div class="eg-fact-row"><strong>${escapeHtml(label)}</strong><span>${escapeHtml(shortFact(value))}</span></div>`).join("");
   }
+  function calculationRows(result) {
+    const calculation = result && result.calculation;
+    if (!calculation) return "";
+    const contributions = (calculation.contributions || []).map((item) => {
+      const share = Math.round(Number(item.normalizedWeight || 0) * 100);
+      const points = Number(item.points || 0).toFixed(1);
+      return `<div class="eg-calculation-row"><div><strong>${escapeHtml(item.label || item.id)}</strong><small>${escapeHtml(`${item.score}/100 × ${share}% of available evidence`)}</small></div><b>${escapeHtml(points)}</b></div>`;
+    }).join("");
+    const adjustments = [];
+    if (calculation.strictnessAdjustment) adjustments.push(["Strictness", calculation.strictnessAdjustment]);
+    if (calculation.warningPenalty) adjustments.push(["Warnings", -calculation.warningPenalty]);
+    if (calculation.capApplied) adjustments.push(["Dealbreaker cap", `maximum ${calculation.capMaximum}`]);
+    if (calculation.avoidApplied) adjustments.push(["Avoid rule", "grade overridden"]);
+    const adjustmentRows = adjustments.map(([label, value]) => `<div class="eg-calculation-adjustment"><span>${escapeHtml(label)}</span><b>${escapeHtml(typeof value === "number" && value > 0 ? `+${value}` : value)}</b></div>`).join("");
+    const coverageMessage = result.grade === "N/A"
+      ? `Score withheld: ${calculation.coverage}% evidence coverage is below the ${calculation.minimumCoverage}% requirement.`
+      : `${calculation.coverage}% of your enabled category weight has usable evidence; ${calculation.minimumCoverage}% is required.`;
+    return `<details class="eg-calculation"><summary>Why this grade?</summary><div class="eg-calculation-list">${contributions || `<div class="eg-source-empty">No scored categories</div>`}</div>${adjustmentRows ? `<div class="eg-calculation-adjustments">${adjustmentRows}</div>` : ""}<p>${escapeHtml(coverageMessage)}</p><small>Grading model v${escapeHtml(calculation.modelVersion)}</small></details>`;
+  }
+  function environmentalEstimateRows(product) {
+    const estimate = product && product.environmentalEstimate;
+    const measurements = estimate && Array.isArray(estimate.measurements) ? estimate.measurements : [];
+    if (!estimate || !measurements.length) return "";
+    const display = {
+      climate_change: ["Climate", "kg CO₂e"],
+      land_use: ["Land use", "m²-year"],
+      freshwater_use: ["Freshwater", "liters"],
+      eutrophication: ["Eutrophication", "g PO₄e"]
+    };
+    const rows = measurements.filter((item) => display[item.metric]).map((item) => {
+      const value = Number(item.value);
+      const displayValue = Number.isFinite(value) ? value.toLocaleString(undefined, { maximumFractionDigits: 2 }) : item.value;
+      const label = escapeHtml(display[item.metric][0]);
+      const linkedLabel = item.sourceUrl ? `<a href="${escapeHtml(item.sourceUrl)}" target="_blank" rel="noopener noreferrer">${label}</a>` : `<b>${label}</b>`;
+      const comparison = item.medianComparison;
+      const context = comparison
+        ? comparison.direction === "similar"
+          ? `About the median of ${comparison.categoryCount || "the"} included categories`
+          : `${comparison.percentDifference}% ${comparison.direction} the median of ${comparison.categoryCount || "the"} included categories`
+        : "";
+      return `<div>${linkedLabel}<span>${escapeHtml(`${displayValue} ${display[item.metric][1]} per kg`)}${context ? `<small>${escapeHtml(context)}</small>` : ""}</span></div>`;
+    }).join("");
+    if (!rows) return "";
+    const options = typeof environmentalCategoryNames === "function"
+      ? environmentalCategoryNames(environmentalDatabase).filter((category) => category !== estimate.category)
+        .map((category) => `<option value="${escapeHtml(category)}">${escapeHtml(category)}</option>`).join("")
+      : "";
+    const comparison = options ? `<div class="eg-environmental-compare"><label>Compare with<select><option value="">Choose a food category</option>${options}</select></label><div class="eg-environmental-comparison-output"></div></div>` : "";
+    const sourceIds = [...new Set(measurements.map((item) => item.sourceId).filter(Boolean))];
+    const providers = environmentalDatabase && environmentalDatabase.providers || {};
+    const sourceNotes = sourceIds.map((sourceId) => providers[sourceId]).filter(Boolean).map((provider) => {
+      const label = provider.homepageUrl
+        ? `<a href="${escapeHtml(provider.homepageUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(provider.label || provider.issuer || "Environmental dataset")}</a>`
+        : escapeHtml(provider.label || provider.issuer || "Environmental dataset");
+      const attribution = provider.attribution ? `<span>${escapeHtml(provider.attribution)}</span>` : "";
+      const license = provider.licenseUrl ? `<a href="${escapeHtml(provider.licenseUrl)}" target="_blank" rel="noopener noreferrer">License</a>` : "";
+      return `<div>${label}${attribution}${license}</div>`;
+    }).join("");
+    const provenance = sourceNotes ? `<div class="eg-environmental-provenance"><b>Dataset source</b>${sourceNotes}<small>Data index updated ${escapeHtml(environmentalDatabase.updatedAt || "date unavailable")}</small></div>` : "";
+    return `<div class="eg-environmental-estimate"><strong>Environmental estimate · informational</strong><p>${escapeHtml(estimate.category)}</p>${rows}<small>Global category averages compared only with the categories in this dataset · ${escapeHtml(estimate.matchEvidence)} · do not affect this grade. Select a metric to view its source.</small>${provenance}${comparison}</div>`;
+  }
+  function renderEnvironmentalComparison(product, rightCategory) {
+    const estimate = product && product.environmentalEstimate;
+    if (!estimate || !rightCategory || typeof compareEnvironmentalCategories !== "function") return "";
+    const comparison = compareEnvironmentalCategories(estimate.category, rightCategory, environmentalDatabase);
+    if (!comparison) return `<small>These categories do not have compatible measurements.</small>`;
+    const labels = { climate_change: "Climate", land_use: "Land use", freshwater_use: "Freshwater", eutrophication: "Eutrophication" };
+    const units = { kg_co2e: "kg CO₂e", m2_year: "m²-year", l: "liters", g_po4e: "g PO₄e" };
+    const rows = comparison.comparisons.filter((item) => labels[item.metric]).map((item) => {
+      const outcome = item.direction === "same" ? "Same estimate" : item.percentDifference === null ? `${item.direction} impact` : `${item.percentDifference}% ${item.direction}`;
+      const leftValue = Number(item.leftValue).toLocaleString(undefined, { maximumFractionDigits: 2 });
+      const rightValue = Number(item.rightValue).toLocaleString(undefined, { maximumFractionDigits: 2 });
+      return `<div><b>${escapeHtml(labels[item.metric])}</b><span><strong>${escapeHtml(outcome)}</strong><small>${escapeHtml(`${leftValue} vs ${rightValue} ${units[item.unit] || item.unit} per kg`)}</small></span></div>`;
+    }).join("");
+    return `<p>${escapeHtml(`${comparison.leftCategory} compared with ${comparison.rightCategory}`)}</p>${rows}<small>Lower means less measured impact for this indicator. Category averages only; no grade effect.</small>`;
+  }
   function makePopover(product, result) {
     const scoreText = result.score === null ? "No score" : `${result.score}/100`;
     const statusText = result.status === "insufficient_data" ? `Insufficient data · ${result.coverage}% coverage` : result.provisional ? `Provisional · ${result.coverage}% coverage` : `Supported · ${result.coverage}% coverage`;
@@ -554,7 +648,12 @@
     const pop = document.createElement("div");
     pop.className = "eg-popover";
     pop.hidden = true;
-    pop.innerHTML = `<div class="eg-popover-title"><strong>${escapeHtml(product.title)}</strong><span class="eg-confidence">${escapeHtml(result.confidence)} confidence</span></div><div class="eg-section"><span>Grade</span><ul><li class="eg-grade-row"><strong>${escapeHtml(result.grade)}</strong><em>${escapeHtml(scoreText)}</em></li><li class="eg-coverage-row">${escapeHtml(statusText)}</li></ul></div><div class="eg-section"><span>Positive</span><ul>${evidenceList(positives, (result.positives || []).slice(0, 3))}</ul></div><div class="eg-section"><span>Watch</span><ul>${evidenceList(watch, (result.negatives || []).slice(0, 3))}</ul></div>${missing.length ? `<div class="eg-section"><span>Missing</span><ul>${evidenceList(missing, [])}</ul></div>` : ""}<details class="eg-sources"><summary>Sources</summary><div class="eg-source-list">${sourceRows(result)}</div></details><details class="eg-facts"><summary>Facts</summary><div class="eg-fact-grid">${factRows(product)}</div></details>`;
+    pop.innerHTML = `<div class="eg-popover-title"><strong>${escapeHtml(product.title)}</strong><span class="eg-confidence">${escapeHtml(result.confidence)} confidence</span></div><div class="eg-section"><span>Grade</span><ul><li class="eg-grade-row"><strong>${escapeHtml(result.grade)}</strong><em>${escapeHtml(scoreText)}</em></li><li class="eg-coverage-row">${escapeHtml(statusText)}</li></ul></div><div class="eg-section"><span>Positive</span><ul>${evidenceList(positives, (result.positives || []).slice(0, 3))}</ul></div><div class="eg-section"><span>Watch</span><ul>${evidenceList(watch, (result.negatives || []).slice(0, 3))}</ul></div>${missing.length ? `<div class="eg-section"><span>Missing</span><ul>${evidenceList(missing, [])}</ul></div>` : ""}${environmentalEstimateRows(product)}${calculationRows(result)}<details class="eg-sources"><summary>Sources</summary><div class="eg-source-list">${sourceRows(result)}</div></details><details class="eg-facts"><summary>Facts</summary><div class="eg-fact-grid">${factRows(product)}</div></details>`;
+    const comparisonSelect = pop.querySelector(".eg-environmental-compare select");
+    if (comparisonSelect) comparisonSelect.addEventListener("change", () => {
+      const output = pop.querySelector(".eg-environmental-comparison-output");
+      if (output) output.innerHTML = renderEnvironmentalComparison(product, comparisonSelect.value);
+    });
     return pop;
   }
   function positionBadge(badge, image) {
@@ -1791,5 +1890,5 @@
   chrome.storage.onChanged.addListener((changes, area) => {
     if (area === "sync" && changes[STORAGE_KEY]) { profile = mergeProfile(changes[STORAGE_KEY].newValue); scan(); }
   });
-  if (shouldProcessPage()) Promise.all([loadProfile(), loadCertificationDatabase(), loadProductDatabase()]).then(([next]) => { profile = next; scan(); });
+  if (shouldProcessPage()) Promise.all([loadProfile(), loadCertificationDatabase(), loadProductDatabase(), loadEnvironmentalDatabase()]).then(([next]) => { profile = next; scan(); });
 })();

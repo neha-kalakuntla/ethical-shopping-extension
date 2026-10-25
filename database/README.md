@@ -127,3 +127,30 @@ The checked-in Nutella example lives under `tests/fixtures/open-food-facts/`; it
 is not discovered by production database updates.
 
 Set `ETHICAL_GRADE_CONTACT` to a project URL or monitored email before production use so the API request has an identifying `User-Agent`. Targeted lookups use the current v3.6 endpoint and request only the fields the app stores. For catalogs larger than a few hundred products, use Open Food Facts' downloadable data exports rather than looping over this command.
+
+## Environmental measurements
+
+Quantitative environmental values use `environmental_measurements`, not generic text facts. Every record must retain its metric, unit, functional unit, lifecycle boundary, geography, methodology, confidence, source document, and whether it describes an exact product or an estimate.
+
+Supported scopes are `exact_product`, `product_variant`, `category_estimate`, and `ingredient_estimate`. These distinctions are mandatory: an apple-category estimate must never be represented as an exact measurement of every apple product.
+
+The registered manual research workflow is intentionally not grade-eligible. Environmental measurements will remain informational until individual authoritative sources and normalization rules are reviewed. Comparisons are valid only when metric, unit, functional unit, and lifecycle boundary are compatible.
+
+`scripts/compare_environmental_measurements.py` implements that conservative comparison boundary. It converts only explicitly compatible units (for example, grams to kilograms of CO2e or cubic metres to litres), preserves uncertainty ranges and measurement scope, and refuses to compare different functional units or lifecycle boundaries. Its output is always marked informational and grading-ineligible.
+
+The first production snapshot contains global food-category greenhouse-gas averages from Poore and Nemecek (2018), processed by Our World in Data:
+
+```bash
+python3 scripts/fetch_owid_food_emissions.py sources/environmental/owid-poore-nemecek-food-impacts.json
+python3 scripts/update_database.py update
+```
+
+These records describe categories such as apples, bananas, tofu, or beef—not individual brands or products. They include climate change, land use, freshwater withdrawals, and eutrophication in separate units. They are stored as `category_estimate`, use a functional unit of `1 kg food product`, and remain informational rather than grade-eligible.
+
+`scripts/match_environmental_category.py` provides the conservative bridge from a recognized product to these estimates. It accepts exact structured category matches or simple single-food titles, but refuses processed-product wording, ambiguous categories, and matches based only on ingredient text. A successful match still means “use this category estimate for context”; it does not turn the estimate into a measurement of the specific product.
+
+The compact browser export includes a median, minimum, maximum, and category count for each metric. Popup comparisons such as “below the median” refer only to the food categories included in this dataset and share the same functional unit; they are context, not a sustainability threshold or grading rule.
+
+The popup also supports direct category-to-category comparisons. A comparison is emitted only for records with the same metric, unit, functional unit, and lifecycle boundary. Percentage differences always describe the currently viewed category relative to the category selected by the user, and the comparison remains grading-ineligible.
+
+The compact browser export also carries a small provider registry. The popup uses it to show the dataset name, study attribution, index update date, and license next to the estimates, so users can distinguish sourced research context from grade evidence.

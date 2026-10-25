@@ -34,7 +34,7 @@
   "options_page": "options.html",
   "web_accessible_resources": [
     {
-      "resources": ["data/certification-index.json"],
+      "resources": ["data/certification-index.json", "data/environmental-index.json"],
       "matches": ["https://www.amazon.com/*", "https://amazon.com/*"]
     },
     {

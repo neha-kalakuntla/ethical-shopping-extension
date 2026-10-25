@@ -113,6 +113,33 @@ CREATE TABLE IF NOT EXISTS facts (
   UNIQUE(entity_id, predicate, value_json, source_document_id)
 );
 
+CREATE TABLE IF NOT EXISTS environmental_measurements (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  entity_id TEXT NOT NULL REFERENCES entities(id) ON DELETE CASCADE,
+  metric TEXT NOT NULL,
+  value REAL NOT NULL,
+  unit TEXT NOT NULL,
+  functional_unit TEXT NOT NULL,
+  measurement_scope TEXT NOT NULL CHECK (measurement_scope IN ('exact_product', 'product_variant', 'category_estimate', 'ingredient_estimate')),
+  lifecycle_boundary TEXT NOT NULL,
+  geography TEXT,
+  methodology TEXT NOT NULL,
+  lower_bound REAL,
+  upper_bound REAL,
+  confidence REAL NOT NULL CHECK (confidence >= 0 AND confidence <= 1),
+  grade_eligible INTEGER NOT NULL DEFAULT 0 CHECK (grade_eligible IN (0, 1)),
+  valid_from TEXT,
+  valid_until TEXT,
+  source_document_id INTEGER NOT NULL REFERENCES source_documents(id),
+  observed_at TEXT NOT NULL,
+  CHECK (lower_bound IS NULL OR lower_bound <= value),
+  CHECK (upper_bound IS NULL OR upper_bound >= value),
+  UNIQUE(entity_id, metric, value, unit, functional_unit, measurement_scope, lifecycle_boundary, source_document_id)
+);
+
+CREATE INDEX IF NOT EXISTS environmental_measurements_entity ON environmental_measurements(entity_id);
+CREATE INDEX IF NOT EXISTS environmental_measurements_metric ON environmental_measurements(metric, unit, functional_unit);
+
 CREATE TABLE IF NOT EXISTS product_claims (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   entity_id TEXT NOT NULL REFERENCES entities(id) ON DELETE CASCADE,

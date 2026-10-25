@@ -12,6 +12,26 @@ vm.createContext(context);
 vm.runInContext(fs.readFileSync(path.join(root, "shared.js"), "utf8"), context);
 const api = context.EthicalGrade;
 
+assert.strictEqual(api.GRADING_MODEL_VERSION, 1, "grading changes must be explicitly versioned");
+assert.strictEqual(api.scoreToGrade(97), "A+", "97 should begin the A+ band");
+assert.strictEqual(api.scoreToGrade(96), "A", "96 should remain in the A band");
+assert.strictEqual(api.scoreToGrade(60), "D-", "60 should begin the D- band");
+assert.strictEqual(api.scoreToGrade(59), "F", "59 should remain an F");
+
+const auditProfile = api.createProfile("balanced");
+const auditResult = api.gradeProduct({ title: "Local reusable organic product", price: 10, productBullets: ["reusable organic local"] }, auditProfile);
+assert.strictEqual(auditResult.calculation.modelVersion, 1, "grade results should identify their scoring model");
+assert.strictEqual(Math.round(auditResult.calculation.contributions.reduce((sum, item) => sum + item.normalizedWeight, 0) * 100), 100,
+  "available category weights should be renormalized to 100 percent");
+assert.strictEqual(auditResult.calculation.finalGrade, auditResult.grade, "the calculation audit should agree with the displayed grade");
+assert.strictEqual(auditResult.calculation.finalScore, auditResult.score, "the calculation audit should agree with the displayed score");
+
+const insufficientProfile = api.createProfile("climate");
+const insufficientResult = api.gradeProduct({ title: "Product", seller: "Union cooperative" }, insufficientProfile);
+assert.strictEqual(insufficientResult.grade, "N/A", "missing high-weight evidence should fail the coverage threshold instead of being treated as negative evidence");
+assert.strictEqual(insufficientResult.score, null, "an insufficiently supported result should not expose a numeric grade");
+assert(Number.isFinite(insufficientResult.calculation.scoreBeforeCoverage), "the audit should retain the pre-coverage score for explanation");
+
 const explicitBrandDatabase = { records: [["certified-vegan-test", "88 Acres", [], [[
   "vegan_action_certified_products", "certified", "product", "https://vegan.org/certified-products",
   0.92, 1, 1, ["Apple Ginger Crisp Seed + Oat Bar"], ["Apple Ginger Crisp Seed + Oat Bar"], []
@@ -646,5 +666,71 @@ assert(!unverifiedAverageGrade.violations.some((item) => item.id === "max_price"
 const verifiedAverageGrade = api.gradeProduct({ title: "Item", price: 20, categoryAveragePrice: 10, categoryAveragePriceVerified: true }, customRulesProfile);
 assert(verifiedAverageGrade.violations.some((item) => item.id === "max_price"),
   "A price above a verified category average should trigger the price dealbreaker");
+
+const environmentalDatabase = {
+  fields: ["category", "metric", "value", "unit", "functionalUnit", "measurementScope", "lifecycleBoundary", "geography", "confidence", "gradeEligible", "sourceUrl"],
+  benchmarks: {
+    climate_change: { median: 0.86, categoryCount: 38, functionalUnit: "1 kg food product", unit: "kg_co2e" },
+    freshwater_use: { median: 360.2, categoryCount: 38, functionalUnit: "1 kg food product", unit: "l" }
+  },
+  records: [
+    ["Apples", "climate_change", 0.43, "kg_co2e", "1 kg food product", "category_estimate", "full_supply_chain_to_retail", "Global", 0.8, 0, "https://example.test/apples"],
+    ["Apples", "freshwater_use", 180.1, "l", "1 kg food product", "category_estimate", "full_supply_chain_to_retail", "Global", 0.8, 0, "https://example.test/apples-water"],
+    ["Bananas", "climate_change", 0.86, "kg_co2e", "1 kg food product", "category_estimate", "full_supply_chain_to_retail", "Global", 0.8, 0, "https://example.test/bananas"],
+    ["Beef (beef herd)", "climate_change", 99.48, "kg_co2e", "1 kg food product", "category_estimate", "full_supply_chain_to_retail", "Global", 0.8, 0, "https://example.test/beef"],
+    ["Beef (dairy herd)", "climate_change", 33.3, "kg_co2e", "1 kg food product", "category_estimate", "full_supply_chain_to_retail", "Global", 0.8, 0, "https://example.test/beef"]
+  ]
+};
+const appleEstimate = api.matchEnvironmentalCategory({ title: "Fresh organic apples, 3 lb" }, environmentalDatabase);
+assert(appleEstimate && appleEstimate.category === "Apples" && appleEstimate.gradeEligible === false,
+  "A simple whole-food title should receive an informational category estimate");
+assert.strictEqual(appleEstimate.measurements.length, 2,
+  "A category match should retain each environmental metric as a separate measurement");
+assert.strictEqual(appleEstimate.measurements[0].medianComparison.direction, "below",
+  "A measurement should receive context against the compatible dataset median");
+assert.strictEqual(appleEstimate.measurements[0].medianComparison.percentDifference, 50,
+  "Median context should report a reproducible percentage difference");
+const honeycrispEstimate = api.matchEnvironmentalCategory({ title: "Honeycrisp Apple" }, environmentalDatabase);
+assert(honeycrispEstimate && honeycrispEstimate.category === "Apples",
+  "A single produce variety prefix should still match its reviewed category");
+const bananaBunchEstimate = api.matchEnvironmentalCategory({ title: "Banana Bunch (4-5 Count)" }, environmentalDatabase);
+assert(bananaBunchEstimate && bananaBunchEstimate.category === "Bananas",
+  "A fresh produce packaging descriptor must not prevent a reviewed category match");
+assert.strictEqual(api.matchEnvironmentalCategory({ title: "Milk-Bone Spooky Biscuits Halloween Dog Treats" }, environmentalDatabase), null,
+  "A processed pet treat must not inherit a raw-food category estimate");
+assert.strictEqual(api.matchEnvironmentalCategory({ title: "Organic apple cinnamon cereal" }, environmentalDatabase), null,
+  "A processed food must not inherit an ingredient category estimate");
+assert.strictEqual(api.matchEnvironmentalCategory({ title: "Ground beef" }, environmentalDatabase), null,
+  "An ambiguous category must not be guessed");
+const structuredBanana = api.matchEnvironmentalCategory({ title: "Example Farms Fruit", category: "Grocery > Bananas" }, environmentalDatabase);
+assert(structuredBanana && structuredBanana.category === "Bananas" && structuredBanana.matchEvidence === "structured product category",
+  "An exact structured category should support a category estimate");
+assert.strictEqual(api.environmentalCategoryNames(environmentalDatabase).join("|"), "Apples|Bananas|Beef (beef herd)|Beef (dairy herd)",
+  "Environmental comparison choices should be unique and alphabetized");
+const appleBananaComparison = api.compareEnvironmentalCategories("Apples", "Bananas", environmentalDatabase);
+assert(appleBananaComparison && appleBananaComparison.gradeEligible === false,
+  "A direct environmental comparison must remain informational");
+const climateComparison = appleBananaComparison.comparisons.find((item) => item.metric === "climate_change");
+assert(climateComparison && climateComparison.direction === "lower" && climateComparison.percentDifference === 50,
+  "Direct comparison should calculate the current category relative to the selected category");
+assert.strictEqual(api.compareEnvironmentalCategories("Apples", "Apples", environmentalDatabase), null,
+  "A category must not be compared with itself");
+const environmentalGradeProfile = api.createProfile("balanced");
+const gradeWithoutEstimate = api.gradeProduct({ title: "Fresh organic apples" }, environmentalGradeProfile);
+const gradeWithEstimate = api.gradeProduct({ title: "Fresh organic apples", environmentalEstimate: appleEstimate }, environmentalGradeProfile);
+assert.deepStrictEqual(
+  { grade: gradeWithEstimate.grade, score: gradeWithEstimate.score, calculation: gradeWithEstimate.calculation },
+  { grade: gradeWithoutEstimate.grade, score: gradeWithoutEstimate.score, calculation: gradeWithoutEstimate.calculation },
+  "Informational environmental category estimates must not affect grading"
+);
+const honeycrispGrade = api.gradeProduct({ title: "Honeycrisp Apple" }, environmentalGradeProfile);
+assert(!honeycrispGrade.violations.some((item) => item.id === "animal_products"),
+  "Honeycrisp must not trigger the honey animal-product dealbreaker");
+assert(!honeycrispGrade.categoryResults.find((item) => item.id === "animals").evidence.some((item) => item.label === "Animal product detected"),
+  "Honeycrisp must not create an animal-product category penalty");
+const actualHoneyGrade = api.gradeProduct({ title: "Nature Nate's 100% Pure Raw & Unfiltered Honey" }, environmentalGradeProfile);
+const actualHoneyEvidence = actualHoneyGrade.categoryResults.find((item) => item.id === "animals").evidence;
+assert(actualHoneyEvidence.some((item) => item.label === "Animal product detected" && item.match === "honey" && item.source === "title"),
+  "A real honey product must create an animal-product category penalty");
 
 console.log("shared identity, live-product normalization, and dietary precedence checks passed");
