@@ -14,15 +14,6 @@ Ethical Grade is a Manifest V3 Chrome extension that helps shoppers evaluate pro
 - Local SQLite source-of-truth database with compact read-only browser indexes
 - Source links and provenance retained throughout the evidence pipeline
 
-## Install locally
-
-1. Open `chrome://extensions` in Chrome.
-2. Enable **Developer mode**.
-3. Select **Load unpacked**.
-4. Choose this repository's root folder, which contains `manifest.json`.
-
-After changing extension files, select **Reload** on the extension card and refresh any open shopping pages.
-
 ## How grading works
 
 Users can prioritize categories such as labor and human rights, animal welfare, environmental impact, health and nutrition, price, small business, and transparency. Dealbreakers can flag concerns such as animal products, allergens, political alignment, blocked brands or terms, and above-average prices.
@@ -82,3 +73,13 @@ node --check background.js
 ## Current scope
 
 Amazon product and search pages have the most complete automatic grading experience. The image context-menu workflow can be used on other websites, but product identification depends on the quality and visibility of package text or barcodes. Source coverage varies by product category, so results should be treated as decision support rather than a definitive judgment about a product or company.
+
+## Install locally
+
+1. Open `chrome://extensions` in Chrome.
+2. Enable **Developer mode**.
+3. Select **Load unpacked**.
+4. Choose this repository's root folder, which contains `manifest.json`.
+
+After changing extension files, select **Reload** on the extension card and refresh any open shopping pages.
+
